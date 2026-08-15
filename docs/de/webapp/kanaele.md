@@ -43,6 +43,10 @@ Die Kanäle sind nach **Positionen** gruppiert (z. B. „FOH BAR LEFT", „OVERH
 | **Gerät** | Klicken → Gerätebezeichnung eingeben |
 | **Notizen** | Klicken → Freitext eingeben |
 
+::: tip DMX-Adresse wird automatisch normalisiert
+Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Universum/Adresse" gebracht, z. B. wird aus „129" automatisch „1/129" und aus „1/1" wird „1/001". Reine Zahlen über 512 werden dabei als durchlaufende Adresse über mehrere Universen interpretiert (z. B. „515" → „2/003").
+:::
+
 ## Kanal-Status umschalten
 
 Die **Kanalnummer** erscheint in drei Farben:

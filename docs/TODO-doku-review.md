@@ -263,6 +263,19 @@ Verifiziert gegen [server/floorplan.js](LuxStage/server/floorplan.js).
 - [x] **Für das Hintergrundbild gibt es keine Größenbeschränkung und keine Komprimierung** — ✅ erledigt (2026-07-26): in derselben Warnbox ergänzt, inkl. Empfehlung zur Vorbereitung.
 - [x] **Der Grundriss wird als PNG-Momentaufnahme für den PDF-Export gespeichert** — ✅ erledigt (2026-07-26): geprüft (Snapshot entsteht bei jeder Änderung und beim Öffnen im Grundriss-Tab, über `emit('change'/'snapshot')` in `FloorplanEditor.vue`). In `export-pdf.md` (DE+EN) erklärt.
 
+## X. EOS-Import — Merge-Dialog erweitert, Health-Badge-Fix, Import-Modal, DMX-Normalisierung
+
+Stand 2026-08-15. Verifiziert gegen [EosMergePreviewDialog.vue](LuxStage/web-app/src/components/EosMergePreviewDialog.vue), [useShowChannels.ts](LuxStage/web-app/src/composables/useShowChannels.ts), [ImportModal.vue](LuxStage/web-app/src/components/show/ImportModal.vue), [dmxAddress.ts](LuxStage/web-app/src/utils/dmxAddress.ts). Abschnitt S (2026-07-26) ist damit überholt — der Merge-Dialog hat inzwischen deutlich mehr Funktionsumfang als die dort beschriebenen drei Gruppen.
+
+- [x] **Merge-Dialog hat jetzt fünf Gruppen statt drei** — ✅ erledigt: „Adresse weicht ab" und „Gerät weicht ab" in `import-eos.md` (DE+EN) ergänzt, inkl. Pfeil-Toggle-Verhalten und Alle/Keine-Buttons.
+- [x] **„Neu aktiv"-Kanäle sind einzeln vom Import ausschließbar** — ✅ erledigt: Klick-Verhalten, dauerhafte Persistenz über Importe hinweg und Alle/Keine-Buttons in `import-eos.md` (DE+EN) ergänzt.
+- [x] **DMX-Adresse und Gerätebezeichnung werden jetzt aus dem Eos-Export übernommen** — ✅ erledigt: automatische Übernahme bei leerem Feld und Auswahl-Verhalten bei abweichendem Feld in `import-eos.md` (DE+EN) ergänzt.
+- [x] **Moving-Light-Erkennung** — ✅ erledigt: neuer Abschnitt in `import-eos.md` (DE+EN) — Fixtures mit Pan/Tilt erhalten automatisch die Notiz „Moving Light".
+- [x] **Import-Button öffnet jetzt ein Modal statt eines Dropdowns** — ✅ erledigt: `import-eos.md` (DE+EN) auf den neuen Auswahldialog verwiesen.
+- [x] **DMX-Adressfeld wird beim Verlassen automatisch normalisiert** (`normalizeDmxAddress`) — ✅ erledigt: Tipp-Box in `kanaele.md`/`channels.md` (DE+EN) ergänzt, inkl. Beispiel für die Umrechnung über Universumsgrenzen.
+- [ ] **Health-Badge-Fix nicht dokumentationsrelevant** — der Bugfix (Summe → Anzahl unterschiedlicher unvollständiger Kanäle) betraf nur die interne Berechnung, nicht die in `kanaele.md`/`channels.md` beschriebene Nutzersicht („Anzahl der Kanäle mit fehlenden Angaben" war schon vorher korrekt formuliert). Kein Doku-Update nötig.
+- [ ] **Screenshots veraltet** — `eos-export-dialog.png` und `merge-vorschau.png` zeigen vermutlich noch den alten Export-Dialog (fehlende Aktivierung von „Ziele", „Kanäle", „Geräte") bzw. den alten Merge-Dialog (nur drei statt fünf Gruppen). Neue Screenshots nicht automatisiert erstellbar — manuell nachziehen.
+
 ## Priorität (aktualisiert)
 
 0. **N** `installation.md` — die Domain-Angabe im falschen Format lässt die Installation **abbrechen**. Erste Seite, die jeder Self-Hoster liest. Vorgezogen.

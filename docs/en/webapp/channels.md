@@ -43,6 +43,10 @@ Channels are grouped by **positions** (e.g. "FOH BAR LEFT", "OVERHEAD BAR 1", "S
 | **Fixture** | Click → enter fixture name |
 | **Notes** | Click → enter free text |
 
+::: tip DMX address is normalized automatically
+When you leave the address field, the input is automatically formatted as "universe/address" — e.g. "129" becomes "1/129" and "1/1" becomes "1/001". Plain numbers above 512 are treated as a continuous address spanning multiple universes (e.g. "515" → "2/003").
+:::
+
 ## Toggle channel status
 
 The **channel number** appears in three colours:

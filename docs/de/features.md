@@ -91,7 +91,7 @@ Alle Fotos der Produktion werden im PDF-Report eingebettet — vollständige Dok
 ## Import & Export
 
 **EOS-Import**
-CSV-Exporte direkt aus ETC EOS-Pulten importieren. Aktive Kanäle werden automatisch erkannt und übernommen. Du musst nur noch deine Notizen ergänzen.
+CSV-Exporte direkt aus ETC EOS-Pulten importieren. Aktive Kanäle, DMX-Adressen und Gerätebezeichnungen werden automatisch erkannt und übernommen, Moving Lights automatisch als solche notiert. Du musst nur noch deine übrigen Notizen ergänzen.
 
 **CSV-Import**
 Semikolon-getrennte Kanallisten direkt hochladen — z. B. aus Excel oder anderen Systemen.

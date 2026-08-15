@@ -91,7 +91,7 @@ All production photos are embedded in the PDF report — complete documentation 
 ## Import & Export
 
 **EOS import**
-Import CSV exports directly from ETC EOS consoles. Active channels are automatically recognised and imported. You only need to add your notes.
+Import CSV exports directly from ETC EOS consoles. Active channels, DMX addresses and fixture names are automatically recognised and applied, moving lights are automatically labelled as such. You only need to add your remaining notes.
 
 **CSV import**
 Upload semicolon-separated channel lists directly — e.g. from Excel or other systems.
