@@ -51,9 +51,9 @@ Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Univer
 
 Die **Kanalnummer** erscheint in drei Farben:
 
-- **Weiß** – ohne Notiz
-- **Grün** – Notiz vorhanden
-- **Gelb** – in der Show aktiv (z. B. nach EOS-Import), aber die Notiz fehlt noch
+- **Weiß** – ohne Notiz und ohne Einbauort
+- **Grün** – Notiz vorhanden oder einem Einbauort (Beleuchtungsgestell-Slot bzw. Zugstange) zugewiesen
+- **Gelb** – in der Show aktiv (z. B. nach EOS-Import), aber weder Notiz noch Einbauort vorhanden
 
 Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kanaltabelle in der App.
 

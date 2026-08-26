@@ -59,5 +59,5 @@ At the bottom of each rig card, click **"+ Note"** to add a free-text comment.
 The bookmark icon lets you save a rig into the venue template. You can choose to include the base structure (always included), plus channel number, fixture, and colour per slot.
 
 ::: tip Note
-Lighting rigs from the template must be added manually via "Insert" in the edit dialog — unlike bars, which are inherited automatically.
+Lighting rigs from the template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
 :::

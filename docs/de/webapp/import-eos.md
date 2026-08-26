@@ -1,11 +1,11 @@
-# Aus EOS importieren
+# Aus Eos importieren
 
 Importiert Kanaldaten direkt von einem **ETC EOS**-Lichtpult. Dabei werden alle Kanäle, welche im Pult in Stimmungen gespeichert sind, in der Kanaltabelle gelb markiert. Zusätzlich übernimmt der Import — sofern in der Exportdatei vorhanden — DMX-Adresse und Gerätebezeichnung, und erkennt automatisch Moving Lights.
 
 Der EOS-Export muss wie folgt konfiguriert werden:
 
 - Setup → Exportieren → CSV → Speicherort wählen
-- Im Export-Dialog: „Stimmungen", „Werte", „Ziele", „Kanäle" und „Geräte" aktivieren
+- Im Export-Dialog: „Stimmungen", „Werte" und „Patch" aktivieren
 
 ![EOS Export-Dialog](/img/webapp/import-eos/eos-export-dialog.png)
 

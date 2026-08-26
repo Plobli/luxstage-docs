@@ -177,6 +177,6 @@ Ein bereits gespeichertes SMTP-Passwort wird aus Sicherheitsgründen nie angezei
 
 Prüft auf neue Versionen und aktualisiert den Server. Bei Fehler wird der alte Zustand automatisch wiederhergestellt.
 
-1. **Branch** auswählen — die Liste kommt vom Server, vorausgewählt ist immer der erste Eintrag. Die Prüfung auf Updates startet automatisch beim Öffnen des Tabs bzw. bei Branch-Wechsel.
-2. Ist ein Update verfügbar, zeigt die Seite die Anzahl neuer Commits und ein Änderungsprotokoll. Ohne verfügbares Update ist der Button **„Jetzt aktualisieren"** gesperrt.
+1. **Release** auswählen — die Liste kommt von den GitHub-Releases des Projekts, vorausgewählt ist immer der neueste Eintrag. Die Prüfung auf Updates startet automatisch beim Öffnen des Tabs bzw. bei Release-Wechsel.
+2. Ist ein Update verfügbar, zeigt die Seite den Release-Namen und die zugehörigen Release-Notes als Änderungsprotokoll. Ohne verfügbares Update ist der Button **„Jetzt aktualisieren"** gesperrt.
 3. Klick auf **„Jetzt aktualisieren"** startet die Aktualisierung. Ein Fortschrittsbalken und ein mitlaufendes Terminal-Protokoll zeigen den Ablauf live.

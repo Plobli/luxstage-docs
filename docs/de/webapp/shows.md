@@ -4,7 +4,7 @@
 
 Die Startseite zeigt alle vorhandenen Shows als sortierbare Liste. Jede Zeile enthält:
 
-- **Name** – Showname, darunter ggf. der Untertitel, z. B. „Hamlet"
+- **Name** – Showname, z. B. „Hamlet"
 - **Stand** – Vorstellungsdatum, z. B. „30.04.2026"
 - **Spielzeit** – z. B. „25/26" (ab Bildschirmbreite lg sichtbar)
 - **Bearbeitung** – E-Mail-Adresse der letzten bearbeitenden Person
@@ -27,7 +27,6 @@ Shows werden nach Spielort gruppiert angezeigt, mit dem Spielort-Namen als Über
 |------|-------------|
 | **Name** | Titel der Produktion (z. B. „Hamlet") |
 | **Datum** | Vorstellungsdatum (Standard: heutiges Datum) |
-| **Untertitel** | Optionaler Zusatztext |
 | **Spielzeit** | Optional, z. B. „25/26" |
 | **Spielort** | Spielort-Vorlage auswählen oder „Kein Spielort" lassen |
 | **Aufbau-Bereiche** | Beleuchtungsgestelle und/oder Zugstangen aktivieren |
@@ -44,7 +43,7 @@ Einfach auf die gewünschte Show-Zeile klicken. Die Show öffnet sich im **Kanä
 
 ## Show-Metadaten nachträglich ändern
 
-In der geöffneten Show lässt sich der **Showname** direkt anklicken und bearbeiten. Ein Klick auf das **Datum** (bzw. auf „Info", falls noch kein Datum gesetzt ist) neben dem Namen öffnet einen Dialog zum Bearbeiten von Datum, Untertitel und Spielzeit.
+In der geöffneten Show lässt sich der **Showname** direkt anklicken und bearbeiten. Ein Klick auf das **Datum** (bzw. auf „Info", falls noch kein Datum gesetzt ist) neben dem Namen öffnet einen Dialog zum Bearbeiten von Datum und Spielzeit.
 
 ## Show archivieren
 

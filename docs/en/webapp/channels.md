@@ -51,9 +51,9 @@ When you leave the address field, the input is automatically formatted as "unive
 
 The **channel number** appears in three colours:
 
-- **White** – no note
-- **Green** – note present
-- **Yellow** – active in the show (e.g. after an EOS import), but the note is still missing
+- **White** – no note and no installation spot
+- **Green** – note present, or assigned to an installation spot (lighting rig slot or bar)
+- **Yellow** – active in the show (e.g. after an EOS import), but neither a note nor an installation spot is set yet
 
 The same legend is also available as inline help (help icon) next to the channel table in the app.
 

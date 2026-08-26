@@ -4,7 +4,7 @@
 
 The home page shows all existing shows as a sortable list. Each row contains:
 
-- **Name** – Show name, with the subtitle below it if set, e.g. "Hamlet"
+- **Name** – Show name, e.g. "Hamlet"
 - **Date** – Performance date, e.g. "04/30/2026"
 - **Season** – e.g. "25/26" (visible from the lg breakpoint)
 - **Last edited by** – Email address of the last person to edit the show
@@ -27,7 +27,6 @@ Shows are grouped by venue, with the venue name as a heading. Shows without an a
 |-------|-------------|
 | **Name** | Title of the production (e.g. "Hamlet") |
 | **Date** | Performance date (default: today's date) |
-| **Subtitle** | Optional additional text |
 | **Season** | Optional, e.g. "25/26" |
 | **Venue** | Select a venue template or leave as "No venue" |
 | **Setup areas** | Enable lighting towers and/or bars |
@@ -44,7 +43,7 @@ Simply click on the desired show row. The show opens in the **Channels** tab.
 
 ## Change show metadata afterwards
 
-In the opened show, the **show name** can be clicked and edited directly. Clicking the **date** (or "Info", if no date is set yet) next to the name opens a dialog to edit date, subtitle, and season.
+In the opened show, the **show name** can be clicked and edited directly. Clicking the **date** (or "Info", if no date is set yet) next to the name opens a dialog to edit date and season.
 
 ## Archive a show
 

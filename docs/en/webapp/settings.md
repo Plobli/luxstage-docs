@@ -177,6 +177,6 @@ A previously saved SMTP password is never displayed for security reasons — the
 
 Checks for new versions and updates the server. If an error occurs, the old state is automatically restored.
 
-1. Select **branch** — the list comes from the server, the first entry is preselected. The update check starts automatically when opening the tab or switching branches.
-2. If an update is available, the page shows the number of new commits and a changelog. Without an available update, the **"Update now"** button is disabled.
+1. Select a **release** — the list comes from the project's GitHub releases, with the newest entry preselected. The update check starts automatically when opening the tab or switching releases.
+2. If an update is available, the page shows the release name and its release notes as a changelog. Without an available update, the **"Update now"** button is disabled.
 3. Clicking **"Update now"** starts the update. A progress bar and a live terminal log show the process in real time.

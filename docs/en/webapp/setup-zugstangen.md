@@ -46,5 +46,5 @@ Using the icons on the right of each bar row (visible on hover):
 The bookmark icon lets you save a bar into the venue template. You can choose to include the base structure (always included), plus position, channel number, fixture, and notes per fixture.
 
 ::: tip Note
-Bars from the venue template are automatically inherited when creating a new show (without fixture assignments) — unlike lighting rigs, which must be inserted manually.
+Bars from the venue template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
 :::
