@@ -24,7 +24,7 @@ Neither app offers offline editing with later synchronisation.
 
 ## Does LuxStage support multiple users?
 
-Yes. Admins and technicians can work simultaneously. Changes are synchronised in real time to all connected devices – iOS and web.
+Yes, any number – without roles or permission differences. All users can work simultaneously. Changes are synchronised in real time to all connected devices – iOS and web.
 
 ## How do I install LuxStage?
 

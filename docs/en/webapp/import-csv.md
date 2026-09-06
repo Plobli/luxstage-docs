@@ -27,3 +27,7 @@ The import **merges and updates selectively** instead of replacing the entire ch
 - If a channel with the same number already exists, only the **non-empty** fields from the CSV are applied — empty cells leave existing values unchanged.
 - Channels new to the CSV are added.
 - After import, the list is sorted numerically by channel number.
+
+::: tip Alternative: scan a channel list
+If you don't have a CSV file but do have a photo of a filled-out channel list (printed template or handwritten), it can also be read via AI — see [Scan Channel List](./scan-channel-list).
+:::

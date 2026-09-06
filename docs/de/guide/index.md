@@ -24,20 +24,20 @@ Die App für iPhone und iPad zum Aufrufen der Dokumentation und Steuerung von Sc
 - Echtzeit-Sync mit dem Server
 - Offline-Lesemodus
 - OSC-Steuerung von ETC Lichtpulten
-- Einleuchtmodus mit Notizen zu jeder Position und 1-Klick-Steuerung der Scheinwerfer
+- Einleuchtmodus mit Notizen zu jeder Bühnenposition und 1-Klick-Steuerung der Scheinwerfer
 
 ## Schnellstart in 10 Minuten
 
 Nach der [Installation](./installation) — diese Reihenfolge führt am schnellsten zur ersten Show:
 
 ### 1. Spielort-Vorlage anlegen
-[Spielort-Vorlage anlegen](/de/webapp/spielstaette-vorlage) — Kanalstruktur einmal definieren (per CSV-Import oder manuell), bei jeder neuen Produktion sofort verfügbar. Optional: Beim Self-Hosting sinnvoll direkt nach der Installation, bevor die erste Show angelegt wird.
+[Spielort-Vorlage anlegen](/de/webapp/spielstaette-vorlage) — Kreisstruktur einmal definieren (per CSV-Import oder manuell), bei jeder neuen Produktion sofort verfügbar. Optional: Beim Self-Hosting sinnvoll direkt nach der Installation, bevor die erste Show angelegt wird.
 
 ### 2. Show anlegen
-[Shows](/de/webapp/shows) — neue Show erstellen und optional der Spielort-Vorlage zuordnen. Kanalstruktur und Grundriss werden automatisch übernommen.
+[Shows](/de/webapp/shows) — neue Show erstellen und optional der Spielort-Vorlage zuordnen. Kreisstruktur und Grundriss werden automatisch übernommen.
 
-### 3. Kanäle planen & einleuchten
-[Aus EOS importieren](/de/webapp/import-eos) oder [Kanäle](/de/webapp/kanaele) manuell befüllen. iOS-App und Web-App sind synchron – alle Beleuchter sehen immer denselben Stand.
+### 3. Kreise planen & einleuchten
+[Aus EOS importieren](/de/webapp/import-eos) oder [Kreise](/de/webapp/kanaele) manuell befüllen. iOS-App und Web-App sind synchron – alle Beleuchter sehen immer denselben Stand.
 
 ### 4. Exportieren & archivieren
 [PDF exportieren](/de/webapp/export-pdf) zum Ausdrucken, Show bei Abschluss [archivieren](/de/webapp/archiv) — mit vollständigem [Versionsverlauf](/de/webapp/versionsverlauf) für später.

@@ -1,9 +1,9 @@
 # Einstellungen
 
-Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der linken Seitenleiste erreichbar. Die Tabs **Konto** und **Darstellung** sieht jede Nutzerin und jeder Nutzer. Die Tabs **Backup**, **Server**, **Benutzerverwaltung**, **E-Mail / SMTP** und **Update** sind nur für Admins sichtbar.
+Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der linken Seitenleiste erreichbar. Alle Tabs — **Konto**, **Darstellung**, **Backup**, **Server**, **Benutzerverwaltung**, **E-Mail / SMTP** und **Update** — sind für jede Nutzerin und jeden Nutzer gleichermaßen sichtbar. LuxStage unterscheidet nicht zwischen verschiedenen Benutzerrollen — jeder angelegte Benutzer hat dieselben Rechte.
 
 ::: tip Update-Benachrichtigung
-Ist ein Server-Update verfügbar, zeigt ein kleiner Punkt am Einstellungen-Symbol in der Seitenleiste einen Hinweis darauf — sichtbar nur für Admins.
+Ist ein Server-Update verfügbar, zeigt ein kleiner Punkt am Einstellungen-Symbol in der Seitenleiste einen Hinweis darauf.
 :::
 
 ::: tip Gehostetes Team (luxstage.app)
@@ -62,8 +62,8 @@ Einheit für Längen und Höhen an Zugstangen:
 
 ## Backup
 
-::: tip Nur für Admins
-Backup erstellen und wiederherstellen sind ausschließlich Admins zugänglich — das ZIP enthält die komplette Datenbank inklusive Passwort-Hashes aller Benutzer.
+::: tip Sensible Daten im Backup
+Das ZIP-Backup enthält die komplette Datenbank inklusive Passwort-Hashes aller Benutzer — entsprechend sorgfältig aufbewahren.
 :::
 
 **Backup erstellen**
@@ -85,7 +85,7 @@ Stellt alle Show-Daten aus einem zuvor erstellten ZIP-Backup wieder her. Fotos w
 4. Bestätigungsdialog bestätigen
 
 ::: warning Achtung
-Die Datenbank (Shows, Kanäle, Abschnitte) wird vollständig durch den Backup-Stand ersetzt. Fotos werden nur ergänzt — Fotos, die im Backup fehlen, bleiben zusätzlich bestehen.
+Die Datenbank (Shows, Kreise, Abschnitte) wird vollständig durch den Backup-Stand ersetzt. Fotos werden nur ergänzt — Fotos, die im Backup fehlen, bleiben zusätzlich bestehen.
 :::
 
 Vor dem Einspielen wird das Backup geprüft: enthält das ZIP eine gültige Datenbank, ist sie unbeschädigt. Schlägt die Prüfung fehl, bleibt der aktuelle Stand **unangetastet**. Mögliche Fehlermeldungen:
@@ -113,14 +113,9 @@ Nur Fotos mit den Endungen `jpg`, `jpeg`, `png`, `gif`, `webp` werden beim Wiede
 
 **Benutzer**
 
-Liste aller vorhandenen Benutzer mit E-Mail-Adresse, Rollen-Badge und Quelle-Badge:
+Liste aller vorhandenen Benutzer mit E-Mail-Adresse und Quelle-Badge. LuxStage kennt keine unterschiedlichen Benutzerrollen — jeder Benutzer hat vollen Zugriff auf alle Bereiche, einschließlich Einstellungen und Benutzerverwaltung.
 
-| Rolle | Beschreibung |
-|-------|-------------|
-| **Admin** | Vollzugriff inkl. Einstellungen und Benutzerverwaltung |
-| **Techniker** | Zugriff auf Shows, Kanäle, Info, Fotos, Grundriss |
-
-Das zweite Badge zeigt die Quelle des Benutzers:
+Das Badge zeigt die Quelle des Benutzers:
 
 | Quelle | Beschreibung |
 |--------|-------------|
@@ -136,8 +131,7 @@ Nur Benutzer mit Quelle **DB** haben einen **„Löschen"**-Button.
 Legt einen neuen Benutzer an. Das initiale Passwort wird automatisch generiert und per E-Mail zugestellt.
 
 1. **E-Mail-Adresse** eingeben
-2. **Rolle** auswählen (Standard: Techniker)
-3. Klick auf **„Anlegen"**
+2. Klick auf **„Anlegen"**
 
 ---
 

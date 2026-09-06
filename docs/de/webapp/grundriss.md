@@ -14,7 +14,7 @@ Der **Grundriss**-Tab bietet einen interaktiven Vektor-Editor für den Bühnengr
 | □ Rechteck | **Rechteck** zeichnen | R |
 | ○ Ellipse | **Ellipse/Kreis** zeichnen | E |
 | T Text | **Text** hinzufügen | T |
-| ⊙ Kreis | **Kanal platzieren** | C |
+| ⊙ Kreis | **Kreis platzieren** | C |
 | ↑ Upload | **Hintergrundbild hochladen** | – |
 | ⊠ Entfernen | **Hintergrundbild entfernen** | – |
 | ↓ Export | **Als PNG exportieren** | – |
@@ -46,11 +46,11 @@ Der **Grundriss**-Tab bietet einen interaktiven Vektor-Editor für den Bühnengr
 | **Gitter** | Gitternetz ein-/ausblenden | G |
 | **Einrasten** | Am Gitter einrasten aktivieren/deaktivieren | – |
 
-## Kanäle im Grundriss platzieren
+## Kreise im Grundriss platzieren
 
-1. Werkzeug **„Kanal platzieren" (C)** auswählen
+1. Werkzeug **„Kreis platzieren" (C)** auswählen
 2. Auf die gewünschte Stelle im Grundriss klicken
-3. Die Kanalmarkierung erscheint als nummerierte Kreismarke (rot mit Pfeil)
+3. Die Kreismarkierung erscheint als nummerierte Kreismarke (rot mit Pfeil)
 
 ## Hintergrundbild verwenden
 
@@ -72,5 +72,5 @@ Zum Entfernen: Klick auf das **⊠**-Symbol.
 Klick auf das **↓**-Symbol in der Werkzeugleiste → Der aktuelle Grundriss wird als PNG-Datei heruntergeladen.
 
 ::: info Hinweis
-Für den Export als PDF (inkl. Kanalliste) nutze **Exportieren → PDF** in der oberen Menüleiste.
+Für den Export als PDF (inkl. Kreisliste) nutze **Exportieren → PDF** in der oberen Menüleiste.
 :::

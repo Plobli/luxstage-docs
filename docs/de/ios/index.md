@@ -19,7 +19,7 @@ Die App ist in zwei Ebenen gegliedert:
 | Tab | Funktion |
 |-----|----------|
 | **Aufbau** | Setup-Checkliste und Besonderheiten der Show |
-| **Einleuchten** | Kanalplan zum Fokussieren der Scheinwerfer |
+| **Einleuchten** | Kreisplan zum Fokussieren der Scheinwerfer |
 | **OSC** | EOS-Fernsteuerung (Numpad, Playback, Fader, ML) |
 | **More** | Fotos und Grundriss |
 

@@ -8,7 +8,7 @@ Jede Spielort-Vorlage definiert eigene Standard-Abschnitte. Typische Beispiele:
 
 ### Rigging / Hanging (Textfeld-Typ)
 
-Freitext-Bereich für Rigging-Informationen: Positionen, Hängepunkte, Geräte pro Bar. Unterstützt Rich-Text-Formatierung.
+Freitext-Bereich für Rigging-Informationen: Bühnenpositionen, Hängepunkte, Geräte pro Bar. Unterstützt Rich-Text-Formatierung.
 
 ### Cue Notes (Textfeld-Typ)
 
@@ -56,4 +56,4 @@ Jeder Abschnitt hat ein **×**-Symbol oben rechts zum Einklappen/Schließen der 
 
 ## Automatisch generierter Text
 
-Im „Aufbau"-Abschnitt erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Positionen, Kanäle, Geräte und Farben zusammen und lässt sich per Klick markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie). Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.
+Im „Aufbau"-Abschnitt erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Bühnenpositionen, Kreise, Geräte und Farben zusammen und lässt sich per Klick markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie). Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.

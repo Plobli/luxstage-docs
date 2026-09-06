@@ -21,11 +21,11 @@ Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere o
 
 3. Klick auf **„Anlegen"**
 
-## Kanal einem Slot zuweisen
+## Kreis einem Slot zuweisen
 
 1. Bei einem Slot auf das **⌄⌄**-Symbol (Auswählen) rechts klicken
-2. Im Suchfeld nach Kanalnummer oder Gerät suchen
-3. Kanal anklicken → wird dem Slot zugewiesen
+2. Im Suchfeld nach Kreisnummer oder Gerät suchen
+3. Kreis anklicken → wird dem Slot zugewiesen
 
 Ist der nächste Slot noch leer, öffnet sich automatisch dessen Auswahl-Dialog, um mehrere Slots hintereinander schnell zu befüllen.
 
@@ -37,7 +37,7 @@ Klick auf das **×**-Symbol neben einem belegten Slot.
 
 ## Slots per Drag & Drop tauschen
 
-Am Grip-Symbol (⠿) links neben der Slot-Nummer lässt sich die Kanalzuweisung zweier Slots per Drag & Drop tauschen.
+Am Grip-Symbol (⠿) links neben der Slot-Nummer lässt sich die Kreiszuweisung zweier Slots per Drag & Drop tauschen.
 
 ## Slot hinzufügen
 
@@ -56,7 +56,7 @@ Am unteren Rand jeder Gestell-Karte lässt sich per Klick auf **„+ Notiz"** ei
 
 ## Als Vorlage speichern
 
-Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kanalnummer, Gerät und Farbe je Slot.
+Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kreisnummer, Gerät und Farbe je Slot.
 
 ::: tip Hinweis
 Beleuchtungsgestelle aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Einfügen" im Bearbeiten-Dialog.

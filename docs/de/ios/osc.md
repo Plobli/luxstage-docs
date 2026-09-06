@@ -26,7 +26,7 @@ Die klassische EOS-Numpad-Eingabe. Die eingegebene Befehlszeile wird oberhalb de
 |-------|----------|
 | **0–9**, **.** | Zifferneingabe |
 | **Thru** | Bereich auswählen (z. B. `5 Thru 10`) |
-| **+**, **–** | Kanäle addieren / subtrahieren |
+| **+**, **–** | Kreise addieren / subtrahieren |
 | **Group** | Gruppe ansprechen |
 | **At** | Intensitätswert setzen |
 | **Full** | Intensität auf 100 % |
@@ -37,7 +37,7 @@ Die klassische EOS-Numpad-Eingabe. Die eingegebene Befehlszeile wird oberhalb de
 | **Live** | Live-Ansicht |
 | **Go to Cue Out** | Direktsprung zu Cue Out |
 
-**Beispiel:** `5 + 6 At Full Enter` → Kanäle 5 und 6 auf 100 %
+**Beispiel:** `5 + 6 At Full Enter` → Kreise 5 und 6 auf 100 %
 
 ---
 

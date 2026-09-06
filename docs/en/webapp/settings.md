@@ -1,9 +1,9 @@
 # Settings
 
-**Settings** are accessible via the gear icon (⚙️) in the left sidebar. Every user sees the **Account** and **Display** tabs. The **Backup**, **Server**, **User Management**, **Email / SMTP**, and **Update** tabs are only visible to admins.
+**Settings** are accessible via the gear icon (⚙️) in the left sidebar. All tabs — **Account**, **Display**, **Backup**, **Server**, **User Management**, **Email / SMTP**, and **Update** — are equally visible to every user. LuxStage does not distinguish between different user roles — every user you create has the same permissions.
 
 ::: tip Update notification
-If a server update is available, a small dot on the Settings icon in the sidebar indicates it — visible only to admins.
+If a server update is available, a small dot on the Settings icon in the sidebar indicates it.
 :::
 
 ::: tip Hosted team (luxstage.app)
@@ -62,8 +62,8 @@ Unit for lengths and heights on bars:
 
 ## Backup
 
-::: tip Admins only
-Creating and restoring backups is restricted to admins — the ZIP contains the complete database, including password hashes for all users.
+::: tip Sensitive data in the backup
+The ZIP backup contains the complete database, including password hashes for all users — store it accordingly carefully.
 :::
 
 **Create backup**
@@ -113,14 +113,9 @@ Only photos with the extensions `jpg`, `jpeg`, `png`, `gif`, `webp` are restored
 
 **Users**
 
-List of all existing users with email address, a role badge, and a source badge:
+List of all existing users with email address and a source badge. LuxStage has no separate user roles — every user has full access to all areas, including settings and user management.
 
-| Role | Description |
-|------|-------------|
-| **Admin** | Full access incl. settings and user management |
-| **Technician** | Access to shows, channels, info, photos, floor plan |
-
-The second badge shows the user's source:
+The badge shows the user's source:
 
 | Source | Description |
 |--------|-------------|
@@ -136,8 +131,7 @@ Only users with source **DB** have a **"Delete"** button.
 Creates a new user. The initial password is generated automatically and sent by email.
 
 1. Enter **email address**
-2. Select **role** (default: Technician)
-3. Click **"Create"**
+2. Click **"Create"**
 
 ---
 

@@ -16,7 +16,7 @@ Zwei Möglichkeiten: Selbst gehostet – z. B. auf einem Raspberry Pi im lokalen
 
 Zum Lesen ja, zum Bearbeiten nein.
 
-Die iOS-App hält zuletzt geladene Shows, Kanäle, Abschnitte und Fotos lokal vor und zeigt sie ohne Serververbindung weiter an. Sie ist auf das Lesen ausgelegt: Kanäle abhaken sowie Fotos aufnehmen und löschen brauchen eine Verbindung, das eigentliche Bearbeiten der Daten geschieht in der Web-App.
+Die iOS-App hält zuletzt geladene Shows, Kreise, Abschnitte und Fotos lokal vor und zeigt sie ohne Serververbindung weiter an. Sie ist auf das Lesen ausgelegt: Kreise abhaken sowie Fotos aufnehmen und löschen brauchen eine Verbindung, das eigentliche Bearbeiten der Daten geschieht in der Web-App.
 
 Die Web-App braucht eine bestehende Serververbindung. Fällt sie aus, erscheint ein Hinweisbanner und die Show-Ansicht wird gesperrt, damit keine Eingaben verloren gehen.
 
@@ -24,7 +24,7 @@ Ein Offline-Bearbeitungsmodus mit späterer Synchronisation ist in keiner der be
 
 ## Unterstützt LuxStage mehrere Benutzer?
 
-Ja. Admins und Techniker können gleichzeitig arbeiten. Änderungen werden in Echtzeit für alle verbundenen Geräte – iOS und Web – synchronisiert.
+Ja, beliebig viele – ohne Rollen oder Rechteunterschiede. Alle Benutzer können gleichzeitig arbeiten. Änderungen werden in Echtzeit für alle verbundenen Geräte – iOS und Web – synchronisiert.
 
 ## Wie installiere ich LuxStage?
 

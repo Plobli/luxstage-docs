@@ -14,13 +14,14 @@ LuxStage runs in the browser on Mac, Windows, iPad or any other device. The self
 
 ## Navigation
 
-The vertical sidebar on the left contains four icons:
+The vertical sidebar on the left contains five icons:
 
 | Area | Description |
 |------|-------------|
 | **Shows** | Home page – all active shows |
 | **Archive** | Archived shows |
 | **Templates** | Manage venue templates |
+| **Network** | Document the venue's IT infrastructure |
 | **Settings** | App settings |
 
 ## Getting started
@@ -30,7 +31,9 @@ The vertical sidebar on the left contains four icons:
 - [Channels](./channels) — maintain the channel plan
 - [Photos](./photos) — visual documentation
 - [Floor Plan](./floor-plan) — store the stage plan
+- [Network](./network) — document network outlets, devices and switches
 - [Import from EOS](./import-eos) — bring in channel data from the lighting console
 - [Import CSV](./import-csv) — bring in channel data from CSV
+- [Scan Channel List](./scan-channel-list) — bring in channel data via photo and AI
 - [Export PDF](./export-pdf) — output the channel plan as PDF
 - [Export CSV](./export-csv) — output the channel plan as CSV

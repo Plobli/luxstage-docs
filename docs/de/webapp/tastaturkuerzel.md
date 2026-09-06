@@ -21,7 +21,7 @@
 | Rechteck zeichnen | R |
 | Ellipse/Kreis zeichnen | E |
 | Text hinzufügen | T |
-| Kanal platzieren | C |
+| Kreis platzieren | C |
 
 ### Aktionen
 

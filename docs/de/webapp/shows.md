@@ -34,12 +34,12 @@ Shows werden nach Spielort gruppiert angezeigt, mit dem Spielort-Namen als Über
 3. Klick auf **„Show erstellen"**
 
 ::: tip Hinweis
-Wird ein Spielort ausgewählt, übernimmt die neue Show automatisch die Kanalstruktur, die Abschnitte und den Grundriss des gewählten Spielorts.
+Wird ein Spielort ausgewählt, übernimmt die neue Show automatisch die Kreisstruktur, die Abschnitte und den Grundriss des gewählten Spielorts.
 :::
 
 ## Show öffnen
 
-Einfach auf die gewünschte Show-Zeile klicken. Die Show öffnet sich im **Kanäle**-Tab.
+Einfach auf die gewünschte Show-Zeile klicken. Die Show öffnet sich im **Kreise**-Tab.
 
 ## Show-Metadaten nachträglich ändern
 

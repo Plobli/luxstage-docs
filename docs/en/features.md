@@ -96,6 +96,9 @@ Import CSV exports directly from ETC EOS consoles. Active channels, DMX addresse
 **CSV import**
 Upload semicolon-separated channel lists directly — e.g. from Excel or other systems.
 
+**Scan channel list (AI photo scan)**
+Upload a photo of a filled-out channel list (printed template or handwritten) — filters, notes and new channels are automatically read out by AI. Review the result in a preview and select rows individually before applying.
+
 **PDF export**
 Generate a complete, print-ready report with one click. The PDF contains:
 
@@ -137,6 +140,26 @@ Save venues with a fixed channel structure as a template — apply it to each ne
 
 ---
 
+## Network Documentation
+
+### Keep track of the venue's IT infrastructure
+
+Create network outlets, devices and switches as elements, group them by room, and document their cabling — independent of shows and venue templates.
+
+**Interactive topology**
+All elements as freely movable nodes with connection lines. Draw or reconnect connections directly in the graph, auto-arrange new elements, restore a saved layout.
+
+**Switches as a port grid**
+Each switch shows its ports individually with a utilization indicator (e.g. "6/24") — no searching through long lists.
+
+**Rooms & search**
+Group elements by location and collapse/expand groups, real-time search across all elements.
+
+**PDF export**
+Export the complete network documentation as a print-ready PDF.
+
+---
+
 ## Data Protection
 
 ### No change is lost
@@ -156,9 +179,6 @@ Restore from an earlier ZIP file — with validation before applying. Complete r
 
 ## User Management
 
-### Clear roles, secure access
+### Simple access for your team
 
-| Role | Permissions |
-|------|-------------|
-| `admin` | Everything: templates, backup, updates, user management |
-| `technician` | Read and edit productions, no template editing or updates |
+Invite new users by email address, reset passwords, and remove accounts you no longer need — no role management involved. Every user has full access to all areas, including settings and user management.

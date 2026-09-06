@@ -6,15 +6,28 @@ Diese Datenschutzerklärung gilt für die **iOS-App** und für die **Web-App**, 
 
 ## Überblick
 
-LuxStage ist darauf ausgelegt, **keine personenbezogenen Daten zu sammeln**. Beide Apps kommunizieren ausschließlich mit dem LuxStage-Server — bei Self-Hosting mit deinem eigenen Server, beim gehosteten Dienst mit dem Server des Betreibers. Es findet keine Kommunikation mit Servern von Drittanbietern statt.
+LuxStage ist darauf ausgelegt, **keine personenbezogenen Daten zu sammeln**. Beide Apps kommunizieren ausschließlich mit dem LuxStage-Server — bei Self-Hosting mit deinem eigenen Server, beim gehosteten Dienst mit dem Server des Betreibers. Es findet keine Kommunikation mit Servern von Drittanbietern statt — **mit einer Ausnahme:** Nutzt du in der Web-App die Funktion „Kreisliste scannen", wird das dabei hochgeladene Foto an die API von Anthropic übertragen (siehe Abschnitt [Kreisliste scannen (KI-Foto-Scan)](#kreisliste-scannen-ki-foto-scan)).
 
 ## Web-App und Self-Hosting
 
-Die Web-App läuft im Browser und speichert lokal nur die Server-Adresse sowie die gewählte Anzeigesprache (`localStorage`). Show-Daten (Kanalpläne, Fotos, Grundrisse, Nutzerkonten) werden ausschließlich auf dem LuxStage-Server verarbeitet und gespeichert.
+Die Web-App läuft im Browser und speichert lokal nur die Server-Adresse sowie die gewählte Anzeigesprache (`localStorage`). Show-Daten (Kreispläne, Fotos, Grundrisse, Nutzerkonten) werden ausschließlich auf dem LuxStage-Server verarbeitet und gespeichert.
 
 Bei **Self-Hosting** bist du selbst verantwortlicher Betreiber im Sinne der DSGVO und für Datensicherheit, Zugriffsschutz und etwaige Auftragsverarbeitung (z. B. bei einem Hosting-Anbieter für den Server) selbst verantwortlich.
 
 Beim **gehosteten Dienst** (luxstage.app) ist der Betreiber von LuxStage verantwortliche Stelle für die dort gespeicherten Daten.
+
+## Kreisliste scannen (KI-Foto-Scan)
+
+Die Web-App bietet unter „Importieren" die Funktion **„Kreisliste scannen"**: Ein Foto einer ausgefüllten Kreisliste (Vordruck oder handschriftlich) wird hochgeladen, damit Filter, Notizen und neue Kreise automatisch ausgelesen werden können.
+
+Für diese Funktion wird das hochgeladene Foto an die **API von Anthropic** (Claude Vision, Anbieter des zugrundeliegenden KI-Modells) übertragen und dort zur Texterkennung verarbeitet. Dies ist die einzige Ausnahme von der Regel, dass LuxStage ausschließlich mit dem eigenen LuxStage-Server kommuniziert.
+
+- Die Übertragung erfolgt **nur**, wenn du die Funktion „Kreisliste scannen" aktiv nutzt.
+- Es werden keine weiteren Show- oder Nutzerdaten an Anthropic übermittelt, nur das ausgewählte Foto sowie zur besseren Erkennung die bereits in der Show hinterlegten Kreisdaten (Kreisnummer, Adresse, Gerät, Position) als Lesehilfe.
+- Das Ergebnis wird in einer Vorschau angezeigt, in der du jede erkannte Änderung einzeln abwählen kannst, bevor sie übernommen wird.
+- Es gelten die [Datenschutzbestimmungen von Anthropic](https://www.anthropic.com/legal/privacy).
+
+Wer diese Funktion nicht nutzt, für den ändert sich nichts — die übrigen Wege zum Anlegen einer Kreisliste (manuell, EOS-Import, CSV-Import) kommunizieren ausschließlich mit dem eigenen LuxStage-Server.
 
 ## Welche Daten werden gespeichert?
 
@@ -30,7 +43,7 @@ Die App selbst überträgt diese Daten nicht an den App-Entwickler oder Dritte.
 
 ### Auf deinem eigenen Server
 
-Die iOS-App überträgt Show-Daten (Kanalpläne, Fotos, Grundrisse) ausschließlich mit dem LuxStage-Server, den du selbst betreibst. Welche Daten dort gespeichert werden, liegt vollständig in deiner Kontrolle. Für die Datensicherheit auf deinem eigenen Server bist du selbst verantwortlich.
+Die iOS-App überträgt Show-Daten (Kreispläne, Fotos, Grundrisse) ausschließlich mit dem LuxStage-Server, den du selbst betreibst. Welche Daten dort gespeichert werden, liegt vollständig in deiner Kontrolle. Für die Datensicherheit auf deinem eigenen Server bist du selbst verantwortlich.
 
 ## Datenerhebung durch Apple
 

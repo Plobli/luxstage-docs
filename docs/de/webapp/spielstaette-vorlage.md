@@ -1,10 +1,10 @@
 # Spielort-Vorlage anlegen
 
-Eine Spielort-Vorlage enthält die feste Kanalstruktur deiner Bühne — Scheinwerfer, DMX-Adressen, Positionen und Notiz-Sektionen. Einmal angelegt, kannst du sie bei jeder neuen Produktion mit einem Klick übernehmen.
+Eine Spielort-Vorlage enthält die feste Kreisstruktur deiner Bühne — Scheinwerfer, DMX-Adressen, Bühnenpositionen und Notiz-Sektionen. Einmal angelegt, kannst du sie bei jeder neuen Produktion mit einem Klick übernehmen.
 
 ## Spielort-Vorlage aus CSV importieren
 
-Die schnellste Methode: eine bestehende Kanalliste als CSV importieren.
+Die schnellste Methode: eine bestehende Kreisliste als CSV importieren.
 
 1. Navigiere zu **Vorlagen** in der Seitenleiste.
 2. Klicke auf **„CSV hochladen"**.
@@ -21,15 +21,15 @@ Die CSV-Datei sollte folgende Spalten enthalten:
 
 | Spalte | Beschreibung |
 |--------|-------------|
-| Kanal | Kanalnummer |
+| Kreis | Kreisnummer |
 | DMX | DMX-Adresse |
 | Gerät | Gerätetyp (z. B. „PAR 64", „Profiler 1,2 kW") |
-| Position | Hängepunkt oder Standort |
+| Bühnenposition | Hängepunkt oder Standort |
 | Gel | Farbfilter-Code (z. B. R02, L201) |
 | Notiz | Freitext-Notiz |
 
 ::: tip EOS-Export direkt importieren
-CSV-Exporte aus ETC EOS können direkt importiert werden — aktive Kanäle werden automatisch erkannt.
+CSV-Exporte aus ETC EOS können direkt importiert werden — aktive Kreise werden automatisch erkannt.
 :::
 
 ## Spielort-Vorlage manuell anlegen
@@ -38,7 +38,7 @@ Alternativ kannst du eine Spielort-Vorlage auch direkt in LuxStage aufbauen:
 
 1. Klicke auf **„Neue Spielort-Vorlage"**.
 2. Trage Name und Grunddaten ein.
-3. Füge Kanäle manuell hinzu oder importiere sie nachträglich per CSV.
+3. Füge Kreise manuell hinzu oder importiere sie nachträglich per CSV.
 
 ## Spielort-Vorlage umbenennen
 
@@ -55,17 +55,17 @@ Die IP-Adresse gilt für alle Benutzer und Geräte, die mit dieser Spielort-Vorl
 Die Übersicht zeigt pro Spielort-Vorlage:
 
 - **Name** der Spielort-Vorlage
-- **Kanalanzahl** — Anzahl der gespeicherten Kanäle
+- **Kreisanzahl** — Anzahl der gespeicherten Kreise
 - **OSC-IP** — konfigurierte IP-Adresse (falls vorhanden)
 - **Zuletzt geändert** — Datum der letzten Änderung
 
 ## Spielort-Vorlage bei neuer Produktion verwenden
 
-Wenn du eine neue Show anlegst, wählst du eine Spielort-Vorlage aus. Die Kanalstruktur und Notiz-Sektionen werden automatisch übernommen — du kannst sie dann pro Show individuell anpassen.
+Wenn du eine neue Show anlegst, wählst du eine Spielort-Vorlage aus. Die Kreisstruktur und Notiz-Sektionen werden automatisch übernommen — du kannst sie dann pro Show individuell anpassen.
 
 ## Show nachträglich einer Spielort-Vorlage zuordnen
 
-Auf der Show-Karte in der Übersicht öffnet das **Stift-Symbol** einen Dialog zur Vorlagen-Zuordnung. Dort lässt sich die Spielort-Vorlage ändern — die Kanäle der Show bleiben dabei unverändert, nur die Metadaten (Bühnenname, OSC-Einstellungen) werden aktualisiert.
+Auf der Show-Karte in der Übersicht öffnet das **Stift-Symbol** einen Dialog zur Vorlagen-Zuordnung. Dort lässt sich die Spielort-Vorlage ändern — die Kreise der Show bleiben dabei unverändert, nur die Metadaten (Bühnenname, OSC-Einstellungen) werden aktualisiert.
 
 ## Änderungen an der Vorlage auf bestehende Shows anwenden
 

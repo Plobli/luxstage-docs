@@ -2,23 +2,23 @@
 
 Alles, was du auf der Bühne brauchst.
 
-## Kanallisten
+## Kreislisten
 
-### Der Kanalplan, der auf allen Geräten aktuell ist
+### Der Kreisplan, der auf allen Geräten aktuell ist
 
-Alle Scheinwerferkanäle, DMX-Adressen, Gerätetypen, Positionen, Gel-Filter und Notizen pro Show an einem Ort — strukturiert, durchsuchbar und immer aktuell.
+Alle Scheinwerferkreise, DMX-Adressen, Gerätetypen, Bühnenpositionen, Gel-Filter und Notizen pro Show an einem Ort — strukturiert, durchsuchbar und immer aktuell.
 
 **Übersicht & Schnellsuche**
-Alle Kanäle tabellarisch — nach Position gruppiert. Echtzeit-Filterung nach Kanalnummer, Gerätetyp, Position oder Notizen.
+Alle Kreise tabellarisch — nach Bühnenposition gruppiert. Echtzeit-Filterung nach Kreisnummer, Gerätetyp, Bühnenposition oder Notizen.
 
 **Duplikat-Warnung**
-Automatische Benachrichtigung bei doppelten DMX-Adressen oder Kanalnummern.
+Automatische Benachrichtigung bei doppelten DMX-Adressen oder Kreisnummern.
 
 **Auto-Save**
 Änderungen werden automatisch gespeichert und auf alle verbundenen Geräte synchronisiert. Kein manuelles Speichern nötig.
 
 **Gel-Filter-Verwaltung**
-Farbcodes (Rosco, Lee) direkt im Kanal speichern und visuell darstellen.
+Farbcodes (Rosco, Lee) direkt im Kreis speichern und visuell darstellen.
 
 ---
 
@@ -26,13 +26,13 @@ Farbcodes (Rosco, Lee) direkt im Kanal speichern und visuell darstellen.
 
 ### Direktverbindung zum Pult
 
-Der Einleuchten-Modus der iOS-App verbindet Checkliste und Pultsteuerung. Ein Tap schaltet den Kanal an, ein zweiter schaltet ihn aus — kein Blättern in gedruckten Dokumenten, kein Suchen. 
+Der Einleuchten-Modus der iOS-App verbindet Checkliste und Pultsteuerung. Ein Tap schaltet den Kreis an, ein zweiter schaltet ihn aus — kein Blättern in gedruckten Dokumenten, kein Suchen. 
 
 **Fokus-Modus**
-- Kanäle nach Position gruppiert — gleiche Ansicht wie im Kanalplan
+- Kreise nach Bühnenposition gruppiert — gleiche Ansicht wie im Kreisplan
 - Checks beim fokussieren mit Checkmark fertiger Scheinwerfer
-- Suche nach Kanal oder Position während des Einleuchtens
-- Referenzfotos direkt am Kanal — kein Suchen in der Galerie
+- Suche nach Kreis oder Bühnenposition während des Einleuchtens
+- Referenzfotos direkt am Kreis — kein Suchen in der Galerie
 
 **OSC-Steuerung (ETC EOS)**
 Steuere das Pult direkt aus der App.
@@ -40,7 +40,7 @@ Steuere das Pult direkt aus der App.
 | Funktion | Beschreibung |
 |---------|-------------|
 | Fokus-Mode | Ein Tap = Full, zweiter Tap = Out |
-| OSC-Numpad | Freie Kommandoeingabe: Kanal- und Gruppen-Nummern, Moving-Light-Steuerung |
+| OSC-Numpad | Freie Kommandoeingabe: Kreis- und Gruppen-Nummern, Moving-Light-Steuerung |
 | Konfiguration | Pro Spielstätte einstellbar: IP-Adresse, OSC-Port, EOS-User-ID |
 
 ---
@@ -55,7 +55,7 @@ Kabelwege, Stände, Absprachen mit der Regie, Besonderheiten der Spielstätte �
 WYSIWYG-Editor mit Formatierungsoptionen — Fettdruck, Kursiv, Überschrift, Aufzählung, nummerierte Liste und Tabellen.
 
 **Strukturierte Felder**
-Neben freiem Text: selbst definierbare Felder pro Sektion für Höhenangaben oder Positionen mit Maßangaben, inklusive optionaler Einheit.
+Neben freiem Text: selbst definierbare Felder pro Sektion für Höhenangaben oder Bühnenpositionen mit Maßangaben, inklusive optionaler Einheit.
 
 **Frei anlegbare Abschnitte**
 Jede Spielort-Vorlage bringt eigene Standard-Abschnitte mit — „Aufbau", „Hinweise" u.v.m. Zusätzlich lassen sich pro Show eigene Abschnitte (Text oder Felder) anlegen.
@@ -69,7 +69,7 @@ Mehrere Nutzer können gleichzeitig bearbeiten. Änderungen erscheinen in Echtze
 
 ### Bilder sagen mehr als ein geschriebener Plan
 
-Aufbausituationen, Rigg-Details, Kabelführung — alles direkt in der App fotografiert, beschriftet und einem Kanal zugeordnet. Beim nächsten Aufbau sofort zur Hand.
+Aufbausituationen, Rigg-Details, Kabelführung — alles direkt in der App fotografiert, beschriftet und einem Kreis zugeordnet. Beim nächsten Aufbau sofort zur Hand.
 
 **In-App Kamera (iOS)**
 Fotos direkt aus der App heraus aufnehmen. Automatisch mit der Show verknüpft und auf dem Server gespeichert.
@@ -80,8 +80,8 @@ Mehrere Fotos gleichzeitig in den Browser ziehen.
 **Lightbox & Galerie**
 Vollbild-Ansicht mit Navigation, Grid-Übersicht aller Produktionsfotos, Drag & Drop zum Sortieren.
 
-**Kanal-Zuordnung**
-Foto einem bestimmten Kanal zuweisen — beim Einleuchten wird das Referenzfoto direkt am Kanal angezeigt. Visueller Kontext auf Knopfdruck.
+**Kreis-Zuordnung**
+Foto einem bestimmten Kreis zuweisen — beim Einleuchten wird das Referenzfoto direkt am Kreis angezeigt. Visueller Kontext auf Knopfdruck.
 
 **PDF-Export**
 Alle Fotos der Produktion werden im PDF-Report eingebettet — vollständige Dokumentation in einer Datei.
@@ -91,10 +91,13 @@ Alle Fotos der Produktion werden im PDF-Report eingebettet — vollständige Dok
 ## Import & Export
 
 **EOS-Import**
-CSV-Exporte direkt aus ETC EOS-Pulten importieren. Aktive Kanäle, DMX-Adressen und Gerätebezeichnungen werden automatisch erkannt und übernommen, Moving Lights automatisch als solche notiert. Du musst nur noch deine übrigen Notizen ergänzen.
+CSV-Exporte direkt aus ETC EOS-Pulten importieren. Aktive Kreise, DMX-Adressen und Gerätebezeichnungen werden automatisch erkannt und übernommen, Moving Lights automatisch als solche notiert. Du musst nur noch deine übrigen Notizen ergänzen.
 
 **CSV-Import**
-Semikolon-getrennte Kanallisten direkt hochladen — z. B. aus Excel oder anderen Systemen.
+Semikolon-getrennte Kreislisten direkt hochladen — z. B. aus Excel oder anderen Systemen.
+
+**Kreisliste scannen (KI-Foto-Scan)**
+Foto einer ausgefüllten Kreisliste (Vordruck oder handschriftlich) hochladen — Filter, Notizen und neue Kreise werden automatisch per KI ausgelesen. Ergebnis vor der Übernahme in einer Vorschau prüfen und einzeln auswählen.
 
 **PDF-Export**
 Mit einem Klick einen vollständigen, druckfertigen Bericht generieren. Das PDF enthält:
@@ -102,7 +105,7 @@ Mit einem Klick einen vollständigen, druckfertigen Bericht generieren. Das PDF 
 | Abschnitt | Inhalt |
 |-----------|--------|
 | Titelseite | Produktionsname, Datum, Spielstätte |
-| Kanalliste | Sortiert nach Position & Kanal, mit DMX, Gerät, Gel, Notizen |
+| Kreisliste | Sortiert nach Bühnenposition & Kreis, mit DMX, Gerät, Gel, Notizen |
 | Aufbaunotizen | Alle Sektionen inkl. strukturierter Felder |
 | Grundriss | Bühnengrundriss, sofern hinterlegt |
 | Fotogalerie | Alle Produktionsfotos eingebettet |
@@ -127,13 +130,33 @@ Ein Nutzer editiert am Laptop, ein anderer prüft auf dem iPhone — beide sehen
 
 ### Einmal anlegen, immer verwenden
 
-Spielorte mit fester Kanalstruktur einmal als Vorlage speichern — bei jeder neuen Produktion per Klick übernehmen. Kanallisten, Notiz-Abschnitte und strukturierte Felder werden geerbt und sind pro Show individuell anpassbar.
+Spielorte mit fester Kreisstruktur einmal als Vorlage speichern — bei jeder neuen Produktion per Klick übernehmen. Kreislisten, Notiz-Abschnitte und strukturierte Felder werden geerbt und sind pro Show individuell anpassbar.
 
 **Vorlage enthält:**
-- **Kanalliste** — Scheinwerfer, DMX-Adressen, Gerätetypen und Positionen des Spielorts
+- **Kreisliste** — Scheinwerfer, DMX-Adressen, Gerätetypen und Bühnenpositionen des Spielorts
 - **Notiz-Abschnitte** — „Aufbau", „Hinweise" und beliebig viele eigene
-- **Strukturierte Felder** — Maße, Positionen
+- **Strukturierte Felder** — Maße, Bühnenpositionen
 - **Grundriss** – Grundriss der Szenenfläche
+
+---
+
+## Netzwerk-Dokumentation
+
+### Die IT-Infrastruktur der Spielstätte im Blick
+
+Netzwerkdosen, Geräte und Switches als Elemente anlegen, nach Räumen gruppieren und ihre Verkabelung dokumentieren — unabhängig von Shows und Spielort-Vorlagen.
+
+**Interaktive Topologie**
+Alle Elemente als frei verschiebbare Knoten mit Verbindungslinien. Verbindungen direkt im Graph ziehen oder umhängen, automatisches Anordnen neuer Elemente, gespeicherte Ansicht wiederherstellen.
+
+**Switches als Port-Grid**
+Jeder Switch zeigt seine Ports einzeln mit Belegungsanzeige (z. B. „6/24") — kein Suchen in langen Listen.
+
+**Räume & Suche**
+Elemente nach Ort gruppieren und ein- bzw. ausklappen, Echtzeit-Suche über alle Elemente.
+
+**PDF-Export**
+Die vollständige Netzwerkdokumentation als druckfertiges PDF exportieren.
 
 ---
 
@@ -156,9 +179,6 @@ Aus einer früheren ZIP-Datei wiederherstellen — mit Validierung vor der Anwen
 
 ## Benutzerverwaltung
 
-### Klare Rollen, sichere Zugänge
+### Einfache Zugänge für dein Team
 
-| Rolle | Rechte |
-|-------|--------|
-| `admin` | Alles: Vorlagen, Backup, Updates, Benutzerverwaltung |
-| `techniker` | Produktionen lesen und bearbeiten, keine Vorlagenbearbeitung oder Updates möglich |
+Neue Benutzer per E-Mail-Adresse einladen, Passwörter zurücksetzen und nicht mehr benötigte Zugänge entfernen — ohne Rollenverwaltung. Jeder Benutzer hat vollen Zugriff auf alle Bereiche, einschließlich Einstellungen und Benutzerverwaltung.

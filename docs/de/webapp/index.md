@@ -4,33 +4,36 @@ LuxStage läuft im Browser auf Mac, Windows, iPad oder jedem anderen Gerät. Der
 
 ## Funktionsumfang
 
-- Shows und Kanalplan verwalten
-- Kanäle aus EOS importieren oder manuell pflegen
-- Fotos hochladen und Kanälen zuordnen
+- Shows und Kreisplan verwalten
+- Kreise aus EOS importieren oder manuell pflegen
+- Fotos hochladen und Kreisen zuordnen
 - Bühnengrundriss hinterlegen
-- Kanalplan als PDF exportieren
+- Kreisplan als PDF exportieren
 - Spielort-Vorlagen für wiederkehrende Produktionsorte
 - Versionsverlauf und Archivierung
 
 ## Navigation
 
-Die vertikale Seitenleiste links enthält vier Symbole:
+Die vertikale Seitenleiste links enthält fünf Symbole:
 
 | Bereich | Beschreibung |
 |---------|--------------|
 | **Shows** | Startseite – alle aktiven Shows |
 | **Archiv** | Archivierte Shows |
 | **Vorlagen** | Spielort-Vorlagen verwalten |
+| **Netzwerk** | IT-Infrastruktur der Spielstätte dokumentieren |
 | **Einstellungen** | App-Einstellungen |
 
 ## Einstieg
 
 - [Shows](./shows) — Shows anlegen und öffnen
 - [Spielort-Vorlage anlegen](./spielstaette-vorlage) — Struktur einmalig definieren
-- [Kanäle](./kanaele) — Kanalplan pflegen
+- [Kreise](./kanaele) — Kreisplan pflegen
 - [Fotos](./fotos) — Visuelle Dokumentation
 - [Grundriss](./grundriss) — Bühnenplan hinterlegen
-- [Aus EOS importieren](./import-eos) — Kanaldaten vom Lichtpult übernehmen
-- [CSV importieren](./import-csv) — Kanaldaten aus CSV übernehmen
-- [PDF exportieren](./export-pdf) — Kanalplan als PDF ausgeben
-- [CSV exportieren](./export-csv) — Kanalplan als CSV ausgeben
+- [Netzwerk](./netzwerk) — Netzwerkdosen, Geräte und Switches dokumentieren
+- [Aus EOS importieren](./import-eos) — Kreisdaten vom Lichtpult übernehmen
+- [CSV importieren](./import-csv) — Kreisdaten aus CSV übernehmen
+- [Kreisliste scannen](./scan-kreisliste) — Kreisdaten per Foto und KI übernehmen
+- [PDF exportieren](./export-pdf) — Kreisplan als PDF ausgeben
+- [CSV exportieren](./export-csv) — Kreisplan als CSV ausgeben

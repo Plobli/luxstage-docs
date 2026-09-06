@@ -290,3 +290,91 @@ Stand 2026-08-15. Verifiziert gegen [EosMergePreviewDialog.vue](LuxStage/web-app
 7. **C/D/E/F** dünne Seiten, Screenshots, Umbenennungen, Struktur.
 
 **Anweisung** Nach jedem Punkt einen commit machen ohne Versionserhöhung
+
+---
+
+# Runde 6 — Website-Audit + Stand 2026-09-06
+
+Methodik: `TODO-doku-review.md` und `TODO-webapp-code.md` komplett gelesen. `shared/locales/{de,en}.json` komplett gelesen. Alle vier Website-Root-HTML-Dateien gelesen. `git log --since=2026-08-15` über `web-app/`, `server/`, `shared/locales/` ausgewertet (157 Commits) und Stichproben per Diff/Grep gegen `web-app/src` und `server/` verifiziert.
+
+## Y. Terminologie-Bruch „Kanal" → „Kreis" und „Position" → „Bühnenposition" (App-seitig, seit ca. 2026-08-16/30, unbeachtet)
+
+Seit Commits `3a19ea4`, `c8c47e4`, `ab109f9`, `e2199c7`, `23797d0`, `cefee19` (16.–30.08.2026) verwendet die App-Locale durchgehend „Kreis"/„Kreise" statt „Kanal"/„Kanäle" und „Bühnenposition" statt „Position":
+
+- `shared/locales/de.json:30` `channel.add` = „Kreis hinzufügen" (vorher „Kanal hinzufügen")
+- `shared/locales/de.json:49-52` `channel.no_position` = „Ohne **Bühnenposition**", `channel.position.add`, `channel.position.name.placeholder`
+- `shared/locales/de.json:140` `field.position` = „**Bühnenposition**" (war laut Runde 2/H „Position")
+- `shared/locales/de.json:288-293` `health.*` = „Kreise ohne Adresse", „Kreise ohne Bühnenposition"
+- Durchgehend `tab.channels` = „Kreisliste", `show.channels` = „Kreise", `channel.search` = „In Kreisen suchen …"
+
+Kein Recycling von Runde 2/H (dort Position vs. Kategorie, beide gleichzeitig für dasselbe Feld — bleibt erledigt). Betroffene Docs (Stichprobe):
+
+- `docs/de/webapp/kanaele.md:27,31,62,87,89,91,104` — durchgehend „Kanal"/„Kanäle"/„Position"
+- `docs/de/features.md` (komplett) — „Kanalliste", „Kanalplan", „Kanäle", „Position" durchgehend
+- `docs/de/webapp/index.md:7,8,10,30` — „Kanalplan", „Kanäle"
+
+Website ist bei diesem Wechsel **gespalten**: `index.html`/`i18n.js` verwenden bereits „Kreis(e)" (19 bzw. 41 Vorkommen, 0× „Kanal"), `features.html` dagegen fast durchgehend noch „Kanal" (30× „Kanal", nur 1× „Kreis" an Zeile 213) — Website-interner Widerspruch zwischen Startseite und Feature-Seite.
+
+- [x] Entscheiden: bleibt „Kreis" der App-Standardbegriff? Falls ja, `features.md`/`kanaele.md`/`index.md` (DE+EN) und `features.html` durchgehend auf „Kreis" umstellen; `field.position`/„Bühnenposition" ebenso nachziehen. — ✅ erledigt (2026-09-06): Alle docs/de/**/*.md (Web-App: kanaele.md, index.md, features.md, glossar.md, faq.md, datenschutz.md, einstellungen.md, versionsverlauf.md, shows.md, import-eos.md, import-csv.md, export-csv.md, export-pdf.md, grundriss.md, setup-gestelle.md, setup-zugstangen.md, spielstaette-vorlage.md, info.md, fotos.md, tastaturkuerzel.md, index.md; iOS: einleuchten.md, more.md, osc.md, shows.md, index.md — da `shared/locales` für beide Apps gilt) durchgehend auf „Kreis"/„Kreise"/„Bühnenposition" umgestellt, außer wo „Position" eine andere Bedeutung hat (Klick-Koordinate auf Zugstange, CSV-Spaltennummer). Sidebar-Eintrag in `config.js` (DE) „Kanäle"→„Kreise". `features.html` DE-Text ebenfalls umgestellt (siehe unten). EN-Docs und `index.html`/`i18n.js` unverändert, da EN-App-Locale weiterhin „channel"/„Position" sagt.
+- [x] EN-Locale prüfen: `en.json:140` `field.position` = „Position" (nicht „Stage Position") — DE/EN sind hier bereits wieder asymmetrisch benannt, zusätzlich zum Kanal/Kreis-Wechsel. — ✅ geprüft (2026-09-06): bestätigt, EN-Locale weiterhin „channel"/„Position", deshalb EN-Docs bewusst nicht geändert (siehe oben).
+
+## Z. Netzwerk-Ansicht — komplett neues Feature, weder in Docs noch auf der Website
+
+Commits `a628071` (29.08., „Netzwerkansicht hinzufügen: Geräte, Switches, Räume mit Positionierung"), `c0be3b2`/`cb0de4c` (überarbeitet). Verifiziert:
+
+- `web-app/src/router/index.ts:52-56` — eigene Top-Level-Route `/network` → `NetworkView.vue`, gleichrangig mit Shows/Archiv/Vorlagen.
+- `web-app/src/App.vue:324-327` — `nav.network` ist ein fünfter Sidebar-Eintrag neben Shows, Archiv, Vorlagen (Einstellungen separat).
+- `shared/locales/de.json:342-372` — ca. 30 `network.*`-Keys: Elemente (Dose/Gerät/Switch), Verbindungen, Räume, PDF-Export, Auto-Anordnen, Vollbild.
+
+In **keiner** Docs-Seite und **keiner** Website-Seite erwähnt oder beworben:
+
+- `docs/de/webapp/index.md:17-24` — Navigationstabelle nennt nur „vier Symbole"; tatsächlich sind es jetzt **fünf**.
+- `docs/de/features.md` — keine Netzwerk-Sektion.
+- `luxstage-website/features.html:41-51` — Feature-Navigation hat keinen Netzwerk-Anker; Sektionsliste endet bei „Benutzerverwaltung".
+
+Nicht identisch mit dem offenen Punkt in B („vier Symbole", dort wegen Login/Registrierung) — hier fehlt ein ganzes neues Feature komplett.
+
+- [x] Neue Docs-Seite `webapp/netzwerk.md` (DE+EN) anlegen, Sidebar-Zahl korrigieren. — ✅ erledigt (2026-09-06): `docs/de/webapp/netzwerk.md` und `docs/en/webapp/network.md` neu angelegt (Elemente, Topologie, Verbindungen/Port-Grid, Elemente-Tabelle, PDF-Export, Sperrung). In `docs/de/webapp/index.md` und `docs/en/webapp/index.md` „vier"→„fünf Symbole", Netzwerk-Zeile in Navigationstabelle und „Einstieg"-Liste ergänzt. Sidebar-Eintrag in `config.js` (DE+EN) ergänzt.
+- [x] Feature-Sektion auf Website (`features.html`) und/oder `docs/de/features.md` ergänzen, falls öffentlich beworben werden soll. — ✅ erledigt (2026-09-06): Neuer Abschnitt „Netzwerk-Dokumentation" in `docs/de/features.md` und `docs/en/features.md` ergänzt. `luxstage-website/features.html`: neue Sektion `#netzwerk` (Topologie, Port-Grid, Räume & Suche, PDF-Export) plus Nav-Anker „Netzwerk" ergänzt.
+
+## AA. Circuit-Scan (KI-Foto-Scan) — Rückkehr des als „entfernt" dokumentierten OCR-Features, Datenschutztext dadurch wieder falsch
+
+Runde 1/K hatte bestätigt, dass das OCR-Feature (Foto-Scan per Anthropic/Claude) nicht mehr existiert, Datenschutzaussage „keine Kommunikation mit Drittanbietern" deshalb korrekt. Seit Commit `cefee19` (30.08., „Circuit-Scan-Funktion …") **nicht mehr zutreffend**:
+
+- `server/circuit-scan.js:1-6` — liest Kreisliste per Claude Vision aus, importiert `@anthropic-ai/sdk`, Modell `claude-sonnet-5`.
+- `server/circuit-scan.js:33-40` — `defaultAnthropicClient()` instanziiert echten Anthropic-Client.
+- `shared/locales/de.json:311-322` — `import.modal.scan.*`: „Foto des ausgefüllten Kreislisten-Vordrucks hochladen — Filter, Notizen und neue Kreise werden per KI ausgelesen."
+
+Direkter Rückfall auf den in K behandelten Sachverhalt — als **neuer** Fund zulässig, weil sich der Code-Zustand seither geändert hat (Feature kam zurück):
+
+- `docs/de/datenschutz.md:9` sagt unverändert: „Es findet keine Kommunikation mit Servern von Drittanbietern statt." — jetzt für die Web-App **falsch**.
+- Feature funktional nirgends dokumentiert (`import-csv.md`, `import-eos.md` behandeln nur die zwei alten Importwege).
+- Website erwähnt das Feature ebenfalls nicht.
+
+- [x] `datenschutz.md` (DE+EN) um Web-App-Fall Circuit-Scan ergänzen: Bilder gehen bei Nutzung an die Anthropic-API. — ✅ erledigt (2026-09-06): Überblick-Absatz in `docs/de/datenschutz.md`/`docs/en/privacy.md` nennt die Ausnahme explizit, neuer Abschnitt „Kreisliste scannen (KI-Foto-Scan)" / „Scan Channel List (AI Photo Scan)" erläutert Umfang, Zweck und Link zu Anthropics Datenschutzbestimmungen.
+- [x] Neue Doku-Seite/Abschnitt für „Kreisliste scannen" (dritter Importweg neben CSV und EOS). — ✅ erledigt (2026-09-06): Neue Seiten `docs/de/webapp/scan-kreisliste.md` und `docs/en/webapp/scan-channel-list.md` (Vordruck, Upload, Vorschau mit einzeln abwählbaren Zeilen, Übernehmen). Verlinkt von `webapp/index.md` (DE+EN) und `import-csv.md` (DE+EN); Sidebar-Eintrag in `config.js` (DE+EN) ergänzt; „Import & Export"-Sektion in `features.md` (DE+EN) um den Scan ergänzt.
+- [x] Rechtliches Risiko wie ursprünglich in K eingestuft — jetzt wieder akut. — ✅ geprüft (2026-09-06): `luxstage-website` (index.html, i18n.js, impressum.html) macht keine eigene Datenschutzaussage zu Drittanbietern/Anthropic — nur Links zur Doku-Datenschutzseite. Keine Website-Änderung nötig.
+
+## AB. Benutzerrollen entfernt — Docs und Website behaupten weiterhin zwei Rollen mit unterschiedlichen Rechten
+
+Commit `0133812` („Benutzerrollen entfernen: keine Unterscheidung mehr zwischen Admin und Techniker", 24.08.). `server/db/users.js` enthält kein `role`-Feld mehr. `shared/locales/de.json:548-549` behält noch `settings.users.role.admin`/`role.techniker` als Locale-Rest (nicht tiefer verifiziert, ob im Frontend noch aufgerufen).
+
+Betroffen, alle noch mit Zwei-Rollen-Modell:
+
+- `docs/de/webapp/einstellungen.md:116-121,139` — Rollentabelle admin/Techniker mit unterschiedlichen Rechten.
+- `docs/de/features.md:157-164` — Abschnitt „Benutzerverwaltung", Tabelle admin/techniker mit Rechteunterschied.
+- `docs/de/faq.md:27` — „Admins und Techniker können gleichzeitig arbeiten."
+- `luxstage-website/features.html:399,415-421` — „Zwei Rollen, klare Grenzen: Techniker arbeiten, Admins verwalten", `tech_no1`/`tech_no2`.
+- `luxstage-website/i18n.js:282,285` — dieselbe Aussage in den Locale-Strings.
+
+Nicht identisch mit dem offenen Prüfpunkt in G/Runde 1 (ging von Existenz zweier Rollen aus, wollte nur Rechte-Details klären) — hier existieren Rollen laut Code **gar nicht mehr**.
+
+- [x] Falls Rollenentfernung endgültig: Rollentabellen in `einstellungen.md`, `features.md`, `faq.md` (DE+EN) und `features.html`/`i18n.js` überarbeiten. — ✅ erledigt (2026-09-06): `einstellungen.md`/`settings.md` — Rollentabelle entfernt, neutraler Text „keine Benutzerrollen, jeder Benutzer hat vollen Zugriff". `features.md` — Abschnitt „Benutzerverwaltung" auf „Einfache Zugänge für dein Team" umgeschrieben. `faq.md` — „Admins und Techniker" durch rollenneutrale Formulierung ersetzt. `features.html` — Zwei-Karten-Layout (Admin/Techniker) auf „Jeder Benutzer kann" / „… und außerdem" umgestellt, Headline/Beschreibung angepasst. `i18n.js` (DE+EN) — dieselben Strings (`sec_users_headline`, `sec_users_desc`, `role_admin`, `role_tech`) korrigiert.
+- [x] Klären, ob `settings.users.role.admin`/`role.techniker` in der App tatsächlich noch angezeigt werden (Code-seitige Nachprüfung nötig). — ✅ geprüft (2026-09-06): `grep role` über `web-app/src` zeigt keinen Aufrufer dieser Keys und kein `requireAdmin` mehr in `server/`. Bestätigt: keine Rechteunterschiede zwischen Benutzern mehr, die beiden Locale-Keys sind tot.
+
+## AC. Übrige Prüfpunkte A–E ohne neuen Befund
+
+- **A**: Keine erfundenen Website-Features gefunden — alle beworbenen Funktionen (EOS-Import, PDF-Export, Grundriss, Versionsverlauf, Fotos, Spielort-Vorlagen, Echtzeit-Sync) existieren im Code. Fehlende Bewerbung: Netzwerk-Ansicht (Z) und Circuit-Scan (AA).
+- **C**: Netzwerk-Ansicht und Circuit-Scan sind in beiden (Docs + Website) nicht nachgezogen — siehe Z, AA. Rein interne Änderungen (Multi-Tenant, JWT-Härtung, Rate-Limiting, Refactorings) sind zu Recht nicht dokumentiert.
+- **D**: Über Y, Z, AA, AB hinaus keine weiteren Abweichungen in den geprüften Kernseiten.
+- **E**: Kein weiterer Widerspruch außer der unter Y beschriebenen Kanal/Kreis-Spaltung zwischen `index.html` und `features.html`.

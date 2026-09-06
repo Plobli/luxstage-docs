@@ -6,7 +6,7 @@ This privacy policy applies to both the **iOS app** and the **web app**, regardl
 
 ## Overview
 
-LuxStage is designed to **collect no personal data**. Both apps communicate exclusively with the LuxStage server — with self-hosting, your own server; with the hosted service, the operator's server. There is no communication with third-party servers.
+LuxStage is designed to **collect no personal data**. Both apps communicate exclusively with the LuxStage server — with self-hosting, your own server; with the hosted service, the operator's server. There is no communication with third-party servers — **with one exception:** if you use the "Scan channel list" feature in the web app, the photo you upload is sent to Anthropic's API (see the [Scan Channel List (AI Photo Scan)](#scan-channel-list-ai-photo-scan) section below).
 
 ## Web app and self-hosting
 
@@ -15,6 +15,19 @@ The web app runs in the browser and stores only the server address and the selec
 With **self-hosting**, you are the responsible data controller under GDPR and are yourself responsible for data security, access protection, and any data processing agreements (e.g. with a hosting provider for the server).
 
 With the **hosted service** (luxstage.app), the LuxStage operator is the responsible party for data stored there.
+
+## Scan Channel List (AI Photo Scan)
+
+Under "Import", the web app offers a **"Scan channel list"** feature: a photo of a filled-out channel list (printed template or handwritten) is uploaded so that filters, notes, and new channels can be read automatically.
+
+For this feature, the uploaded photo is sent to the **Anthropic API** (Claude Vision, the provider of the underlying AI model) and processed there for text recognition. This is the only exception to the rule that LuxStage communicates exclusively with your own LuxStage server.
+
+- The transfer only happens when you actively use the "Scan channel list" feature.
+- No other show or user data is sent to Anthropic — only the selected photo and, as a reading aid, the channel data already stored in the show (channel number, address, fixture, position).
+- The result is shown in a preview where you can deselect each detected change individually before it is applied.
+- [Anthropic's privacy policy](https://www.anthropic.com/legal/privacy) applies to this processing.
+
+If you don't use this feature, nothing changes for you — the other ways of building a channel list (manual entry, EOS import, CSV import) communicate exclusively with your own LuxStage server.
 
 ## What data is stored?
 

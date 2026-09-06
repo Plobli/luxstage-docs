@@ -1,11 +1,11 @@
 # CSV exportieren
 
-Exportiert die Kanaldaten als **CSV-Datei** – kompatibel mit Microsoft Excel, Google Sheets und anderen Tabellenkalkulationen.
+Exportiert die Kreisdaten als **CSV-Datei** – kompatibel mit Microsoft Excel, Google Sheets und anderen Tabellenkalkulationen.
 
 - **Trennzeichen:** Semikolon (`;`)
 - **Encoding:** UTF-8
 - **Dateiname:** `<Show-ID>-kanäle.csv`
-- **Spalten** (in dieser Reihenfolge): Kanal, Dimmer-Adresse, Gerät, Position, Farbe, Notizen
+- **Spalten** (in dieser Reihenfolge): Kreis, Dimmer-Adresse, Gerät, Bühnenposition, Farbe, Notizen
 
 Das Format entspricht exakt dem des [CSV-Imports](./import-csv) — eine exportierte Datei lässt sich unverändert wieder importieren.
 

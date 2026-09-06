@@ -63,13 +63,14 @@ export default {
               items: [
                 { text: 'Anmeldung', link: '/de/webapp/login' },
                 { text: 'Shows', link: '/de/webapp/shows' },
-                { text: 'Kanäle', link: '/de/webapp/kanaele' },
+                { text: 'Kreise', link: '/de/webapp/kanaele' },
                 { text: 'Setup — Beleuchtungsgestelle', link: '/de/webapp/setup-gestelle' },
                 { text: 'Setup — Zugstangen', link: '/de/webapp/setup-zugstangen' },
                 { text: 'Info', link: '/de/webapp/info' },
                 { text: 'Fotos', link: '/de/webapp/fotos' },
                 { text: 'Grundriss', link: '/de/webapp/grundriss' },
                 { text: 'Versionsverlauf', link: '/de/webapp/versionsverlauf' },
+                { text: 'Netzwerk', link: '/de/webapp/netzwerk' },
               ]
             },
             {
@@ -77,6 +78,7 @@ export default {
               items: [
                 { text: 'Aus EOS importieren', link: '/de/webapp/import-eos' },
                 { text: 'CSV importieren', link: '/de/webapp/import-csv' },
+                { text: 'Kreisliste scannen', link: '/de/webapp/scan-kreisliste' },
                 { text: 'PDF exportieren', link: '/de/webapp/export-pdf' },
                 { text: 'CSV exportieren', link: '/de/webapp/export-csv' },
               ]
@@ -185,6 +187,7 @@ export default {
                 { text: 'Photos', link: '/en/webapp/photos' },
                 { text: 'Floor Plan', link: '/en/webapp/floor-plan' },
                 { text: 'Version History', link: '/en/webapp/version-history' },
+                { text: 'Network', link: '/en/webapp/network' },
               ]
             },
             {
@@ -192,6 +195,7 @@ export default {
               items: [
                 { text: 'Import from EOS', link: '/en/webapp/import-eos' },
                 { text: 'Import CSV', link: '/en/webapp/import-csv' },
+                { text: 'Scan Channel List', link: '/en/webapp/scan-channel-list' },
                 { text: 'Export PDF', link: '/en/webapp/export-pdf' },
                 { text: 'Export CSV', link: '/en/webapp/export-csv' },
               ]
