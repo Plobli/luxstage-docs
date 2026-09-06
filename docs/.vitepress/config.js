@@ -31,7 +31,7 @@ export default {
           {
             text: 'Rechtliches',
             items: [
-              { text: 'Datenschutz', link: '/de/datenschutz' },
+              { text: 'Datenschutz', link: 'https://luxstage.app/datenschutz.html' },
               { text: 'Impressum', link: 'https://luxstage.app/impressum.html' },
             ]
           },
@@ -120,7 +120,7 @@ export default {
 
         footer: {
           message: 'Open Source & selbst gehostet',
-          copyright: '<a href="/de/datenschutz">Datenschutz</a> · <a href="https://luxstage.app/impressum.html">Impressum</a> · LuxStage © 2026'
+          copyright: '<a href="https://luxstage.app/datenschutz.html">Datenschutz</a> · <a href="https://luxstage.app/impressum.html">Impressum</a> · LuxStage © 2026'
         },
 
         outline: {
@@ -148,7 +148,7 @@ export default {
           {
             text: 'Legal',
             items: [
-              { text: 'Privacy Policy', link: '/en/privacy' },
+              { text: 'Privacy Policy', link: 'https://luxstage.app/privacy.html' },
               { text: 'Legal Notice', link: 'https://luxstage.app/impressum.html' },
             ]
           },
@@ -237,7 +237,7 @@ export default {
 
         footer: {
           message: 'Open source & self-hosted',
-          copyright: '<a href="/en/privacy">Privacy Policy</a> · <a href="https://luxstage.app/impressum.html">Legal Notice</a> · LuxStage © 2026'
+          copyright: '<a href="https://luxstage.app/privacy.html">Privacy Policy</a> · <a href="https://luxstage.app/impressum.html">Legal Notice</a> · LuxStage © 2026'
         },
 
         outline: {

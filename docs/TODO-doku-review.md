@@ -378,3 +378,12 @@ Nicht identisch mit dem offenen Prüfpunkt in G/Runde 1 (ging von Existenz zweie
 - **C**: Netzwerk-Ansicht und Circuit-Scan sind in beiden (Docs + Website) nicht nachgezogen — siehe Z, AA. Rein interne Änderungen (Multi-Tenant, JWT-Härtung, Rate-Limiting, Refactorings) sind zu Recht nicht dokumentiert.
 - **D**: Über Y, Z, AA, AB hinaus keine weiteren Abweichungen in den geprüften Kernseiten.
 - **E**: Kein weiterer Widerspruch außer der unter Y beschriebenen Kanal/Kreis-Spaltung zwischen `index.html` und `features.html`.
+
+## AD. Rechtliche Seiten (Datenschutz, Impressum) von Docs auf Website verlagert
+
+Anlass: `docs.luxstage.app/de/datenschutz` war nicht aufrufbar (nginx im Docs-Container hatte keine Clean-URL-Regel für `.html`-lose VitePress-Routen — siehe `nginx.conf`/`Dockerfile` in `luxstage-docs`). Statt nur den nginx-Fehler zu fixen, auf Wunsch strukturell bereinigt: Datenschutz gehört inhaltlich zum rechtlichen Rahmen des Betreibers (wie das Impressum), nicht zur Produktdokumentation.
+
+- [x] Vollständiger Datenschutztext von `docs/de/datenschutz.md`/`docs/en/privacy.md` nach `luxstage-website/datenschutz.html`/`privacy.html` verschoben (Stil an `impressum.html` angeglichen, inkl. Circuit-Scan-Abschnitt aus Runde 6/AA).
+- [x] Docs-Seiten auf einen Verweis reduziert, VitePress-Nav/Footer (`config.js`, DE+EN) zeigen jetzt direkt auf `luxstage.app/datenschutz.html`/`privacy.html`.
+- [x] Website-Footer (`index.html`, `features.html`) verlinkt sprachabhängig über neues `data-i18n-href-privacy`-Attribut in `i18n.js` auf die passende Datei; `impressum.html`-Footer ebenfalls auf lokale Datei umgestellt.
+- [x] `nginx.conf` (neu) mit `try_files`-Fallback ergänzt und im `Dockerfile` eingebunden, damit clean URLs (`/de/xyz` ohne `.html`) im nginx-Produktionsbuild grundsätzlich funktionieren — unabhängig von der Verlagerung, behebt die eigentliche Fehlerursache für alle übrigen Docs-Seiten.
