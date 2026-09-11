@@ -1,23 +1,19 @@
 # Aufbau (iOS)
 
-Der **Aufbau**-Tab zeigt die showspezifischen Metadaten sowie die Aufbau-Checkliste der Produktion.
+Der **Aufbau**-Tab ist die Startansicht einer geöffneten Show und zeigt direkt die Aufbaunotizen — alle weiteren Bereiche sind über den Button **Bereiche** oben rechts erreichbar.
 
-## Metadaten
+## Bereiche-Menü
 
-Oben werden Name, Spielort und Datum der Show angezeigt. Der **Stift-Button** oben rechts öffnet den Bearbeitungsmodus.
+Der Button **Bereiche** (Icon mit vier Kacheln) oben rechts öffnet ein Menü mit allen weiteren Bereichen der Show: Beleuchtungsgestelle, Obermaschinerie, Fotos, Grundriss sowie Raum, Hinweise und benutzerdefinierte Bereiche. Details dazu: [Bereiche](./bereiche).
 
-## Setup-Checkliste
+## Aufbaunotizen
 
-Unter **Setup** sind alle Aufbauschritte der Show aufgelistet (z. B. „2x PAR 64 CP61 auf Stativ", „Bodenrampe an Vorbühnenkante"). Jeder Schritt kann durch Antippen als **erledigt** markiert werden — der Text wird dann durchgestrichen dargestellt.
+Direkt im Tab stehen die Aufbaunotizen der Show — Freitext-Hinweise zum Aufbau, z. B. besondere Abläufe oder Team-Hinweise (z. B. „Hauptvorhang spielt mit").
 
-<img src="/img/ios/aufbau-setup.png" alt="Setup-Checkliste offen" class="ios-screenshot">
+### Generierte Notizen
 
-<img src="/img/ios/aufbau-setup-abgehakt.png" alt="Setup-Checkliste abgehakt" class="ios-screenshot">
-
-## Besonderheiten
-
-Unter **Besonderheiten** erscheinen Freitext-Notizen zur Show, z. B. besondere Abläufe oder Hinweise für das Team (z. B. „Hauptvorhang spielt mit").
+Oberhalb der eigenen Notizen erscheint dezent der Abschnitt **Generierte Notizen**: automatisch aus den Beleuchtungsgestellen und der Obermaschinerie erzeugte Zeilen, die auflisten, welcher Scheinwerfer an welcher Position hängt (Kanal, Gerät, Farbe, Position). Jede Zeile lässt sich per Antippen als erledigt markieren.
 
 ::: tip
-Setup-Checkliste und Besonderheiten werden in der Web-App im **Info**-Tab gepflegt und stehen dann in der iOS-App zur Verfügung.
+Aufbaunotizen werden in der Web-App im **Info**-Tab gepflegt und stehen dann in der iOS-App zur Verfügung. Die generierten Notizen ergeben sich automatisch aus den in der Web-App hinterlegten Beleuchtungsgestellen und der Obermaschinerie.
 :::

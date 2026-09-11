@@ -18,16 +18,16 @@ Die App ist in zwei Ebenen gegliedert:
 
 | Tab | Funktion |
 |-----|----------|
-| **Aufbau** | Setup-Checkliste und Besonderheiten der Show |
+| **Aufbau** | Aufbaunotizen der Show; über den Bereiche-Button Zugriff auf Beleuchtungsgestelle, Obermaschinerie, Fotos, Grundriss und weitere Bereiche |
 | **Einleuchten** | Kreisplan zum Fokussieren der Scheinwerfer |
 | **OSC** | EOS-Fernsteuerung (Numpad, Playback, Fader, ML) |
-| **More** | Fotos und Grundriss |
+| **Suche** | Show-übergreifende Suche nach Kanälen und Bereichen |
 
 ## Nächste Schritte
 
 - [Shows](./shows) — Shows öffnen und anlegen
-- [Aufbau](./aufbau) — Setup-Checkliste
+- [Aufbau](./aufbau) — Aufbaunotizen und Bereiche-Menü
+- [Bereiche](./bereiche) — Beleuchtungsgestelle, Obermaschinerie, Fotos, Grundriss
 - [Einleuchten](./einleuchten) — Scheinwerfer fokussieren
 - [OSC](./osc) — EOS-Konsole fernsteuern
-- [Fotos & Grundriss](./more) — Visuelle Dokumentation
 - [Einstellungen](./einstellungen) — Server und OSC-Venues konfigurieren
