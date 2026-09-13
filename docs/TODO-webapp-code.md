@@ -107,7 +107,7 @@ Der Nutzer legt eine „Kategorie" an und benennt danach eine „Position" um �
 **`field.category` gelöscht** — in allen vier Sprachdateien. Der Key hatte weder in der Web-App noch in iOS einen Aufrufer und stand inhaltsgleich neben `field.position`.
 
 **Nebenbefunde:**
-- Der Prop-Default in ChannelTable lautete `addCategory: '+ Kategorie'`, das Template rendert aber bereits `+ {{ labels.addPosition }}` — hätte „+ + Kategorie" ergeben. Plus im Default entfernt.
+- Der Prop-Default in ChannelTable lautete `addCategory: '+ Kategorie'`, das Template rendert aber bereits `+ &#123;&#123; labels.addPosition &#125;&#125;` — hätte „+ + Kategorie" ergeben. Plus im Default entfernt.
 - TemplatesView übergab `addCategory` und `categoryNamePlaceholder` gar nicht. Bei Objekt-Props greift der Default **nicht** feldweise, das Label war also `undefined` und der Knopf zeigte nur „+". Beide Labels ergänzt.
 
 **Doku und Website angeglichen:** `docs/de/index.md`, `docs/en/index.md` sowie `LuxStage-Website/index.html` und `i18n.js` (`feat_channels_desc`, beide Sprachen) sagten „nach Position, Kategorie und DMX-Adresse" — also beide Wörter für dasselbe. Jetzt nur noch „Position".
