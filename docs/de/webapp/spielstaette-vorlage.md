@@ -50,14 +50,20 @@ In der Detailansicht einer Spielort-Vorlage gibt es das Feld **OSC-IP**. Hier wi
 
 Die IP-Adresse gilt für alle Benutzer und Geräte, die mit dieser Spielort-Vorlage arbeiten. Die EOS-User-ID wird separat pro Gerät in der iOS-App gesetzt.
 
-## Vorlagen-Liste
+## Vorlagen-Übersicht
 
-Die Übersicht zeigt pro Spielort-Vorlage:
+Die Übersicht zeigt pro Spielort-Vorlage eine eigene **Karte** (kein Listen-/Tabellen-Layout) mit:
 
 - **Name** der Spielort-Vorlage
 - **Kreisanzahl** — Anzahl der gespeicherten Kreise
 - **OSC-IP** — konfigurierte IP-Adresse (falls vorhanden)
 - **Zuletzt geändert** — Datum der letzten Änderung
+
+Jede Karte bietet die Buttons:
+
+- **„Vordruck (PDF)"** — lädt einen leeren Kreislisten-Vordruck dieser Spielort-Vorlage zum Ausdrucken herunter, z. B. zum handschriftlichen Ausfüllen vor einem [Kreislisten-Scan](./scan-kreisliste)
+- **„Bearbeiten"** — öffnet die Detailansicht der Spielort-Vorlage
+- **„Löschen"** — löscht die Spielort-Vorlage nach Bestätigung unwiderruflich
 
 ## Spielort-Vorlage bei neuer Produktion verwenden
 

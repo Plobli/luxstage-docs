@@ -1,6 +1,6 @@
 # Floor Plan
 
-The **Floor Plan** tab provides an interactive vector editor for the stage plan. Fixture positions can be drawn in, labelled and exported.
+The **Floor Plan** tab (labelled **"Drawing"** in the app sidebar) provides an interactive vector editor for the stage plan. Fixture positions can be drawn in, labelled and exported.
 
 ## User interface
 
@@ -27,17 +27,7 @@ The **Floor Plan** tab provides an interactive vector editor for the stage plan.
 | ↪ | **Redo** | Ctrl+Y / Ctrl+Shift+Z |
 | 🗑 | **Delete selection** | Delete / Backspace |
 
-### More keyboard shortcuts
-
-| Action | Keyboard shortcut |
-|--------|-------------------|
-| Reset view | F / Ctrl+0 |
-| Temporarily pan view | Hold spacebar |
-| Move selection | Arrow keys (10 units with Shift) |
-| Copy / Paste | Ctrl+C / Ctrl+V |
-| Duplicate | Ctrl+D |
-| Select all | Ctrl+A |
-| Cancel tool / clear selection | Esc |
+More keyboard shortcuts for the floor plan editor: see [Keyboard Shortcuts](./keyboard-shortcuts).
 
 ### Options bar (top left)
 

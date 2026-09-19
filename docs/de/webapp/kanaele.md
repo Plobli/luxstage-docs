@@ -1,6 +1,6 @@
 # Kreise
 
-Der **Kreise**-Tab ist die Hauptansicht einer Show und zeigt den vollständigen Kreisplan.
+Der **Kreise**-Tab (in der App-Sidebar als **„Kreisliste"** bezeichnet) ist die Hauptansicht einer Show und zeigt den vollständigen Kreisplan.
 
 ::: tip Inline-Hilfe in der App
 Neben den Spaltenüberschriften der Kreistabelle und im Setup-Bereich zeigen kleine Hilfe-Icons Kurzerklärungen zu den jeweiligen Feldern direkt in der App.
@@ -18,15 +18,17 @@ Die Avatare erscheinen erst ab zwei gleichzeitig verbundenen Personen; bei mehr 
 
 ## Aufbau des Kreisplans
 
-Die Tabelle hat fünf Spalten:
+Die Tabelle hat folgende Spalten:
 
 | Spalte | Bedeutung |
 |--------|-----------|
-| **KREIS** | Kreisname im Pult (links) / Dimmer-Adresse (rechts nach dem „/"), z. B. „1/001" |
-| **FARBE** | Farbfilter (Gel-Code), z. B. „L201/R371" oder „RGB", „variable" |
+| **KREIS** | Kreisnummer, reine Zahl, z. B. „1" |
+| **DMX** | Universum/Adresse, z. B. „1/121" |
+| **COLOR** | Farbfilter (Gel-Code), z. B. „L201/R371" oder „RGB", „variable" |
 | **ANZ.** | Anzahl identischer Geräte an dieser Bühnenposition |
 | **GERÄT** | Leuchtenbezeichnung, z. B. „ETC Source Four 26°" |
 | **NOTIZEN** | Freitext-Notiz, z. B. „Key light stage left, narrow spot" |
+| **ZUWEISEN** | Button zum Zuweisen eines Einbauorts (siehe unten) |
 
 Die Kreise sind nach **Bühnenpositionen** gruppiert (z. B. „FOH BAR LEFT", „OVERHEAD BAR 1", „SIDE BOOM SL"). Die Anzahl der Kreise je Bühnenposition wird als Zahl rechts neben dem Namen der Bühnenposition angezeigt.
 
@@ -43,7 +45,7 @@ Die Kreise sind nach **Bühnenpositionen** gruppiert (z. B. „FOH BAR LEFT", �
 | **Gerät** | Klicken → Gerätebezeichnung eingeben |
 | **Notizen** | Klicken → Freitext eingeben |
 
-::: tip DMX-Adresse wird automatisch normalisiert
+::: details DMX-Adresse wird automatisch normalisiert
 Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Universum/Adresse" gebracht, z. B. wird aus „129" automatisch „1/129" und aus „1/1" wird „1/001". Reine Zahlen über 512 werden dabei als durchlaufende Adresse über mehrere Universen interpretiert (z. B. „515" → „2/003").
 :::
 

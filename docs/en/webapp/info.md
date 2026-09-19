@@ -1,22 +1,18 @@
-# Info
+# Setup Notes, Room & Notices
 
-The **Info** tab contains freely configurable text areas and tables. The **venue template** provides its own default sections, and you can also add a custom section per show. Technical notes, rigging information and structured data fields can be stored here.
+Despite the name, the app has **no single "Info" tab**. Instead, each section of the venue template appears as its **own entry in the sidebar** of the show — e.g. "Setup Notes", "Room" or "Notices". Use **"+ Section"** to add further sections.
 
-## Sections
+## Section types
 
-Each venue template defines its own default sections. Typical examples:
+Each section has one of two types:
 
-### Rigging / Hanging (text field type)
+### Text
 
-Free-text area for rigging information: positions, hanging points, fixtures per bar. Supports rich-text formatting.
+Free-text area with formatting — for descriptions, special notes, or open items. The default **"Setup Notes"** section is of this type.
 
-### Cue Notes (text field type)
+### Fields
 
-Structured cue descriptions, organised by act (Act I, Act II, Act III). Each cue is entered with a number and description.
-
-### Rigging Heights / custom fields (field type)
-
-Table with two columns: **LABEL** and **VALUE**. Suitable for structured data such as hanging heights.
+Table of structured label/value pairs for technical data, e.g. room dimensions or hanging heights.
 
 ## Editing text areas
 
@@ -33,27 +29,27 @@ The toolbar above each text area provides the following formatting options:
 
 Simply click in the text area and start typing. Changes are saved automatically.
 
-## Table sections (field type)
+## Fields sections
 
-Sections of the **"Fields"** type show a table with three columns: **Label**, **Value**, and **Unit** (e.g. "metres").
+Sections of the **"Fields"** type show a table of structured rows (label/value).
 
-- **+ Field** – Add a new row with label, value, and optional unit
+- **+ Field** – Add a new row
 - **+ Text field** – Insert a free text block within the section
+
+::: tip Only one fields section per show
+Only **one** "Fields" section is allowed per show — once one exists, the corresponding button disappears from the creation dialog.
+:::
 
 ## Adding a custom section
 
-In addition to the sections from the venue template, you can add a custom section per show:
-
-1. Click **"New tab"**
-2. Choose a type: **Text field** or **Fields**
-3. Enter a name and confirm
-
-Only **one** fields-type section is allowed per show at a time.
+1. Click **"+ Section"** in the sidebar
+2. Choose a type: **Text** or **Fields**
+3. Enter a name (e.g. "Rigging") and confirm
 
 ## Collapsing sections
 
 Each section has an **×** symbol in the top right to collapse/close the section.
 
-## Automatically generated text
+## Automatically generated text in Setup Notes
 
-In the "Setup" section, below your own notes, a read-only area shows automatically generated text — separately for **lighting rigs** and **fly system** (bars), provided data has been entered in Setup ([Lighting Rigs](./setup-gestelle) resp. [Bars](./setup-zugstangen)). The text summarises occupied positions, channels, fixtures, and colours, and can be selected and copied with a click (e.g. for cue sheets or emails to the director). It is not edited manually — it updates automatically along with the setup data.
+In the **"Setup Notes"** section, below your own notes, a read-only area shows automatically generated text — separately for **lighting rigs** and the **fly system** (bars), provided data has been entered in Setup ([Lighting Rigs](./setup-gestelle) resp. [Bars](./setup-zugstangen)). The text summarises occupied positions, channels, fixtures, and colours, and can be selected and copied with a click (e.g. for cue sheets or emails to the director). It is not edited manually — it updates automatically along with the setup data.

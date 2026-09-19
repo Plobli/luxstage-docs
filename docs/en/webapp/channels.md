@@ -1,6 +1,6 @@
 # Channels
 
-The **Channels** tab is the main view of a show and displays the complete channel plan.
+The **Channels** tab (labelled **"Channel list"** in the app sidebar) is the main view of a show and displays the complete channel plan.
 
 ::: tip Inline help in the app
 Next to the column headers of the channel table and in the Setup area, small help icons show brief explanations for each field directly in the app.
@@ -18,15 +18,17 @@ Avatars only appear once two or more people are connected at the same time; beyo
 
 ## Channel plan structure
 
-The table has five columns:
+The table has the following columns:
 
 | Column | Meaning |
 |--------|---------|
-| **Chan** | Channel name in the console (left) / Dimmer address (right, after the "/"), e.g. "1/001" |
+| **Chan** | Channel number, plain integer, e.g. "1" |
+| **DMX** | Universe/address, e.g. "1/121" |
 | **Color** | Colour filter (gel code), e.g. "L201/R371" or "RGB", "variable" |
 | **Qty.** | Number of identical fixtures at this position |
 | **Device** | Fixture name, e.g. "ETC Source Four 26°" |
 | **Notes** | Free-text note, e.g. "Key light stage left, narrow spot" |
+| **Assign** | Button to assign an installation spot (see below) |
 
 Channels are grouped by **positions** (e.g. "FOH BAR LEFT", "OVERHEAD BAR 1", "SIDE BOOM SL"). The number of channels per position is shown as a number to the right of the position name.
 
@@ -43,7 +45,7 @@ Channels are grouped by **positions** (e.g. "FOH BAR LEFT", "OVERHEAD BAR 1", "S
 | **Fixture** | Click → enter fixture name |
 | **Notes** | Click → enter free text |
 
-::: tip DMX address is normalized automatically
+::: details DMX address is normalized automatically
 When you leave the address field, the input is automatically formatted as "universe/address" — e.g. "129" becomes "1/129" and "1/1" becomes "1/001". Plain numbers above 512 are treated as a continuous address spanning multiple universes (e.g. "515" → "2/003").
 :::
 

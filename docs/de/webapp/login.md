@@ -9,18 +9,18 @@ Beim Aufruf der Web-App erscheint die Login-Seite mit zwei Feldern:
 
 Klick auf **„Anmelden"**. Bei falschen Zugangsdaten erscheint „Anmeldung fehlgeschlagen. Bitte E-Mail-Adresse und Passwort prüfen."
 
-::: tip Erster Login nach der Installation
-Zugangsdaten sind die E-Mail-Adresse und das Passwort, die während der [Installation](../guide/installation) festgelegt wurden.
-:::
+## Registrierung
+
+Unterhalb des Anmelde-Formulars erscheint der Link **„Noch kein Konto? Registrieren"**. Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) läuft die Registrierung über ein Team-Kürzel plus E-Mail-Adresse und Passwort, per Bestätigungslink per E-Mail (Double-Opt-in). Neue Teammitglieder eines bestehenden Teams legt man stattdessen über **Einstellungen → Benutzerverwaltung → Neuer Benutzer** an (siehe [Einstellungen](./einstellungen)).
 
 ## Passwort vergessen
 
-Unterhalb des Anmelde-Formulars erscheint einer von zwei Hinweisen, abhängig davon, ob der Server für den Mailversand (SMTP) konfiguriert ist:
-
-**SMTP konfiguriert** — Link **„Passwort vergessen?"** verfügbar:
+Unterhalb des Anmelde-Formulars steht der Link **„Passwort vergessen?"**:
 
 1. Klick auf den Link → E-Mail-Adresse eingeben → **„Link anfordern"**
 2. Aus Sicherheitsgründen erscheint immer derselbe Hinweis, unabhängig davon, ob ein Konto mit dieser Adresse existiert: „Falls ein Konto mit {E-Mail} existiert, haben wir einen Link zum Zurücksetzen verschickt."
 3. Der Link in der E-Mail ist **1 Stunde** gültig und führt zu einer Seite zur Vergabe eines neuen Passworts (mindestens 8 Zeichen, mit Bestätigung)
 
-**Kein SMTP konfiguriert** — statt des Links erscheint der Hinweis: „Wende dich an deinen Administrator, um dein Passwort zurücksetzen zu lassen." Ein Admin kann das Passwort unter **Einstellungen → Benutzerverwaltung → Passwort zurücksetzen** neu vergeben.
+::: tip Self-Hosting ohne SMTP
+Betreibst du LuxStage selbst und hast keinen Mailversand (SMTP) eingerichtet, entfällt dieser Link — siehe [Einstellungen für Self-Hosting](./einstellungen-self-hosting).
+:::

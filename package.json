@@ -1,6 +1,6 @@
 {
   "name": "luxstage-docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LuxStage Documentation with VitePress",
   "scripts": {
     "docs:dev": "vitepress dev docs --host",

@@ -28,9 +28,9 @@ Die vertikale Seitenleiste links enthält fünf Symbole:
 
 - [Shows](./shows) — Shows anlegen und öffnen
 - [Spielort-Vorlage anlegen](./spielstaette-vorlage) — Struktur einmalig definieren
-- [Kreise](./kanaele) — Kreisplan pflegen
+- [Kreise](./kanaele) — Kreisplan pflegen (App-Sidebar: „Kreisliste")
 - [Fotos](./fotos) — Visuelle Dokumentation
-- [Grundriss](./grundriss) — Bühnenplan hinterlegen
+- [Grundriss](./grundriss) — Bühnenplan hinterlegen (App-Sidebar: „Zeichnung")
 - [Netzwerk](./netzwerk) — Netzwerkdosen, Geräte und Switches dokumentieren
 - [Aus EOS importieren](./import-eos) — Kreisdaten vom Lichtpult übernehmen
 - [CSV importieren](./import-csv) — Kreisdaten aus CSV übernehmen

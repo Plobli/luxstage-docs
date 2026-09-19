@@ -66,7 +66,7 @@ export default {
                 { text: 'Kreise', link: '/de/webapp/kanaele' },
                 { text: 'Setup — Beleuchtungsgestelle', link: '/de/webapp/setup-gestelle' },
                 { text: 'Setup — Zugstangen', link: '/de/webapp/setup-zugstangen' },
-                { text: 'Info', link: '/de/webapp/info' },
+                { text: 'Aufbaunotizen, Raum & Hinweise', link: '/de/webapp/info' },
                 { text: 'Fotos', link: '/de/webapp/fotos' },
                 { text: 'Grundriss', link: '/de/webapp/grundriss' },
                 { text: 'Versionsverlauf', link: '/de/webapp/versionsverlauf' },
@@ -89,6 +89,7 @@ export default {
                 { text: 'Archiv', link: '/de/webapp/archiv' },
                 { text: 'Spielstätten-Vorlage anlegen', link: '/de/webapp/spielstaette-vorlage' },
                 { text: 'Einstellungen', link: '/de/webapp/einstellungen' },
+                { text: 'Einstellungen für Self-Hosting', link: '/de/webapp/einstellungen-self-hosting' },
               ]
             },
             {
@@ -183,7 +184,7 @@ export default {
                 { text: 'Channels', link: '/en/webapp/channels' },
                 { text: 'Setup — Lighting Rigs', link: '/en/webapp/setup-gestelle' },
                 { text: 'Setup — Bars', link: '/en/webapp/setup-zugstangen' },
-                { text: 'Info', link: '/en/webapp/info' },
+                { text: 'Setup Notes, Room & Notices', link: '/en/webapp/info' },
                 { text: 'Photos', link: '/en/webapp/photos' },
                 { text: 'Floor Plan', link: '/en/webapp/floor-plan' },
                 { text: 'Version History', link: '/en/webapp/version-history' },
@@ -206,6 +207,7 @@ export default {
                 { text: 'Archive', link: '/en/webapp/archive' },
                 { text: 'Venue Template', link: '/en/webapp/venue-template' },
                 { text: 'Settings', link: '/en/webapp/settings' },
+                { text: 'Settings for Self-Hosting', link: '/en/webapp/settings-self-hosting' },
               ]
             },
             {

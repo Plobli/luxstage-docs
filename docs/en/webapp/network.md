@@ -18,7 +18,7 @@ Elements are created via the **"+ Add element"** button below the elements table
 - **Label** — free-text name
 - **Location** — assign to a room or leave as "No location"
 - **Ports** (switches only) — number of switch ports
-- **Main switch** (switches only) — checkbox to mark the central switch
+- **Main switch** (switches only) — checkbox to mark a central switch; multiple switches can be marked as main switch at the same time
 
 An element is removed via the trash icon in its row. If connections still exist for that element, a dialog warns that they will be removed as well.
 
@@ -47,7 +47,7 @@ Above each grid, a badge shows utilization, e.g. "(6/24)". Switches without a co
 
 ### Other connections
 
-Connections that don't involve a switch (e.g. device directly to device) additionally appear in their own table with "From" and "To" columns. New connections are created via **"+ Add connection"**; as long as both ends aren't chosen yet, the entry stays a draft (highlighted) and is only saved once the selection is complete.
+Connections that don't involve a switch (e.g. device directly to device) additionally appear in their own table with "From", "To" and a third column with a trash icon to delete the connection. New connections are created via **"+ Add connection"**; as long as both ends aren't chosen yet, the entry stays a draft (highlighted) and is only saved once the selection is complete.
 
 ::: tip Only valid combinations are selectable
 When assigning a connection partner, only elements that make sense to connect given their element type are offered. If a target has already reached the maximum number of connections, a dialog asks whether to replace the oldest one.

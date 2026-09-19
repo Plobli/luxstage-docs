@@ -18,7 +18,7 @@ Elemente werden über den Button **„+ Element hinzufügen"** unterhalb der Ele
 - **Bezeichnung** — Freitext-Name
 - **Ort** — einem Raum zuweisen oder „Kein Ort" lassen
 - **Ports** (nur Switches) — Anzahl der Switch-Ports
-- **Hauptswitch** (nur Switches) — Checkbox zur Kennzeichnung des zentralen Switches
+- **Hauptswitch** (nur Switches) — Checkbox zur Kennzeichnung eines zentralen Switches; es lassen sich auch mehrere Switches gleichzeitig als Hauptswitch markieren
 
 Ein Element wird über das Papierkorb-Symbol in der jeweiligen Zeile gelöscht. Sind für das Element noch Verbindungen hinterlegt, warnt ein Dialog, dass diese ebenfalls entfernt werden.
 
@@ -47,7 +47,7 @@ Oberhalb jedes Grids zeigt ein Badge die Belegung, z. B. „(6/24)". Switches oh
 
 ### Sonstige Verbindungen
 
-Verbindungen, an denen kein Switch beteiligt ist (z. B. Gerät direkt an Gerät), erscheinen zusätzlich in einer eigenen Tabelle mit den Spalten „Von" und „Zu". Neue Verbindungen werden über **„+ Verbindung hinzufügen"** angelegt; solange nicht beide Enden gewählt sind, bleibt der Eintrag ein Entwurf (farblich hervorgehoben) und wird erst mit vollständiger Auswahl gespeichert.
+Verbindungen, an denen kein Switch beteiligt ist (z. B. Gerät direkt an Gerät), erscheinen zusätzlich in einer eigenen Tabelle mit den Spalten „Von", „Zu" und einer dritten Spalte mit Papierkorb-Symbol zum Löschen der Verbindung. Neue Verbindungen werden über **„+ Verbindung hinzufügen"** angelegt; solange nicht beide Enden gewählt sind, bleibt der Eintrag ein Entwurf (farblich hervorgehoben) und wird erst mit vollständiger Auswahl gespeichert.
 
 ::: tip Nur gültige Kombinationen wählbar
 Beim Zuweisen eines Verbindungspartners werden nur Elemente angeboten, die laut Elementtyp überhaupt sinnvoll miteinander verbunden werden können. Hat ein Ziel bereits die maximale Anzahl Verbindungen erreicht, fragt ein Dialog, ob die älteste Verbindung ersetzt werden soll.

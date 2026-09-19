@@ -39,7 +39,7 @@ If a venue is selected, the new show automatically inherits the channel structur
 
 ## Open a show
 
-Simply click on the desired show row. The show opens in the **Channels** tab.
+Simply click on the desired show row. The show opens in the **Channels** tab by default, but remembers the last tab you worked in — e.g. if the show was last edited in the Fly System tab, it reopens there next time.
 
 ## Change show metadata afterwards
 

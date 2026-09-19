@@ -1,22 +1,18 @@
-# Info
+# Aufbaunotizen, Raum & Hinweise
 
-Der **Info**-Tab enthält frei konfigurierbare Textbereiche und Tabellen. Die **Spielort-Vorlage** bringt eigene Standard-Abschnitte mit, zusätzlich lässt sich pro Show ein eigener Abschnitt anlegen. Hier können technische Notizen, Rigging-Informationen und strukturierte Datenfelder hinterlegt werden.
+Anders als der Name vermuten lässt, gibt es in der App **keinen einzelnen „Info"-Tab**. Jede Sektion der Spielort-Vorlage erscheint stattdessen als **eigener Eintrag in der Sidebar** der Show — z. B. „Aufbaunotizen", „Raum" oder „Hinweise". Über **„+ Bereich"** lassen sich weitere Sektionen hinzufügen.
 
-## Abschnitte (Sektionen)
+## Sektionstypen
 
-Jede Spielort-Vorlage definiert eigene Standard-Abschnitte. Typische Beispiele:
+Jede Sektion hat einen von zwei Typen:
 
-### Rigging / Hanging (Textfeld-Typ)
+### Text
 
-Freitext-Bereich für Rigging-Informationen: Bühnenpositionen, Hängepunkte, Geräte pro Bar. Unterstützt Rich-Text-Formatierung.
+Freitext-Bereich mit Formatierung — für Beschreibungen, Besonderheiten oder offene Punkte. Die Standard-Sektion **„Aufbaunotizen"** ist von diesem Typ.
 
-### Cue Notes (Textfeld-Typ)
+### Felder
 
-Strukturierte Cue-Beschreibungen, gegliedert nach Akten (Act I, Act II, Act III). Jeder Cue wird mit Nummer und Beschreibung eingetragen.
-
-### Rigging Hights / eigene Felder (Felder-Typ)
-
-Tabelle mit zwei Spalten: **LABEL** und **WERT**. Eignet sich für strukturierte Daten wie Hängehöhen.
+Tabelle mit strukturierten Schlüssel-Wert-Paaren für technische Daten, z. B. Raummaße oder Hängehöhen.
 
 ## Textbereiche bearbeiten
 
@@ -33,27 +29,27 @@ Die Werkzeugleiste über jedem Textbereich bietet folgende Formatierungen:
 
 Einfach in den Textbereich klicken und tippen. Änderungen werden automatisch gespeichert.
 
-## Tabellen-Abschnitte (Felder-Typ)
+## Felder-Bereiche
 
-Abschnitte vom Typ **„Felder"** zeigen eine Tabelle mit drei Spalten: **Label**, **Wert** und **Einheit** (z. B. „Meter").
+Abschnitte vom Typ **„Felder"** zeigen eine Tabelle mit strukturierten Zeilen (Label/Wert).
 
-- **+ Feld** – Neue Zeile mit Label, Wert und optionaler Einheit hinzufügen
+- **+ Feld** – Neue Zeile hinzufügen
 - **+ Textfeld** – Einen freien Textblock innerhalb des Abschnitts einfügen
 
-## Eigenen Abschnitt anlegen
+::: tip Nur ein Felder-Bereich pro Show
+Pro Show ist nur **ein** Bereich vom Typ „Felder" möglich — ist er bereits angelegt, verschwindet der entsprechende Button im Anlege-Dialog.
+:::
 
-Zusätzlich zu den Abschnitten aus der Spielort-Vorlage lässt sich pro Show ein eigener Abschnitt anlegen:
+## Eigenen Bereich anlegen
 
-1. Klick auf **„Neuer Tab"**
-2. Typ wählen: **Textfeld** oder **Felder**
-3. Namen vergeben und bestätigen
+1. Klick auf **„+ Bereich"** in der Sidebar
+2. Typ wählen: **Text** oder **Felder**
+3. Namen vergeben (z. B. „Rigging") und bestätigen
 
-Pro Show ist nur **ein** Felder-Abschnitt gleichzeitig möglich.
+## Bereiche schließen
 
-## Abschnitte schließen
+Jeder Bereich hat ein **×**-Symbol oben rechts zum Einklappen/Schließen der Sektion.
 
-Jeder Abschnitt hat ein **×**-Symbol oben rechts zum Einklappen/Schließen der Sektion.
+## Automatisch generierter Text bei Aufbaunotizen
 
-## Automatisch generierter Text
-
-Im „Aufbau"-Abschnitt erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Bühnenpositionen, Kreise, Geräte und Farben zusammen und lässt sich per Klick markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie). Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.
+Im Bereich **„Aufbaunotizen"** erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Bühnenpositionen, Kreise, Geräte und Farben zusammen und lässt sich per Klick markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie). Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.

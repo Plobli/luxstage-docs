@@ -1,6 +1,6 @@
 # Grundriss
 
-Der **Grundriss**-Tab bietet einen interaktiven Vektor-Editor für den Bühnengrundplan. Hier können Leuchtenpositionen eingezeichnet, beschriftet und exportiert werden.
+Der **Grundriss**-Tab (in der App-Sidebar als **„Zeichnung"** bezeichnet) bietet einen interaktiven Vektor-Editor für den Bühnengrundplan. Hier können Leuchtenpositionen eingezeichnet, beschriftet und exportiert werden.
 
 ## Benutzeroberfläche
 
@@ -27,17 +27,7 @@ Der **Grundriss**-Tab bietet einen interaktiven Vektor-Editor für den Bühnengr
 | ↪ | **Wiederholen** | Ctrl+Y / Ctrl+Shift+Z |
 | 🗑 | **Auswahl löschen** | Delete / Backspace |
 
-### Weitere Tastaturkürzel
-
-| Aktion | Tastaturkürzel |
-|--------|----------------|
-| Ansicht zurücksetzen | F / Ctrl+0 |
-| Ansicht temporär verschieben | Leertaste gedrückt halten |
-| Auswahl verschieben | Pfeiltasten (10 Einheiten mit Umschalt) |
-| Kopieren / Einfügen | Ctrl+C / Ctrl+V |
-| Duplizieren | Ctrl+D |
-| Alles auswählen | Ctrl+A |
-| Werkzeug abbrechen / Auswahl aufheben | Esc |
+Weitere Tastaturkürzel des Grundriss-Editors siehe [Tastaturkürzel](./tastaturkuerzel).
 
 ### Optionsleiste (oben links)
 

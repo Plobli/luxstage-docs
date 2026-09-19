@@ -50,14 +50,20 @@ The detail view of a venue template includes the **OSC IP** field. Enter the IP 
 
 The IP address applies to all users and devices working with this venue template. The EOS User ID is set separately per device in the iOS app.
 
-## Template list
+## Templates overview
 
-The overview shows for each venue template:
+The overview shows each venue template as its own **card** (not a list/table layout) with:
 
 - **Name** of the venue template
 - **Channel count** — number of stored channels
 - **OSC IP** — configured IP address (if set)
 - **Last modified** — date of the last change
+
+Each card offers the buttons:
+
+- **"Blank form (PDF)"** — downloads a blank, printable channel list for this venue template, e.g. for filling in by hand before a [channel list scan](./scan-channel-list)
+- **"Edit"** — opens the venue template's detail view
+- **"Delete"** — permanently deletes the venue template after confirmation
 
 ## Use a venue template for a new production
 

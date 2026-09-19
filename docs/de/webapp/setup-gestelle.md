@@ -3,7 +3,11 @@
 Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt **Beleuchtungsgestelle** (Türme mit nummerierten Slots) — für Zugstangen siehe [Setup — Zugstangen](./setup-zugstangen).
 
 ::: tip Nicht zu verwechseln
-Dieser Bereich ist nicht identisch mit dem „Aufbau"-Tab der iOS-App – dieser zeigt Checklisten und Freitext-Notizen aus dem [Info](./info)-Tab.
+Dieser Bereich ist nicht identisch mit dem „Aufbau"-Tab der iOS-App – dieser zeigt Checklisten und Freitext-Notizen aus den [Aufbaunotizen](./info).
+:::
+
+::: tip Begriff „Traverse"
+Der In-App-Hilfetext nennt als Beispiel für Beleuchtungsgestelle auch „Traversen links/rechts der Bühne" — gemeint sind damit seitliche Türme mit Slots wie hier beschrieben. Der eigenständige Element-Typ **„Traverse"** unter [Setup — Zugstangen](./setup-zugstangen) ist etwas anderes: eine frei positionierbare Stange in der Obermaschinerie.
 :::
 
 Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere oder beide Bereiche als eigener Unter-Tab im Setup-Bereich sichtbar: Beleuchtungsgestelle als „Beleuchtungsgestelle", Zugstangen als **„Obermaschinerie"**.

@@ -1,12 +1,21 @@
 # Setup — Bars (Fly System)
 
-The **Setup** area manages the physical structure of the stage. This page covers **bars** (with freely positionable fixtures), shown in the app sidebar as the **"Fly System"** sub-tab — for lighting rigs, see [Setup — Lighting Rigs](./setup-gestelle).
+The **Setup** area manages the physical structure of the stage. This page covers the **fly system** (with freely positionable fixtures), shown in the app sidebar as the **"Fly System"** sub-tab — for lighting rigs, see [Setup — Lighting Rigs](./setup-gestelle).
 
-## Create a bar
+## Element types
 
-1. Click **"New Bar"** (bottom right)
-2. Fill in the fields: name, length, optionally hide dimension marks
-3. Click **"Create"**
+The **"New Element"** dialog offers three types:
+
+- **Bar** — classic bar with a length
+- **Truss** — also has a length, for truss constructions
+- **Point hoist** — a single point without length, for point hoists with no bar extent
+
+## Create an element
+
+1. Click **"New Element"** (bottom right)
+2. Choose a type: Bar, Truss, or Point hoist
+3. Fill in the fields: name, for Bar/Truss also length (m), optionally hide dimension marks
+4. Click **"Create"**
 
 ## Place a fixture on the bar
 
@@ -28,23 +37,23 @@ Hovering over the marker reveals a red **×** icon in the top right. After confi
 
 ## Length, height, and note
 
-For each bar, length and height (in the measurement unit chosen under [Settings](./settings)) as well as a free-text note can be edited inline directly.
+For each element, length (for Bar/Truss) and height (in the measurement unit chosen under [Settings](./settings)) as well as a free-text note can be edited inline directly.
 
-## Reorder bars
+## Reorder elements
 
-Bars can be reordered in the list via drag & drop.
+Elements can be reordered in the list via drag & drop.
 
-## Edit / delete a bar
+## Edit / delete an element
 
-Using the icons on the right of each bar row (visible on hover):
+Using the icons on the right of each element row (visible on hover):
 
 - **Pencil** – change name, length, and dimension display
-- **Trash** – delete the bar after confirmation
+- **Trash** – delete the element after confirmation
 
 ## Save as template
 
-The bookmark icon lets you save a bar into the venue template. You can choose to include the base structure (always included), plus position, channel number, fixture, and notes per fixture.
+The bookmark icon lets you save an element into the venue template. You can choose to include the base structure (always included), plus position, channel number, fixture, and notes per fixture.
 
 ::: tip Note
-Bars from the venue template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
+Elements from the venue template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
 :::

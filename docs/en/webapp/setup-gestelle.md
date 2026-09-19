@@ -3,7 +3,11 @@
 The **Setup** area manages the physical structure of the stage. This page covers **lighting rigs** (towers with numbered slots) — for bars, see [Setup — Bars](./setup-zugstangen).
 
 ::: tip Not to be confused
-This area is not the same as the "Aufbau" tab in the iOS app – that one shows checklists and free-text notes from the [Info](./info) tab.
+This area is not the same as the "Aufbau" tab in the iOS app – that one shows checklists and free-text notes from the [Setup Notes](./info) section.
+:::
+
+::: tip The term "Truss"
+The in-app help text for lighting rigs also gives "towers or trusses left/right of the stage" as an example — this refers to side towers with slots as described here. The standalone **"Truss"** element type under [Setup — Bars](./setup-zugstangen) is different: a freely positionable bar in the fly system.
 :::
 
 Depending on the show's settings (see [Shows](./shows)), one, the other, or both areas appear as their own sub-tab within Setup: lighting rigs as "Lighting rigs", bars as **"Fly System"**.

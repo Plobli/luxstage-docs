@@ -28,9 +28,9 @@ The vertical sidebar on the left contains five icons:
 
 - [Shows](./shows) — create and open shows
 - [Venue Template](./venue-template) — define a channel structure once
-- [Channels](./channels) — maintain the channel plan
+- [Channels](./channels) — maintain the channel plan (app sidebar: "Channel list")
 - [Photos](./photos) — visual documentation
-- [Floor Plan](./floor-plan) — store the stage plan
+- [Floor Plan](./floor-plan) — store the stage plan (app sidebar: "Drawing")
 - [Network](./network) — document network outlets, devices and switches
 - [Import from EOS](./import-eos) — bring in channel data from the lighting console
 - [Import CSV](./import-csv) — bring in channel data from CSV

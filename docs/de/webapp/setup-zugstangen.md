@@ -1,12 +1,21 @@
 # Setup — Zugstangen (Obermaschinerie)
 
-Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt **Zugstangen** (mit frei positionierbaren Scheinwerfern), in der App-Sidebar als Unter-Tab **„Obermaschinerie"** bezeichnet — für Beleuchtungsgestelle siehe [Setup — Beleuchtungsgestelle](./setup-gestelle).
+Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt die **Obermaschinerie** (mit frei positionierbaren Scheinwerfern), in der App-Sidebar als Unter-Tab **„Obermaschinerie"** bezeichnet — für Beleuchtungsgestelle siehe [Setup — Beleuchtungsgestelle](./setup-gestelle).
 
-## Zugstange anlegen
+## Elementtypen
 
-1. Klick auf **„Neue Zugstange"** (unten rechts)
-2. Felder ausfüllen: Name, Länge, optional Bemaßung ausblenden
-3. Klick auf **„Anlegen"**
+Der Dialog **„Neues Element"** bietet drei Typen:
+
+- **Zugstange** — klassische Stange mit Länge
+- **Traverse** — ebenfalls mit Länge, für Traversen-Konstruktionen
+- **Punktzug** — Einzelpunkt ohne Länge, für Punktzüge ohne Stangenausdehnung
+
+## Element anlegen
+
+1. Klick auf **„Neues Element"** (unten rechts)
+2. Typ wählen: Zugstange, Traverse oder Punktzug
+3. Felder ausfüllen: Name, bei Zugstange/Traverse zusätzlich Länge (m), optional Bemaßung ausblenden
+4. Klick auf **„Anlegen"**
 
 ## Scheinwerfer auf der Stange platzieren
 
@@ -28,23 +37,23 @@ Beim Überfahren des Markers erscheint oben rechts ein rotes **×**-Symbol. Nach
 
 ## Länge, Höhe und Anmerkung
 
-Pro Zugstange können Länge und Höhe (in der unter [Einstellungen](./einstellungen) gewählten Maßeinheit) sowie eine Freitext-Anmerkung direkt inline bearbeitet werden.
+Pro Element können Länge (bei Zugstange/Traverse) und Höhe (in der unter [Einstellungen](./einstellungen) gewählten Maßeinheit) sowie eine Freitext-Anmerkung direkt inline bearbeitet werden.
 
-## Zugstangen umsortieren
+## Elemente umsortieren
 
-Zugstangen lassen sich per Drag & Drop in der Liste neu anordnen.
+Elemente lassen sich per Drag & Drop in der Liste neu anordnen.
 
-## Zugstange bearbeiten / löschen
+## Element bearbeiten / löschen
 
-Über die Symbole rechts an jeder Zugstangen-Zeile (bei Hover sichtbar):
+Über die Symbole rechts an jeder Element-Zeile (bei Hover sichtbar):
 
 - **Stift** – Name, Länge und Bemaßungsanzeige ändern
-- **Papierkorb** – Zugstange nach Bestätigung löschen
+- **Papierkorb** – Element nach Bestätigung löschen
 
 ## Als Vorlage speichern
 
-Über das Lesezeichen-Symbol lässt sich eine Zugstange in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten) sowie je Scheinwerfer Bühnenposition, Kreisnummer, Gerät und Anmerkungen.
+Über das Lesezeichen-Symbol lässt sich ein Element in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten) sowie je Scheinwerfer Bühnenposition, Kreisnummer, Gerät und Anmerkungen.
 
 ::: tip Hinweis
-Zugstangen aus der Spielort-Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Einfügen" im Bearbeiten-Dialog.
+Elemente aus der Spielort-Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Einfügen" im Bearbeiten-Dialog.
 :::
