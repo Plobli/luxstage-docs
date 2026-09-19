@@ -8,13 +8,28 @@ Neben den Spaltenüberschriften der Kreistabelle und im Setup-Bereich zeigen kle
 
 ## Live-Zusammenarbeit (Presence)
 
-Arbeiten mehrere Personen gleichzeitig an einer Show, erscheinen oben in der Show-Leiste kleine, farbige Avatare (Initiale) für jede angemeldete Person:
+Hat eine Show mindestens eine verbundene Person, erscheinen oben in der Show-Leiste kleine Avatare (Initiale) für jede angemeldete Person. Rein informativ, keine Sperre.
 
-- **Grüner Ring/Punkt** – die Person bearbeitet die Show gerade aktiv
-- **📱-Badge** – die Person ist über die iOS-App verbunden
-- Tooltip beim Überfahren zeigt Name und verbundene Geräte (iOS und/oder Web)
+- Tooltip beim Überfahren zeigt Name und verbundene Geräte (z. B. „ios, web")
 
-Die Avatare erscheinen erst ab zwei gleichzeitig verbundenen Personen; bei mehr als vier wird die Zahl der weiteren als „+N" zusammengefasst. Änderungen anderer Nutzer erscheinen in Echtzeit, ohne Neuladen der Seite.
+Wer schreiben darf, regelt separat die Bearbeitungssperre (Schreib-Lock), nicht die Presence-Anzeige. Änderungen anderer Nutzer erscheinen in Echtzeit, ohne Neuladen der Seite.
+
+## Bearbeitungssperre (Lock) und Übernahme
+
+Bearbeitet eine Person die Show, wird sie für alle anderen gesperrt: Ein Badge zeigt „Wird bearbeitet von {Person}", die Bearbeitung ist blockiert.
+
+Andere Nutzer können die Übernahme anfragen:
+
+- Die anfragende Person sieht „Übernahme angefragt — warte auf Freigabe"
+- Die aktuell bearbeitende Person sieht einen Dialog „Übernahme angefragt" mit den Optionen **„Freigeben"** und **„Ignorieren"**
+- Reagiert die bearbeitende Person nicht, läuft ein Countdown („Übernahme in Xs erzwingbar"); danach kann die anfragende Person die Sperre mit **„Jetzt übernehmen"** erzwingen
+
+## Konflikt beim Speichern
+
+Ändern zwei Personen (z. B. durch parallele Sitzungen oder abgelaufene Sperre) gleichzeitig dieselbe Kreisliste oder denselben Abschnitt, erscheint beim Speichern der Dialog **„Jemand anders hat gespeichert"**: Während der Bearbeitung hat eine andere Person bereits gespeichert, die eigenen Änderungen wurden noch nicht übernommen. Zur Auswahl stehen:
+
+- **„Anderen Stand übernehmen"** – verwirft die eigenen Änderungen und lädt den gespeicherten Stand
+- **„Trotzdem überschreiben"** – überschreibt den gespeicherten Stand mit den eigenen Änderungen
 
 ## Aufbau des Kreisplans
 

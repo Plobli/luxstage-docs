@@ -8,13 +8,28 @@ Next to the column headers of the channel table and in the Setup area, small hel
 
 ## Live collaboration (presence)
 
-When multiple people work on a show at the same time, small coloured avatars (initials) for each signed-in person appear at the top of the show bar:
+Once at least one person is connected to a show, small avatars (initials) for each signed-in person appear at the top of the show bar. Purely informational, not a lock.
 
-- **Green ring/dot** – the person is actively editing the show right now
-- **📱 badge** – the person is connected via the iOS app
-- Hovering shows a tooltip with the name and connected devices (iOS and/or web)
+- Hovering shows a tooltip with the name and connected devices (e.g. "ios, web")
 
-Avatars only appear once two or more people are connected at the same time; beyond four, the rest are summarized as "+N". Other users' changes appear in real time, without reloading the page.
+Who may write is governed separately by the edit lock, not by the presence display. Other users' changes appear in real time, without reloading the page.
+
+## Edit lock and takeover
+
+While one person is editing the show, it is locked for everyone else: a badge reads "Being edited by {person}", and editing is blocked.
+
+Other users can request a takeover:
+
+- The requester sees "Takeover requested — waiting for release"
+- The current editor sees a "Takeover requested" dialog with the options **"Release"** and **"Ignore"**
+- If the current editor doesn't respond, a countdown starts ("Takeover forceable in Xs"); afterwards the requester can force the takeover via **"Take over now"**
+
+## Save conflicts
+
+If two people (e.g. via parallel sessions or an expired lock) edit the same channel list or section at the same time, saving triggers the **"Someone else has saved"** dialog: while you were editing, another person already saved, so your changes haven't been applied yet. The options are:
+
+- **"Use other version"** – discards your changes and loads the saved version
+- **"Overwrite anyway"** – overwrites the saved version with your changes
 
 ## Channel plan structure
 

@@ -20,21 +20,18 @@ Shows are grouped by venue, with the venue name as a heading. Shows without an a
 
 ## Create a new show
 
-1. Click **"New Show"** (button in the bottom right)
-2. Fill in the fields in the dialog:
+Clicking **"New Show"** (button in the bottom right) starts a multi-step wizard. Depending on your choices, it runs through up to five steps:
 
-| Field | Description |
-|-------|-------------|
-| **Name** | Title of the production (e.g. "Hamlet") |
-| **Date** | Performance date (default: today's date) |
-| **Season** | Optional, e.g. "25/26" |
-| **Venue** | Select a venue template or leave as "No venue" |
-| **Setup areas** | Enable lighting towers and/or bars |
+1. **Template** – select an existing venue template, or "No template"
+2. **Name & date** – name, date, optional season (e.g. "25/26")
+3. **Areas** – enable lighting towers and/or bars; with a template selected, also pick its sections individually and optionally import the template's channel list
+4. **Lighting towers** (only if a template is selected, the "lighting towers" area is enabled, and the template has any) – pick individual towers from the template
+5. **Fly system** (only if a template is selected, the "bars" area is enabled, and the template has any) – pick individual elements from the template
 
-3. Click **"Create Show"**
+Finally, a **summary** shows all selected values; clicking **"Create Show"** creates the show.
 
 ::: tip Note
-If a venue is selected, the new show automatically inherits the channel structure, sections and floor plan of the chosen venue.
+If a template is selected, the new show optionally inherits the channel structure, selected sections, lighting towers and bars of the chosen venue.
 :::
 
 ## Open a show
