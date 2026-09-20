@@ -52,7 +52,7 @@ Die IP-Adresse gilt für alle Benutzer und Geräte, die mit dieser Spielort-Vorl
 
 ## Vorlagen-Übersicht
 
-Die Übersicht zeigt pro Spielort-Vorlage eine eigene **Karte** (kein Listen-/Tabellen-Layout) mit:
+Die Übersicht zeigt pro Spielort-Vorlage eine eigene **kartenartige Zeile** mit:
 
 - **Name** der Spielort-Vorlage
 - **Kreisanzahl** — Anzahl der gespeicherten Kreise
@@ -63,7 +63,7 @@ Jede Karte bietet die Buttons:
 
 - **„Vordruck (PDF)"** — lädt einen leeren Kreislisten-Vordruck dieser Spielort-Vorlage zum Ausdrucken herunter, z. B. zum handschriftlichen Ausfüllen vor einem [Kreislisten-Scan](./scan-kreisliste)
 - **„Bearbeiten"** — öffnet die Detailansicht der Spielort-Vorlage
-- **„Löschen"** — löscht die Spielort-Vorlage nach Bestätigung unwiderruflich
+- **„Löschen"** — löscht die Spielort-Vorlage nach Bestätigung unwiderruflich. **Warnung:** Der Server prüft nicht, ob diese Vorlage noch von aktiven Shows verwendet wird. Bitte vor dem Löschen sicherstellen, dass keine Show mehr diese Vorlage nutzt.
 
 ## Spielort-Vorlage bei neuer Produktion verwenden
 

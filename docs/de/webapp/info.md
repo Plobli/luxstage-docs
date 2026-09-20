@@ -34,7 +34,7 @@ Einfach in den Textbereich klicken und tippen. Änderungen werden automatisch ge
 Abschnitte vom Typ **„Felder"** zeigen eine Tabelle mit strukturierten Zeilen (Label/Wert).
 
 - **+ Feld** – Neue Zeile hinzufügen
-- **+ Textfeld** – Einen freien Textblock innerhalb des Abschnitts einfügen
+- **+ Textfeld** – Einen neuen Bereich vom Typ Textfeld/Markdown anlegen (kein Textblock innerhalb des aktuellen Abschnitts)
 
 ::: tip Nur ein Felder-Bereich pro Show
 Pro Show ist nur **ein** Bereich vom Typ „Felder" möglich — ist er bereits angelegt, verschwindet der entsprechende Button im Anlege-Dialog.
@@ -48,8 +48,8 @@ Pro Show ist nur **ein** Bereich vom Typ „Felder" möglich — ist er bereits 
 
 ## Bereiche schließen
 
-Jeder Bereich hat ein **×**-Symbol oben rechts zum Einklappen/Schließen der Sektion.
+Jeder Bereich hat ein **×**-Symbol oben rechts zum Löschen der Sektion. **Warnung:** Das Löschen ist unwiderruflich und kann nicht rückgängig gemacht werden — bitte mit Bedacht verwenden.
 
 ## Automatisch generierter Text bei Aufbaunotizen
 
-Im Bereich **„Aufbaunotizen"** erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Bühnenpositionen, Kreise, Geräte und Farben zusammen und lässt sich per Klick markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie). Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.
+Im Bereich **„Aufbaunotizen"** erscheint unterhalb der eigenen Notizen ein schreibgeschützter Bereich mit automatisch generiertem Text — separat für **Beleuchtungsgestelle** und **Obermaschinerie** (Zugstangen), sofern im Setup ([Beleuchtungsgestelle](./setup-gestelle) bzw. [Zugstangen](./setup-zugstangen)) Daten hinterlegt sind. Der Text fasst die belegten Bühnenpositionen, Kreise, Geräte und Farben zusammen und lässt sich markieren und kopieren (z. B. für Cue-Sheets oder E-Mails an die Regie) — es gibt keinen eigenen Kopieren-Button, nur die browserübliche Textmarkierung. Er wird nicht manuell bearbeitet, sondern aktualisiert sich automatisch mit den Setup-Daten.

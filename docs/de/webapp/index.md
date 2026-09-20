@@ -23,6 +23,7 @@ Die vertikale Seitenleiste links enthält fünf Symbole:
 | **Vorlagen** | Spielort-Vorlagen verwalten |
 | **Netzwerk** | IT-Infrastruktur der Spielstätte dokumentieren |
 | **Einstellungen** | App-Einstellungen |
+| **Logout** (unten Sidebar) | Abmelden von der App |
 
 ## Einstieg
 

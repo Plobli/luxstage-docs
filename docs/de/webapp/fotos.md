@@ -27,7 +27,7 @@ Klick auf ein Foto öffnet die **Vollbild-Ansicht (Lightbox)** mit Pfeil-Navigat
 Jedes Foto bietet zwei Felder:
 
 - **Beschriftung** – Freitext zur Dokumentation, z. B. Bühnenposition, Gerät oder Hinweis
-- **Kreis** – Kreisnummer, die dem Foto zugeordnet ist (z. B. `42`). Dieses Foto ist dann in der iOS-App dem entsprechenden Kreis zugeordnet und kann beim Fokussieren aufgerufen werden.
+- **Kreisnummer** – Kreisnummer, die dem Foto zugeordnet ist (z. B. `42`). Dieses Foto ist dann in der iOS-App dem entsprechenden Kreis zugeordnet und kann beim Fokussieren aufgerufen werden.
 
 ## Foto löschen
 

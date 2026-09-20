@@ -20,8 +20,8 @@ Der EOS-Export muss wie folgt konfiguriert werden:
 Der Merge-Dialog zeigt bis zu fünf Gruppen:
 
 - **Neu aktiv** — Kreise, die im Pult neu bespielt werden. Jede Kreisnummer ist anklickbar: ein Klick schließt den Kreis vom Import aus (er wird rot und durchgestrichen dargestellt). Ausgeschlossene Kreise bleiben **dauerhaft** ausgeschlossen — auch bei künftigen Importen —, bis sie wieder angeklickt werden. „Alle übernehmen" / „Keine übernehmen" wählen alle Kreise auf einmal.
-- **Nicht mehr aktiv** — vormals aktive Kreise, die im aktuellen Export fehlen
-- **Unangetastet – hat Beschreibung** — bereits beschriftete Kreise, die der Import **nicht** überschreibt
+- **Nicht aktiv in der importierten Show** — vormals aktive Kreise, die im aktuellen Export fehlen
+- **Unverändert** — bereits beschriftete Kreise, die der Import **nicht** überschreibt
 - **Adresse weicht ab** — nur sichtbar, wenn ein Kreis bereits eine DMX-Adresse hat, die vom Export abweicht. Ein Pfeil-Symbol pro Kreis legt fest, ob die alte oder die neue Adresse übernommen wird; „Alle übernehmen" / „Keine übernehmen" gelten für alle abweichenden Adressen auf einmal.
 - **Gerät weicht ab** — funktioniert wie „Adresse weicht ab", nur für die Gerätebezeichnung
 

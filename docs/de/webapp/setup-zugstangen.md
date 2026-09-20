@@ -14,7 +14,7 @@ Der Dialog **„Neues Element"** bietet drei Typen:
 
 1. Klick auf **„Neues Element"** (unten rechts)
 2. Typ wählen: Zugstange, Traverse oder Punktzug
-3. Felder ausfüllen: Name, bei Zugstange/Traverse zusätzlich Länge (m), optional Bemaßung ausblenden
+3. Felder ausfüllen: Name, bei Zugstange/Traverse zusätzlich Länge (m), optional Höhe und Bemaßung ausblenden
 4. Klick auf **„Anlegen"**
 
 ## Scheinwerfer auf der Stange platzieren
@@ -55,5 +55,5 @@ Elemente lassen sich per Drag & Drop in der Liste neu anordnen.
 Über das Lesezeichen-Symbol lässt sich ein Element in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten) sowie je Scheinwerfer Bühnenposition, Kreisnummer, Gerät und Anmerkungen.
 
 ::: tip Hinweis
-Elemente aus der Spielort-Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Einfügen" im Bearbeiten-Dialog.
+Elemente aus der Spielort-Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Aus Vorlage einfügen…" beim Anlegen eines neuen Elements.
 :::

@@ -20,14 +20,14 @@ Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere o
 | Feld | Beschreibung |
 |------|-------------|
 | **Bezeichnung** | Name des Gestells, z. B. „Beleuchtungsgestell 1" |
-| **Seite** | z. B. „L" oder „R" für links/rechts auf der Bühne |
+| **Seite** | z. B. „L" oder „R" für links/rechts auf der Bühne (optional) |
 | **Anzahl Slots** | Wie viele Gestellplätze das Gestell hat (1–20) |
 
 3. Klick auf **„Anlegen"**
 
 ## Kreis einem Slot zuweisen
 
-1. Bei einem Slot auf das **⌄⌄**-Symbol (Auswählen) rechts klicken
+1. Bei einem leeren Slot auf **„Kreis zuordnen"** klicken, bei einem belegten Slot auf das **Stift**-Symbol
 2. Im Suchfeld nach Kreisnummer oder Gerät suchen
 3. Kreis anklicken → wird dem Slot zugewiesen
 
@@ -63,5 +63,5 @@ Am unteren Rand jeder Gestell-Karte lässt sich per Klick auf **„+ Notiz"** ei
 Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kreisnummer, Gerät und Farbe je Slot.
 
 ::: tip Hinweis
-Beleuchtungsgestelle aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Einfügen" im Bearbeiten-Dialog.
+Beleuchtungsgestelle aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Aus Vorlage einfügen…" beim Anlegen eines neuen Gestells.
 :::

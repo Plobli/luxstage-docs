@@ -23,9 +23,9 @@ Das Panel zeigt eine Liste aller gespeicherten Versionen mit **Datum und Uhrzeit
 
 ## Version wiederherstellen
 
-1. Klick auf einen Versionseintrag → die Detailansicht zeigt Datum, Kreisanzahl und die vollständige Kreisliste zu diesem Zeitpunkt (Kreis, Gerät, Notizen)
+1. Klick auf einen Versionseintrag → die Detailansicht zeigt Datum, Kreisanzahl, die vollständige Kreisliste (Kreis, Gerät, Notizen) und alle Abschnitte zu diesem Zeitpunkt — es gibt keine Diff-Anzeige zum aktuellen Stand
 2. Klick auf **„Wiederherstellen"** unten im Panel → ein Bestätigungsdialog öffnet sich
-3. Bestätigung mit **„Ja, wiederherstellen"** setzt Kreise und Abschnitte auf diesen Stand zurück — Fotos, Grundriss, Zugstangen und andere Daten bleiben unverändert
+3. Bestätigung mit **„Wiederherstellen"** setzt Kreise und Abschnitte auf diesen Stand zurück — Fotos, Grundriss, Zugstangen und andere Daten bleiben unverändert
 4. Mit **„← Zurück"** oben lässt sich zur Versionsliste zurückkehren, ohne wiederherzustellen
 
 ::: warning Achtung

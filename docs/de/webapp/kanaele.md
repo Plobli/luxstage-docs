@@ -69,7 +69,7 @@ Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Univer
 Die **Kreisnummer** erscheint in drei Farben:
 
 - **Weiß** – ohne Notiz und ohne Einbauort
-- **Grün** – Notiz vorhanden oder einem Einbauort (Beleuchtungsgestell-Slot bzw. Zugstange) zugewiesen
+- **Grün** – Notiz vorhanden oder einem Einbauort (Beleuchtungsgestell-Slot, Zugstange, oder Zeichnung) zugewiesen
 - **Gelb** – in der Show aktiv (z. B. nach EOS-Import), aber weder Notiz noch Einbauort vorhanden
 
 Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kreistabelle in der App.
@@ -89,11 +89,13 @@ Den Kreis anklicken (aktivieren), dann auf das **×**-Symbol rechts in der Zeile
 
 Bei Hover über eine Kreiszeile erscheint rechts (vor dem Löschen-Button) der Button **„Zuweisen"** mit drei Optionen:
 
-- **Im Grundriss platzieren** – öffnet den [Grundriss](./grundriss) und platziert den Kreis dort
+- **In der Zeichnung platzieren** – öffnet die [Zeichnung](./grundriss) und platziert den Kreis dort
 - **Beleuchtungsgestell-Slot zuweisen** – öffnet [Setup — Beleuchtungsgestelle](./setup-gestelle) zur Zuweisung an ein Gestell
 - **Zugstange zuweisen** – öffnet [Setup — Zugstangen](./setup-zugstangen) zur Platzierung auf einer Zugstange
 
-Ist der Kreis bereits einem Gestell-Slot oder einer Zugstange zugewiesen, wird der Einbauort zusätzlich als kleines Badge unterhalb der Notiz angezeigt.
+Ist der Kreis bereits einem Gestell-Slot, einer Zugstange oder einem Ort in der Zeichnung zugewiesen, wird der Einbauort zusätzlich als kleines Badge unterhalb der Notiz angezeigt.
+
+**Bühnenpositionen** (z. B. „FOH BAR LEFT", „OVERHEAD BAR 1") können nur umbenannt, aber nicht gelöscht werden.
 
 ::: tip Warnung bei Duplikaten
 Vergibst du eine DMX-Adresse oder Kreisnummer doppelt, warnt die Tabelle mit „Doppelte DMX-Adresse!" bzw. „Doppelte Kreisnummer!".
@@ -109,7 +111,7 @@ Beim Hovern über eine Bühnenpositions-Überschrift erscheint der Button **„B
 
 ## Suche
 
-Im Suchfeld oben rechts (**„Suchen …"**) können Kreise, Geräte oder Notizen in Echtzeit gefiltert werden.
+Im Suchfeld oben rechts (**„In Kreisen suchen …"**) können Kreise, Geräte oder Notizen in Echtzeit gefiltert werden.
 
 ## Vollständigkeitsprüfung
 
@@ -118,7 +120,7 @@ Neben der Kreistabelle zeigt ein Badge, ob die Show vollständig ist:
 - **Grüner Haken** – alle Kreise vollständig ausgefüllt
 - **Gelbes Warnsymbol mit Zahl** – Anzahl der Kreise mit fehlenden Angaben
 
-Ein Klick auf das Badge öffnet die Aufschlüsselung nach fehlender Angabe (kein Gerät, keine Bühnenposition, keine Adresse). Klick auf eine Zeile filtert die Kreistabelle auf genau diese Kreise; ein **×** neben dem aktiven Filter setzt ihn zurück.
+Ein Klick auf das Badge öffnet die Aufschlüsselung nach fehlender Angabe (kein Gerät, keine Bühnenposition, keine Adresse, Kreise ohne Notiz). Klick auf eine Zeile filtert die Kreistabelle auf genau diese Kreise; ein **×** neben dem aktiven Filter setzt ihn zurück.
 
 ## Tastaturkürzel
 

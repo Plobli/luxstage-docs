@@ -20,13 +20,20 @@ Shows werden nach Spielort gruppiert angezeigt, mit dem Spielort-Namen als Über
 
 ## Neue Show erstellen
 
-Klick auf **„Neue Show"** (Button unten rechts) startet einen mehrstufigen Assistenten. Je nach Auswahl durchläuft er bis zu fünf Schritte:
+Der **„Neue Show"**-Button (unten rechts) öffnet ein Dropdown-Menü mit zwei Optionen:
+
+- **Neue Show (Quick)** — öffnet einen einfachen Dialog zur schnellen Erfassung von Name und Datum; keine Vorlagen oder Detaileinstellungen
+- **Assistent** — startet einen mehrstufigen Assistenten mit erweiterten Optionen (siehe unten)
+
+### Assistent (mehrstufig)
+
+Je nach Auswahl durchläuft der Assistent bis zu fünf Schritte:
 
 1. **Vorlage** – bestehende Spielort-Vorlage auswählen oder „Keine Vorlage"
 2. **Name & Datum** – Name, Datum, optional Spielzeit (z. B. „25/26")
 3. **Bereiche** – Beleuchtungsgestelle und/oder Zugstangen aktivieren; bei gewählter Vorlage zusätzlich deren Abschnitte einzeln auswählen und optional die Kreisliste der Vorlage übernehmen
-4. **Beleuchtungsgestelle** (nur wenn Vorlage + Bereich „Beleuchtungsgestelle" aktiv und die Vorlage welche enthält) – einzelne Gestelle der Vorlage auswählen
-5. **Obermaschinerie** (nur wenn Vorlage + Bereich „Zugstangen" aktiv und die Vorlage welche enthält) – einzelne Elemente der Vorlage auswählen
+4. **Obermaschinerie** (nur wenn Vorlage + Bereich „Zugstangen" aktiv und die Vorlage welche enthält) – einzelne Elemente der Vorlage auswählen
+5. **Beleuchtungsgestelle** (nur wenn Vorlage + Bereich „Beleuchtungsgestelle" aktiv und die Vorlage welche enthält) – einzelne Gestelle der Vorlage auswählen
 
 Zum Abschluss zeigt eine **Zusammenfassung** alle gewählten Werte; Klick auf **„Show erstellen"** legt die Show an.
 

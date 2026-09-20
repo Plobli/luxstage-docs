@@ -17,7 +17,7 @@ Mögliche Fehlermeldungen und ihre Bedeutung:
 | Meldung | Bedeutung |
 |---------|-----------|
 | „ZIP enthält keine luxstage.db" | Die hochgeladene Datei ist kein gültiges LuxStage-Backup |
-| „Datenbank ist beschädigt oder ungültig" | Die Datenbank im Backup besteht die Integritätsprüfung nicht |
+| „Datenbank-Integritätsprüfung fehlgeschlagen" | Die Datenbank im Backup besteht die Integritätsprüfung nicht |
 | „Upload zu groß" | Backup überschreitet die 500-MB-Grenze — siehe [Einstellungen → Backup](./einstellungen#backup) für den Weg über die Kommandozeile |
 
 In allen drei Fällen bleibt der aktuelle Datenbestand unverändert.

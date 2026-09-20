@@ -3,7 +3,7 @@
 Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der linken Seitenleiste erreichbar.
 
 ::: tip Gehostetes Team (luxstage.app)
-Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) übernimmt der Betreiber Serverbetrieb, Mailversand, Backups und Updates zentral. Deshalb zeigt die Seitenleiste dort nur die Tabs **Konto**, **Darstellung** und **Benutzerverwaltung**. Wer LuxStage selbst hostet, sieht zusätzlich **Backup**, **Server**, **E-Mail / SMTP** und **Update** — siehe [Einstellungen für Self-Hosting](./einstellungen-self-hosting).
+Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) übernimmt der Betreiber Serverbetrieb, Mailversand, Backups und Updates zentral. Wer LuxStage selbst hostet, sieht zusätzlich die Tabs **Backup**, **Server**, **E-Mail / SMTP** und **Update** — siehe [Einstellungen für Self-Hosting](./einstellungen-self-hosting).
 :::
 
 ---
@@ -18,14 +18,6 @@ Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) übernimmt 
 2. **Neues Passwort** eingeben
 3. **Neues Passwort bestätigen** eingeben
 4. Klick auf **„Passwort ändern"**
-
----
-
-**Fotos pro Druckseite**
-
-Legt fest, wie viele Fotos auf eine A4-Seite passen — wirkt auf Browser-Druck und PDF-Export gleichermaßen.
-
-- Auswahl: 1, 2, 4, 6, 8, 9, 12
 
 ---
 
@@ -56,6 +48,14 @@ Einheit für Längen und Höhen an Zugstangen:
 
 ---
 
+**Fotos pro Druckseite**
+
+Legt fest, wie viele Fotos auf eine A4-Seite passen — wirkt auf Browser-Druck und PDF-Export gleichermaßen.
+
+- Auswahl: 1, 2, 4, 6, 8, 9, 12
+
+---
+
 ## Benutzerverwaltung
 
 **Benutzer**
@@ -80,11 +80,3 @@ Legt einen neuen Benutzer für dein Team an. Das initiale Passwort wird automati
 1. **E-Mail-Adresse** eingeben
 2. Klick auf **„Anlegen"**
 
----
-
-**Passwort zurücksetzen**
-
-Setzt das Passwort eines Benutzers zurück und zeigt das neue temporäre Passwort an.
-
-1. **E-Mail-Adresse** des Benutzers eingeben
-2. Klick auf **„Zurücksetzen"**

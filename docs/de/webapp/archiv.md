@@ -4,7 +4,7 @@ Das **Archiv** enthält alle Shows, die abgeschlossen und archiviert wurden. Arc
 
 ## Zugang zum Archiv
 
-Klick auf das **Archiv-Symbol** (📦) in der linken Seitenleiste.
+Klick auf das **Archiv-Symbol** (Kiste) in der linken Seitenleiste.
 
 Wenn keine Shows archiviert wurden, erscheint der Hinweis: **„Keine archivierten Shows"**.
 
@@ -14,12 +14,14 @@ In der **Shows-Übersicht** beim Überfahren einer Show-Zeile auf das Archiviere
 
 ## Archivierte Shows einsehen
 
-Im Archiv werden alle archivierten Shows als Liste angezeigt, mit Name, Stand, Spielzeit und letzter Bearbeitung – gleiche Spalten wie in der normalen Shows-Übersicht, **aber ohne Sortierung und ohne Suche**.
+Im Archiv werden alle archivierten Shows als Liste angezeigt, mit Name, Stand, Spielzeit und letzter Bearbeitung – inhaltlich gleiche Angaben wie in der normalen Shows-Übersicht (Spaltenbreiten weichen leicht ab), **aber ohne Sortierung und ohne Suche**.
 
 Beim Überfahren einer Zeile erscheinen rechts zwei Buttons:
 
 - **Wiederherstellen** – verschiebt die Show zurück in die normale Shows-Übersicht
 - **Löschen** – löscht die Show nach Bestätigung endgültig, inklusive aller Daten
+
+Archivierte Shows können **nicht direkt bearbeitet** werden — sie müssen erst wiederhergestellt werden, um sie öffnen und bearbeiten zu können.
 
 ::: warning Achtung
 Endgültiges Löschen kann nicht rückgängig gemacht werden.

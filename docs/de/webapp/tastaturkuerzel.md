@@ -40,3 +40,16 @@
 | Gitternetz ein-/ausblenden | G |
 
 Details dazu in [Grundriss](./grundriss).
+
+## Escape in Dialogen und Feldern
+
+| Aktion | Taste |
+|--------|-------|
+| Foto-Lightbox schließen | Esc |
+| Netzwerk-Vollbild beenden | Esc |
+| Dialog „Neuer Bereich" abbrechen | Esc |
+| Kreisliste-Suchfeld leeren | Esc |
+| Zellenbearbeitung in Kreistabelle abbrechen | Esc |
+| Farbauswahl-Dropdown schließen | Esc |
+| Vorlage-Umbenennung abbrechen | Esc |
+| Sidebar schließen (ggf. nach Umbenennung) | Esc |

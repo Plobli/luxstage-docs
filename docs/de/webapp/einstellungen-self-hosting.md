@@ -10,7 +10,7 @@ Ist ein Server-Update verfügbar, zeigt ein kleiner Punkt am Einstellungen-Symbo
 
 ## Anmeldung ohne SMTP
 
-Ist beim Self-Hosting kein Mailversand (SMTP) konfiguriert, entfällt der Link „Passwort vergessen?" auf der Login-Seite. Stattdessen erscheint der Hinweis: „Wende dich an deinen Administrator, um dein Passwort zurücksetzen zu lassen." Ein Admin kann das Passwort unter **Benutzerverwaltung → Passwort zurücksetzen** (siehe [Einstellungen](./einstellungen)) neu vergeben.
+Ist beim Self-Hosting kein Mailversand (SMTP) konfiguriert, entfällt der Link „Passwort vergessen?" auf der Login-Seite. Stattdessen erscheint der Hinweis: „Wende dich an deinen Administrator, um dein Passwort zurücksetzen zu lassen."
 
 ---
 
@@ -31,7 +31,7 @@ Lädt alle Show-Daten als ZIP-Archiv herunter. Der Dateiname enthält nur das Da
 
 **Backup wiederherstellen**
 
-Stellt alle Show-Daten aus einem zuvor erstellten ZIP-Backup wieder her. Fotos werden dabei **ergänzt, nicht ersetzt** — vorhandene Fotos ohne Entsprechung im Backup bleiben erhalten. Der Server beendet sich nach der Wiederherstellung selbst und startet nur automatisch neu, wenn ein Prozessmanager (z. B. PM2, Standard bei Self-Hosting) ihn überwacht.
+Stellt alle Show-Daten aus einem zuvor erstellten ZIP-Backup wieder her. Fotos werden dabei **komplett durch den Backup-Stand ersetzt** — vorhandene Fotos ohne Entsprechung im Backup gehen dabei verloren, es findet kein Merge statt. Der Server beendet sich nach der Wiederherstellung selbst und startet nur automatisch neu, wenn ein Prozessmanager (z. B. PM2, Standard bei Self-Hosting) ihn überwacht; die Downtime bis zum Neustart beträgt üblicherweise 1–2 Sekunden.
 
 1. Klick auf **„ZIP-Datei auswählen …"**
 2. ZIP-Backup-Datei aus dem Dateisystem wählen
@@ -39,16 +39,16 @@ Stellt alle Show-Daten aus einem zuvor erstellten ZIP-Backup wieder her. Fotos w
 4. Bestätigungsdialog bestätigen
 
 ::: warning Achtung
-Die Datenbank (Shows, Kreise, Abschnitte) wird vollständig durch den Backup-Stand ersetzt. Fotos werden nur ergänzt — Fotos, die im Backup fehlen, bleiben zusätzlich bestehen.
+Sowohl die Datenbank (Shows, Kreise, Abschnitte) als auch der komplette Fotobestand werden vollständig durch den Backup-Stand ersetzt. Fotos, die im Backup fehlen, gehen dabei verloren — es gibt keine Zusammenführung mit dem aktuellen Stand.
 :::
 
 Vor dem Einspielen wird das Backup geprüft: enthält das ZIP eine gültige Datenbank, ist sie unbeschädigt. Schlägt die Prüfung fehl, bleibt der aktuelle Stand **unangetastet**. Mögliche Fehlermeldungen:
 
 - „ZIP enthält keine luxstage.db"
-- „Datenbank ist beschädigt oder ungültig"
+- „Datenbank-Integritätsprüfung fehlgeschlagen"
 - „Upload zu groß" — maximale Backup-Größe beim Wiederherstellen: **500 MB**. Größere Datenbestände lassen sich nur über die Kommandozeile auf dem Server wiederherstellen.
 
-Nur Fotos mit den Endungen `jpg`, `jpeg`, `png`, `gif`, `webp` werden beim Wiederherstellen zurückgespielt — andere Dateitypen im ZIP werden stillschweigend übersprungen.
+Nur Fotos mit den Endungen `jpg`, `jpeg`, `png`, `gif`, `webp` werden beim Wiederherstellen zurückgespielt — andere Dateitypen im ZIP werden stillschweigend übersprungen. Das gilt nur für dieses Backup-ZIP; für den Grundriss-Hintergrund-Upload (siehe [Grundriss](./grundriss)) sind separat nur PNG und JPG zulässig.
 
 ---
 
@@ -93,3 +93,5 @@ Prüft auf neue Versionen und aktualisiert den Server. Bei Fehler wird der alte 
 1. **Release** auswählen — die Liste kommt von den GitHub-Releases des Projekts, vorausgewählt ist immer der neueste Eintrag. Die Prüfung auf Updates startet automatisch beim Öffnen des Tabs bzw. bei Release-Wechsel.
 2. Ist ein Update verfügbar, zeigt die Seite den Release-Namen und die zugehörigen Release-Notes als Änderungsprotokoll. Ohne verfügbares Update ist der Button **„Jetzt aktualisieren"** gesperrt.
 3. Klick auf **„Jetzt aktualisieren"** startet die Aktualisierung. Ein Fortschrittsbalken und ein mitlaufendes Terminal-Protokoll zeigen den Ablauf live.
+
+Während des Updates ist der Server kurz nicht erreichbar (Abhängigkeiten installieren, Smoke-Test, Neustart) — üblicherweise wenige Sekunden bis Minuten, im ungünstigsten Fall bis zu 5 Minuten pro Schritt (Timeout für Installation und Smoke-Test).

@@ -9,6 +9,8 @@ Beim Aufruf der Web-App erscheint die Login-Seite mit zwei Feldern:
 
 Klick auf **„Anmelden"**. Bei falschen Zugangsdaten erscheint „Anmeldung fehlgeschlagen. Bitte E-Mail-Adresse und Passwort prüfen."
 
+**Zu viele Versuche:** Nach 10 fehlgeschlagenen Login-Versuchen innerhalb von 15 Minuten sperrt der Server für die betreffende IP-Adresse mit der Meldung „Zu viele Versuche. Bitte warten." — danach 15 Minuten warten bevor ein neuer Versuch möglich ist.
+
 ## Registrierung
 
 Unterhalb des Anmelde-Formulars erscheint der Link **„Noch kein Konto? Registrieren"**. Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) läuft die Registrierung über ein Team-Kürzel plus E-Mail-Adresse und Passwort, per Bestätigungslink per E-Mail (Double-Opt-in). Neue Teammitglieder eines bestehenden Teams legt man stattdessen über **Einstellungen → Benutzerverwaltung → Neuer Benutzer** an (siehe [Einstellungen](./einstellungen)).
