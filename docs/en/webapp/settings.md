@@ -2,12 +2,6 @@
 
 **Settings** are accessible via the gear icon (⚙️) in the left sidebar.
 
-::: tip Hosted team (luxstage.app)
-On a hosted team at [luxstage.app](https://luxstage.app), the operator manages server operation, email delivery, backups, and updates centrally. That's why the sidebar there only shows **Account**, **Display**, and **User Management**. If you self-host LuxStage, you also see **Backup**, **Server**, **Email / SMTP**, and **Update** — see [Settings for Self-Hosting](./settings-self-hosting).
-:::
-
----
-
 ## Account
 
 **Change password**
@@ -67,7 +61,7 @@ The badge shows the user's source:
 | Source | Description |
 |--------|-------------|
 | **DB** | Self-created or self-registered – can be deleted |
-| **Env** | Configured via environment variable (self-hosting only) – cannot be deleted |
+| **Env** | Configured via environment variable – cannot be deleted |
 
 Only users with source **DB** have a **"Delete"** button.
 

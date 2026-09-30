@@ -17,14 +17,14 @@ The native SwiftUI app for iPhone and iPad. Fast, responsive and optimised for t
 
 ### LuxStage in the browser
 
-The web application runs in the browser on Mac, Windows, iPad or any other device. The self-hosted server is installed with just two commands, e.g. on a Raspberry Pi 4 or your own VPS.
+The web application runs in the browser on Mac, Windows, iPad or any other device. LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app) — no server installation required.
 
 ## Quick start in 10 minutes
 
-After [installation](./installation) — this order gets you to your first show fastest:
+After [logging in](/en/webapp/login) — this order gets you to your first show fastest:
 
 ### 1. Create a venue template
-[Venue template](/en/webapp/venue-template) — define the channel structure once (via CSV import or manually), available immediately for every new production. Optional: makes sense right after self-hosting installation, before creating the first show.
+[Venue template](/en/webapp/venue-template) — define the channel structure once (via CSV import or manually), available immediately for every new production.
 
 ### 2. Create a show
 [Shows](/en/webapp/shows) — create a new show and optionally assign it a venue template. Channel structure and floor plan are inherited automatically.
@@ -37,7 +37,6 @@ After [installation](./installation) — this order gets you to your first show 
 
 ## Next steps
 
-- [Installation](./installation) — set up the server
 - [Web App](/en/webapp/) — guide for the browser application
 - [iOS App](/en/ios/) — guide for iPhone & iPad
 - [FAQ](/en/faq) — frequently asked questions

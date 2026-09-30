@@ -2,12 +2,6 @@
 
 Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der linken Seitenleiste erreichbar.
 
-::: tip Gehostetes Team (luxstage.app)
-Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) übernimmt der Betreiber Serverbetrieb, Mailversand, Backups und Updates zentral. Wer LuxStage selbst hostet, sieht zusätzlich die Tabs **Backup**, **Server**, **E-Mail / SMTP** und **Update** — siehe [Einstellungen für Self-Hosting](./einstellungen-self-hosting).
-:::
-
----
-
 ## Konto
 
 **Passwort ändern**
@@ -67,7 +61,7 @@ Das Badge zeigt die Quelle des Benutzers:
 | Quelle | Beschreibung |
 |--------|-------------|
 | **DB** | Selbst angelegt bzw. registriert – kann gelöscht werden |
-| **Env** | Über Umgebungsvariable konfiguriert (nur Self-Hosting) – kann nicht gelöscht werden |
+| **Env** | Über Umgebungsvariable konfiguriert – kann nicht gelöscht werden |
 
 Nur Benutzer mit Quelle **DB** haben einen **„Löschen"**-Button.
 

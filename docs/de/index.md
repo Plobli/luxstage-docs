@@ -4,14 +4,11 @@ layout: home
 hero:
   name: LuxStage
   text: Dein Kreisplan. Immer zur Hand.
-  tagline: LuxStage ist eine App für Beleuchtungsdokumentation am Theater oder auf Events — als Web-App und iOS-App. Kreisverwaltung, PDF-Export und OSC-Steuerung, selbst gehostet in deinem Theaternetz oder auf einem externen Server.
+  tagline: LuxStage ist eine App für Beleuchtungsdokumentation am Theater oder auf Events — als Web-App und iOS-App. Kreisverwaltung, PDF-Export und OSC-Steuerung.
   actions:
     - theme: brand
       text: Erste Schritte
       link: /de/guide/
-    - theme: alt
-      text: Installation
-      link: /de/guide/installation
 
 features:
   - title: Kreisverwaltung

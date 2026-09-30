@@ -1,6 +1,6 @@
 # Web-App
 
-LuxStage läuft im Browser auf Mac, Windows, iPad oder jedem anderen Gerät. Der selbstgehostete Server wird mit zwei Befehlen installiert, z. B. auf einem Raspberry Pi 4 oder eigenem VPS.
+LuxStage läuft im Browser auf Mac, Windows, iPad oder jedem anderen Gerät.
 
 ## Funktionsumfang
 

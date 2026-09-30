@@ -22,7 +22,3 @@ Unterhalb des Anmelde-Formulars steht der Link **„Passwort vergessen?"**:
 1. Klick auf den Link → E-Mail-Adresse eingeben → **„Link anfordern"**
 2. Aus Sicherheitsgründen erscheint immer derselbe Hinweis, unabhängig davon, ob ein Konto mit dieser Adresse existiert: „Falls ein Konto mit {E-Mail} existiert, haben wir einen Link zum Zurücksetzen verschickt."
 3. Der Link in der E-Mail ist **1 Stunde** gültig und führt zu einer Seite zur Vergabe eines neuen Passworts (mindestens 8 Zeichen, mit Bestätigung)
-
-::: tip Self-Hosting ohne SMTP
-Betreibst du LuxStage selbst und hast keinen Mailversand (SMTP) eingerichtet, entfällt dieser Link — siehe [Einstellungen für Self-Hosting](./einstellungen-self-hosting).
-:::

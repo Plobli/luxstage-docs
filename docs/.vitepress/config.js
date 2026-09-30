@@ -43,7 +43,6 @@ export default {
               text: 'Erste Schritte',
               items: [
                 { text: 'Übersicht & Konzept', link: '/de/guide/' },
-                { text: 'Installation', link: '/de/guide/installation' },
                 { text: 'Glossar', link: '/de/glossar' },
                 { text: 'Alle Features', link: '/de/features' },
               ]
@@ -89,7 +88,6 @@ export default {
                 { text: 'Archiv', link: '/de/webapp/archiv' },
                 { text: 'Spielstätten-Vorlage anlegen', link: '/de/webapp/spielstaette-vorlage' },
                 { text: 'Einstellungen', link: '/de/webapp/einstellungen' },
-                { text: 'Einstellungen für Self-Hosting', link: '/de/webapp/einstellungen-self-hosting' },
               ]
             },
             {
@@ -120,7 +118,7 @@ export default {
         },
 
         footer: {
-          message: 'Open Source & selbst gehostet',
+          message: 'Open Source',
           copyright: '<a href="https://luxstage.app/datenschutz.html">Datenschutz</a> · <a href="https://luxstage.app/impressum.html">Impressum</a> · LuxStage © 2026'
         },
 
@@ -161,7 +159,6 @@ export default {
               text: 'Getting Started',
               items: [
                 { text: 'Overview & Concept', link: '/en/guide/' },
-                { text: 'Installation', link: '/en/guide/installation' },
                 { text: 'Glossary', link: '/en/glossary' },
                 { text: 'All Features', link: '/en/features' },
               ]
@@ -207,7 +204,6 @@ export default {
                 { text: 'Archive', link: '/en/webapp/archive' },
                 { text: 'Venue Template', link: '/en/webapp/venue-template' },
                 { text: 'Settings', link: '/en/webapp/settings' },
-                { text: 'Settings for Self-Hosting', link: '/en/webapp/settings-self-hosting' },
               ]
             },
             {
@@ -238,7 +234,7 @@ export default {
         },
 
         footer: {
-          message: 'Open source & self-hosted',
+          message: 'Open source',
           copyright: '<a href="https://luxstage.app/privacy.html">Privacy Policy</a> · <a href="https://luxstage.app/impressum.html">Legal Notice</a> · LuxStage © 2026'
         },
 

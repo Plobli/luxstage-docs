@@ -10,7 +10,7 @@ The web app runs on Mac, Windows, iPad and iPhone in the browser. The native iOS
 
 ## How is LuxStage operated?
 
-Two options: self-hosted – for example on a Raspberry Pi in the local theatre network or externally on a VPS – or as a hosted service at [luxstage.app](https://luxstage.app), where running the server yourself isn't necessary.
+LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app). You don't have to run a server yourself.
 
 ## Does LuxStage work offline?
 
@@ -26,13 +26,9 @@ Neither app offers offline editing with later synchronisation.
 
 Yes, any number – without roles or permission differences. All users can work simultaneously. Changes are synchronised in real time to all connected devices – iOS and web.
 
-## How do I install LuxStage?
-
-See the [installation guide](./guide/installation). The server is set up with two commands and runs automatically on Linux (e.g. a Raspberry Pi).
-
 ## Is LuxStage free?
 
-LuxStage Server and WebApp are open source. Self-hosted, there are no ongoing costs. Alternatively, LuxStage is available as a hosted service at [luxstage.app](https://luxstage.app) for a monthly fee. The iOS app is optional and available for a monthly fee on the App Store.
+LuxStage is available as a hosted service at [luxstage.app](https://luxstage.app) for a monthly fee. The iOS app is optional and available for a monthly fee on the App Store.
 
 ## What data does the iOS app collect?
 

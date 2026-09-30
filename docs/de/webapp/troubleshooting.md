@@ -28,8 +28,6 @@ Einzelne Fotos dürfen maximal 50 MB groß sein. Größere Dateien vorher verkle
 
 ## Andere Probleme
 
-Für Probleme rund um die Server-Installation selbst (Erreichbarkeit, PM2, Ports) siehe [Installation → Troubleshooting](../guide/installation#troubleshooting).
-
 Für Fragen, die hier nicht beantwortet werden:
 
 - [GitHub Issues](https://github.com/Plobli/LuxStage) — Probleme melden oder Fragen stellen
