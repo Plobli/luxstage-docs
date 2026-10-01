@@ -6,6 +6,8 @@ COPY package.json package-lock.json ./
 RUN npm ci --no-audit --no-fund
 
 COPY . .
+ARG APP_VERSION=dev
+ENV APP_VERSION=$APP_VERSION
 RUN npm run docs:build
 
 FROM nginx:alpine
