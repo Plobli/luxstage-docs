@@ -65,6 +65,15 @@ Each card offers the buttons:
 - **"Edit"** — opens the venue template's detail view
 - **"Delete"** — permanently deletes the venue template after confirmation
 
+## Setup (Lighting Towers & Battens)
+
+The venue template also stores the physical stage structure:
+
+- **Lighting Towers** – slots for fixtures
+- **Fly System** – battens, trusses, and point hoists with positionable fixtures
+
+These can be added directly to the template and are then optionally inherited when creating a new show.
+
 ## Use a venue template for a new production
 
 When creating a new show, select a venue template. The channel structure and note sections are automatically inherited — you can then customise them individually per show.
@@ -75,12 +84,12 @@ On the show card in the overview, the **pencil icon** opens a dialog for templat
 
 ## Apply template changes to existing shows
 
-If a venue template was later extended with sections or lighting rigs, these additions can be applied to **all** shows assigned to that template:
+If a venue template was later extended with sections or lighting towers, these additions can be applied to **all** shows assigned to that template:
 
-1. Click **"Apply to all shows"** (for sections or lighting rigs)
+1. Click **"Apply to all shows"** (for sections or lighting towers)
 2. The dialog names the affected shows before anything happens
 3. Confirm — a result reports how many shows were checked and how many elements were added
 
 ::: tip Safe operation
-Only **missing** elements are added. Sections, bars, or lighting rigs a show already has remain unchanged — nothing is overwritten or deleted.
+Only **missing** elements are added. Sections, battens, or lighting towers a show already has remain unchanged — nothing is overwritten or deleted.
 :::
