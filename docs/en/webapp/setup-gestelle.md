@@ -1,27 +1,27 @@
-# Setup — Lighting Rigs
+# Setup — Lighting Towers
 
-The **Setup** area manages the physical structure of the stage. This page covers **lighting rigs** (towers with numbered slots) — for bars, see [Setup — Bars](./setup-zugstangen).
+The **Setup** area manages the physical structure of the stage. This page covers **lighting towers** (towers with numbered slots) — for battens, see [Setup — Battens](./setup-zugstangen).
 
 ::: tip Not to be confused
 This area is not the same as the "Aufbau" tab in the iOS app – that one shows checklists and free-text notes from the [Setup Notes](./info) section.
 :::
 
 ::: tip The term "Truss"
-The in-app help text for lighting rigs also gives "towers or trusses left/right of the stage" as an example — this refers to side towers with slots as described here. The standalone **"Truss"** element type under [Setup — Bars](./setup-zugstangen) is different: a freely positionable bar in the fly system.
+The in-app help text for lighting towers also gives "towers or trusses left/right of the stage" as an example — this refers to side towers with slots as described here. The standalone **"Truss"** element type under [Setup — Battens](./setup-zugstangen) is different: a freely positionable batten in the fly system.
 :::
 
-Depending on the show's settings (see [Shows](./shows)), one, the other, or both areas appear as their own sub-tab within Setup: lighting rigs as "Lighting rigs", bars as **"Fly System"**.
+Depending on the show's settings (see [Shows](./shows)), one, the other, or both areas appear as their own sub-tab within Setup: lighting towers as "Lighting Towers", battens as **"Fly System"**.
 
-## Create a rig
+## Create a tower
 
-1. Click **"New Lighting Rig"** (bottom right)
+1. Click **"New Lighting Tower"** (bottom right)
 2. Fill in the fields:
 
 | Field | Description |
 |-------|-------------|
-| **Name** | Name of the rig, e.g. "Lighting Rig 1" |
+| **Name** | Name of the tower, e.g. "Lighting Tower 1" |
 | **Side** | e.g. "L" or "R" for left/right on stage |
-| **Number of slots** | How many rig positions the rig has (1–20) |
+| **Number of slots** | How many tower positions the tower has (1–20) |
 
 3. Click **"Create"**
 
@@ -47,12 +47,12 @@ Using the grip icon (⠿) to the left of the slot number, the channel assignment
 
 Click **"Add slot"** below the rig's slot list.
 
-## Edit / delete a rig
+## Edit / delete a tower
 
-Using the icons in the top right of each rig card:
+Using the icons in the top right of each tower card:
 
 - **Pencil** – change name, side, or number of slots. Reducing the slot count shows a warning listing the affected (possibly occupied) slots.
-- **Trash** – delete the rig after confirmation
+- **Trash** – delete the tower after confirmation
 
 ## Note per slot
 
@@ -60,12 +60,12 @@ Each slot has its own **Note** field. Enter text; it is saved when you leave the
 
 ## Add a note
 
-At the bottom of each rig card, click **"+ Note"** to add a free-text comment.
+At the bottom of each tower card, click **"+ Note"** to add a free-text comment.
 
 ## Save as template
 
-The bookmark icon lets you save a rig into the venue template. You can choose to include the base structure (always included), plus channel number, fixture, and colour per slot.
+The bookmark icon lets you save a tower into the venue template. You can choose to include the base structure (always included), plus channel number, fixture, and colour per slot.
 
 ::: tip Note
-Lighting rigs from the template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
+Lighting towers from the template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
 :::

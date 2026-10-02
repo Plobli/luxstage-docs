@@ -69,7 +69,7 @@ Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Univer
 Die **Kreisnummer** erscheint in drei Farben:
 
 - **Weiß** – ohne Notiz und ohne Einbauort
-- **Grün** – Notiz vorhanden oder einem Einbauort (Beleuchtungsgestell-Slot, Zugstange, oder Zeichnung) zugewiesen
+- **Grün** – Notiz vorhanden oder einem Einbauort (Gassenturm-Slot, Zugstange, oder Zeichnung) zugewiesen
 - **Gelb** – in der Show aktiv (z. B. nach EOS-Import), aber weder Notiz noch Einbauort vorhanden
 
 Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kreistabelle in der App.
@@ -108,7 +108,7 @@ Den Kreis anklicken (aktivieren), dann auf das **×**-Symbol rechts in der Zeile
 Bei Hover über eine Kreiszeile erscheint rechts (vor dem Löschen-Button) der Button **„Zuweisen"** mit drei Optionen:
 
 - **In der Zeichnung platzieren** – öffnet die [Zeichnung](./grundriss) und platziert den Kreis dort
-- **Beleuchtungsgestell-Slot zuweisen** – öffnet [Setup — Beleuchtungsgestelle](./setup-gestelle) zur Zuweisung an ein Gestell
+- **Gassenturm-Slot zuweisen** – öffnet [Setup — Gassentürme](./setup-gestelle) zur Zuweisung an einen Turm
 - **Zugstange zuweisen** – öffnet [Setup — Zugstangen](./setup-zugstangen) zur Platzierung auf einer Zugstange
 
 Ist der Kreis bereits einem Gestell-Slot, einer Zugstange oder einem Ort in der Zeichnung zugewiesen, wird der Einbauort zusätzlich als kleines Badge unterhalb der Notiz angezeigt.

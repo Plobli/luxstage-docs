@@ -107,7 +107,7 @@ Generate a complete, print-ready report with one click. The PDF contains:
 | Title page | Production name, date, venue |
 | Channel list | Sorted by position & channel, with DMX, fixture, gel, notes |
 | Setup notes | All sections incl. structured fields |
-| Floor plan | Stage floor plan, if present |
+| Drawing | Stage drawing, if present |
 | Photo gallery | All production photos embedded |
 
 ---
@@ -136,7 +136,7 @@ Save venues with a fixed channel structure as a template — apply it to each ne
 - **Channel list** — fixtures, DMX addresses, fixture types and positions of the venue
 - **Note sections** — "Setup", "Notes" and any number of custom sections
 - **Structured fields** — measurements, positions
-- **Floor plan** – stage floor plan
+- **Drawing** – stage drawing
 
 ---
 

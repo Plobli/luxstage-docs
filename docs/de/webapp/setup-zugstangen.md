@@ -1,6 +1,6 @@
 # Setup — Zugstangen (Obermaschinerie)
 
-Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt die **Obermaschinerie** (mit frei positionierbaren Scheinwerfern), in der App-Sidebar als Unter-Tab **„Obermaschinerie"** bezeichnet — für Beleuchtungsgestelle siehe [Setup — Beleuchtungsgestelle](./setup-gestelle).
+Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt die **Obermaschinerie** (mit frei positionierbaren Scheinwerfern), in der App-Sidebar als Unter-Tab **„Obermaschinerie"** bezeichnet — für Gassentürme siehe [Setup — Gassentürme](./setup-gestelle).
 
 ## Elementtypen
 

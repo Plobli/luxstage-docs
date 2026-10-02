@@ -30,7 +30,7 @@ Nach dem [Login](/de/webapp/login) — diese Reihenfolge führt am schnellsten z
 [Spielort-Vorlage anlegen](/de/webapp/spielstaette-vorlage) — Kreisstruktur einmal definieren (per CSV-Import oder manuell), bei jeder neuen Produktion sofort verfügbar.
 
 ### 2. Show anlegen
-[Shows](/de/webapp/shows) — neue Show erstellen und optional der Spielort-Vorlage zuordnen. Kreisstruktur und Grundriss werden automatisch übernommen.
+[Shows](/de/webapp/shows) — neue Show erstellen und optional der Spielort-Vorlage zuordnen. Kreisstruktur und Zeichnung werden automatisch übernommen.
 
 ### 3. Kreise planen & einleuchten
 [Aus EOS importieren](/de/webapp/import-eos) oder [Kreise](/de/webapp/kanaele) manuell befüllen. iOS-App und Web-App sind synchron – alle Beleuchter sehen immer denselben Stand.

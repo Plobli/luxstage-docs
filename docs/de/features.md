@@ -107,7 +107,7 @@ Mit einem Klick einen vollständigen, druckfertigen Bericht generieren. Das PDF 
 | Titelseite | Produktionsname, Datum, Spielstätte |
 | Kreisliste | Sortiert nach Bühnenposition & Kreis, mit DMX, Gerät, Gel, Notizen |
 | Aufbaunotizen | Alle Sektionen inkl. strukturierter Felder |
-| Grundriss | Bühnengrundriss, sofern hinterlegt |
+| Zeichnung | Bühnengrundriss, sofern hinterlegt |
 | Fotogalerie | Alle Produktionsfotos eingebettet |
 
 ---
@@ -136,7 +136,7 @@ Spielorte mit fester Kreisstruktur einmal als Vorlage speichern — bei jeder ne
 - **Kreisliste** — Scheinwerfer, DMX-Adressen, Gerätetypen und Bühnenpositionen des Spielorts
 - **Notiz-Abschnitte** — „Aufbau", „Hinweise" und beliebig viele eigene
 - **Strukturierte Felder** — Maße, Bühnenpositionen
-- **Grundriss** – Grundriss der Szenenfläche
+- **Zeichnung** – Bühnengrundriss der Szenenfläche
 
 ---
 

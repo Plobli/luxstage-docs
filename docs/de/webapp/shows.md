@@ -31,14 +31,14 @@ Je nach Auswahl durchläuft der Assistent bis zu fünf Schritte:
 
 1. **Vorlage** – bestehende Spielort-Vorlage auswählen oder „Keine Vorlage"
 2. **Name & Datum** – Name, Datum, optional Spielzeit (z. B. „25/26")
-3. **Bereiche** – Beleuchtungsgestelle und/oder Zugstangen aktivieren; bei gewählter Vorlage zusätzlich deren Abschnitte einzeln auswählen und optional die Kreisliste der Vorlage übernehmen
+3. **Bereiche** – Gassentürme und/oder Zugstangen aktivieren; bei gewählter Vorlage zusätzlich deren Abschnitte einzeln auswählen und optional die Kreisliste der Vorlage übernehmen
 4. **Obermaschinerie** (nur wenn Vorlage + Bereich „Zugstangen" aktiv und die Vorlage welche enthält) – einzelne Elemente der Vorlage auswählen
-5. **Beleuchtungsgestelle** (nur wenn Vorlage + Bereich „Beleuchtungsgestelle" aktiv und die Vorlage welche enthält) – einzelne Gestelle der Vorlage auswählen
+5. **Gassentürme** (nur wenn Vorlage + Bereich „Gassentürme" aktiv und die Vorlage welche enthält) – einzelne Türme der Vorlage auswählen
 
 Zum Abschluss zeigt eine **Zusammenfassung** alle gewählten Werte; Klick auf **„Show erstellen"** legt die Show an.
 
 ::: tip Hinweis
-Wird eine Vorlage ausgewählt, übernimmt die neue Show wahlweise die Kreisstruktur, die ausgewählten Abschnitte, Beleuchtungsgestelle und Zugstangen des gewählten Spielorts.
+Wird eine Vorlage ausgewählt, übernimmt die neue Show wahlweise die Kreisstruktur, die ausgewählten Abschnitte, Gassentürme und Zugstangen des gewählten Spielorts.
 :::
 
 ## Show öffnen

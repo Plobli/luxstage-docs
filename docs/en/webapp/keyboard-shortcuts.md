@@ -9,7 +9,7 @@ Overview of all web app keyboard shortcuts in one place.
 | Undo | ⌘Z (Mac) / Ctrl+Z (Win) |
 | Redo | ⌘⇧Z (Mac) / Ctrl+Y (Win) |
 
-## Floor plan editor
+## Drawing editor
 
 ### Tools
 
@@ -39,4 +39,4 @@ Overview of all web app keyboard shortcuts in one place.
 | Cancel tool / clear selection | Esc |
 | Show/hide grid | G |
 
-Details in [Floor Plan](./floor-plan).
+Details in [Drawing](./floor-plan).

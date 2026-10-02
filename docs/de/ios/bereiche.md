@@ -1,10 +1,10 @@
 # Bereiche (iOS)
 
-Im **Aufbau**-Tab öffnet der Button **Bereiche** oben rechts (Icon mit vier Kacheln) ein Menü mit allen weiteren Bereichen der Show: **Beleuchtungsgestelle**, **Obermaschinerie**, **Fotos**, **Grundriss** sowie **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage.
+Im **Aufbau**-Tab öffnet der Button **Bereiche** oben rechts (Icon mit vier Kacheln) ein Menü mit allen weiteren Bereichen der Show: **Gassentürme**, **Obermaschinerie**, **Fotos**, **Zeichnung** sowie **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage.
 
-## Beleuchtungsgestelle
+## Gassentürme
 
-Zeigt alle Beleuchtungsgestelle (Gassentürme) der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Beleuchtungsgestelle verwendet.
+Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Gassentürme verwendet.
 
 ## Obermaschinerie
 
@@ -37,9 +37,9 @@ Ein Tippen auf ein Foto öffnet die Vollbildansicht. Am unteren Rand werden die 
 Während des Einleuchtens sind über **Bereiche → Fotos** die dem aktuellen Kreis zugeordneten Referenzfotos schnell abrufbar — ideal zum Vergleichen der Fokusposition ohne zwischen Apps wechseln zu müssen.
 :::
 
-## Grundriss
+## Zeichnung
 
-Der Grundriss zeigt den hinterlegten Bühnenplan der Show. Er wird in der Web-App hochgeladen und steht in der iOS-App schreibgeschützt zur Verfügung.
+Die Zeichnung zeigt den hinterlegten Bühnenplan der Show. Sie wird in der Web-App hochgeladen und steht in der iOS-App schreibgeschützt zur Verfügung.
 
 ## Raum, Hinweise & weitere Bereiche
 

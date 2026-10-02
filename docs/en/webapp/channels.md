@@ -45,7 +45,7 @@ The table has the following columns:
 | **Notes** | Free-text note, e.g. "Key light stage left, narrow spot" |
 | **Assign** | Button to assign an installation spot (see below) |
 
-Channels are grouped by **positions** (e.g. "FOH BAR LEFT", "OVERHEAD BAR 1", "SIDE BOOM SL"). The number of channels per position is shown as a number to the right of the position name.
+Channels are grouped by **positions** (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 1", "SIDE BOOM SL"). The number of channels per position is shown as a number to the right of the position name.
 
 ## Select and edit a channel
 
@@ -69,7 +69,7 @@ When you leave the address field, the input is automatically formatted as "unive
 The **channel number** appears in three colours:
 
 - **White** – no note and no installation spot
-- **Green** – note present, or assigned to an installation spot (lighting rig slot or bar)
+- **Green** – note present, or assigned to an installation spot (lighting tower slot or batten)
 - **Yellow** – active in the show (e.g. after an EOS import), but neither a note nor an installation spot is set yet
 
 The same legend is also available as inline help (help icon) next to the channel table in the app.
@@ -107,9 +107,9 @@ Click the channel (to activate it), then click the **×** icon on the right of t
 
 Hovering over a channel row reveals the **"Assign"** button on the right (before the delete button), with three options:
 
-- **Place in floor plan** – opens the [Floor Plan](./floor-plan) and places the channel there
-- **Assign lighting rig slot** – opens [Setup — Lighting Rigs](./setup-gestelle) to assign it to a rig
-- **Assign bar** – opens [Setup — Bars](./setup-zugstangen) to place it on a bar
+- **Place in drawing** – opens the [Drawing](./floor-plan) and places the channel there
+- **Assign lighting tower slot** – opens [Setup — Lighting Towers](./setup-gestelle) to assign it to a tower
+- **Assign batten** – opens [Setup — Battens](./setup-zugstangen) to place it on a batten
 
 If the channel is already assigned to a rig slot or a bar, the installation spot is additionally shown as a small badge below the note.
 

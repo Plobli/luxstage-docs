@@ -7,7 +7,7 @@ LuxStage läuft im Browser auf Mac, Windows, iPad oder jedem anderen Gerät.
 - Shows und Kreisplan verwalten
 - Kreise aus EOS importieren oder manuell pflegen
 - Fotos hochladen und Kreisen zuordnen
-- Bühnengrundriss hinterlegen
+- Bühnenzeichnung hinterlegen
 - Kreisplan als PDF exportieren
 - Spielort-Vorlagen für wiederkehrende Produktionsorte
 - Versionsverlauf und Archivierung
@@ -31,7 +31,7 @@ Die vertikale Seitenleiste links enthält fünf Symbole:
 - [Spielort-Vorlage anlegen](./spielstaette-vorlage) — Struktur einmalig definieren
 - [Kreise](./kanaele) — Kreisplan pflegen (App-Sidebar: „Kreisliste")
 - [Fotos](./fotos) — Visuelle Dokumentation
-- [Grundriss](./grundriss) — Bühnenplan hinterlegen (App-Sidebar: „Zeichnung")
+- [Zeichnung](./grundriss) — Bühnenplan hinterlegen (App-Sidebar: „Zeichnung")
 - [Netzwerk](./netzwerk) — Netzwerkdosen, Geräte und Switches dokumentieren
 - [Aus EOS importieren](./import-eos) — Kreisdaten vom Lichtpult übernehmen
 - [CSV importieren](./import-csv) — Kreisdaten aus CSV übernehmen

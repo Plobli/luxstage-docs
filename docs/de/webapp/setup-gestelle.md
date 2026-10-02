@@ -1,25 +1,25 @@
-# Setup — Beleuchtungsgestelle
+# Setup — Gassentürme
 
-Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt **Beleuchtungsgestelle** (Türme mit nummerierten Slots) — für Zugstangen siehe [Setup — Zugstangen](./setup-zugstangen).
+Der **Setup**-Bereich verwaltet die physische Struktur der Bühne. Diese Seite behandelt **Gassentürme** (Türme mit nummerierten Slots) — für Zugstangen siehe [Setup — Obermaschinerie](./setup-zugstangen).
 
 ::: tip Nicht zu verwechseln
 Dieser Bereich ist nicht identisch mit dem „Aufbau"-Tab der iOS-App – dieser zeigt Checklisten und Freitext-Notizen aus den [Aufbaunotizen](./info).
 :::
 
 ::: tip Begriff „Traverse"
-Der In-App-Hilfetext nennt als Beispiel für Beleuchtungsgestelle auch „Traversen links/rechts der Bühne" — gemeint sind damit seitliche Türme mit Slots wie hier beschrieben. Der eigenständige Element-Typ **„Traverse"** unter [Setup — Zugstangen](./setup-zugstangen) ist etwas anderes: eine frei positionierbare Stange in der Obermaschinerie.
+Der In-App-Hilfetext nennt als Beispiel für Gassentürme auch „Traversen links/rechts der Bühne" — gemeint sind damit seitliche Türme mit Slots wie hier beschrieben. Der eigenständige Element-Typ **„Traverse"** unter [Setup — Obermaschinerie](./setup-zugstangen) ist etwas anderes: eine frei positionierbare Stange in der Obermaschinerie.
 :::
 
-Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere oder beide Bereiche als eigener Unter-Tab im Setup-Bereich sichtbar: Beleuchtungsgestelle als „Beleuchtungsgestelle", Zugstangen als **„Obermaschinerie"**.
+Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere oder beide Bereiche als eigener Unter-Tab im Setup-Bereich sichtbar: Gassentürme als „Gassentürme", Zugstangen als **„Obermaschinerie"**.
 
 ## Gestell anlegen
 
-1. Klick auf **„Neues Beleuchtungsgestell"** (unten rechts)
+1. Klick auf **„Neuer Gassenturm"** (unten rechts)
 2. Felder ausfüllen:
 
 | Feld | Beschreibung |
 |------|-------------|
-| **Bezeichnung** | Name des Gestells, z. B. „Beleuchtungsgestell 1" |
+| **Bezeichnung** | Name des Gestells, z. B. „Gassenturm 1" |
 | **Seite** | z. B. „L" oder „R" für links/rechts auf der Bühne (optional) |
 | **Anzahl Slots** | Wie viele Gestellplätze das Gestell hat (1–20) |
 

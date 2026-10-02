@@ -1,6 +1,6 @@
-# Floor Plan
+# Drawing
 
-The **Floor Plan** tab (labelled **"Drawing"** in the app sidebar) provides an interactive vector editor for the stage plan. Fixture positions can be drawn in, labelled and exported.
+The **Drawing** tab provides an interactive vector editor for the stage plan. Fixture positions can be drawn in, labelled and exported.
 
 ## User interface
 
@@ -36,10 +36,10 @@ More keyboard shortcuts for the floor plan editor: see [Keyboard Shortcuts](./ke
 | **Grid** | Show/hide grid | G |
 | **Snap** | Enable/disable snap to grid | – |
 
-## Place channels on the floor plan
+## Place channels on the drawing
 
 1. Select the **"Place channel" (C)** tool
-2. Click on the desired position on the floor plan
+2. Click on the desired position on the drawing
 3. The channel marker appears as a numbered circle marker (red with arrow)
 
 ## Rotate elements
@@ -50,20 +50,20 @@ Bars, rectangles, ellipses and text can be rotated freely: select the element an
 
 A background image (e.g. a scan of the stage plan) can be added in two ways:
 
-- **Via the template floor plan:** Stored in the venue template and automatically inherited by all shows
+- **Via the template drawing:** Stored in the venue template and automatically inherited by all shows
 - **Manually:** Click the **↑ Upload** icon in the toolbar → select an image file
 
 Allowed formats: **PNG, JPG, SVG, WebP**. A PDF stage plan is not supported and must be converted first — an incorrect format shows "Invalid file type. Allowed: PNG, JPG, SVG, WebP".
 
 ::: warning Only one background image per template
-A new background image replaces the old one immediately, without confirmation. Unlike photos in the Photos tab, the background image is **not compressed or resized** — a large scan stays at full size and is reloaded every time the floor plan is opened. For faster loading, it's worth resizing the image yourself beforehand.
+A new background image replaces the old one immediately, without confirmation. Unlike photos in the Photos tab, the background image is **not compressed or resized** — a large scan stays at full size and is reloaded every time the drawing is opened. For faster loading, it's worth resizing the image yourself beforehand.
 :::
 
 To remove: click the **⊠** icon.
 
 ## Export as PNG
 
-Click the **↓** icon in the toolbar → the current floor plan is downloaded as a PNG file.
+Click the **↓** icon in the toolbar → the current drawing is downloaded as a PNG file.
 
 ::: info Note
 For export as PDF (incl. channel list) use **Export → PDF** in the top menu bar.

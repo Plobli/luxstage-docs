@@ -1,31 +1,31 @@
-# Setup — Bars (Fly System)
+# Setup — Battens (Fly System)
 
-The **Setup** area manages the physical structure of the stage. This page covers the **fly system** (with freely positionable fixtures), shown in the app sidebar as the **"Fly System"** sub-tab — for lighting rigs, see [Setup — Lighting Rigs](./setup-gestelle).
+The **Setup** area manages the physical structure of the stage. This page covers the **fly system** (with freely positionable fixtures), shown in the app sidebar as the **"Fly System"** sub-tab — for lighting towers, see [Setup — Lighting Towers](./setup-gestelle).
 
 ## Element types
 
 The **"New Element"** dialog offers three types:
 
-- **Bar** — classic bar with a length
+- **Batten** — classic batten with a length
 - **Truss** — also has a length, for truss constructions
-- **Point hoist** — a single point without length, for point hoists with no bar extent
+- **Point hoist** — a single point without length, for point hoists with no batten extent
 
 ## Create an element
 
 1. Click **"New Element"** (bottom right)
-2. Choose a type: Bar, Truss, or Point hoist
-3. Fill in the fields: name, for Bar/Truss also length (m), optionally hide dimension marks
+2. Choose a type: Batten, Truss, or Point hoist
+3. Fill in the fields: name, for Batten/Truss also length (m), optionally hide dimension marks
 4. Click **"Create"**
 
-## Place a fixture on the bar
+## Place a fixture on the batten
 
-Click the desired position on the bar line → the channel picker opens → search and select a channel → confirm the position (in cm, 0 = centre of the bar).
+Click the desired position on the batten line → the channel picker opens → search and select a channel → confirm the position (in cm, 0 = centre of the batten).
 
 If the selected channel has a **quantity** greater than 1 (see [Channels](./channels)), several markers are placed automatically, spaced next to each other.
 
 ## Custom elements without a channel
 
-Besides fixtures, you can place any element on the bar (e.g. fog machine, anchor). In the channel dialog choose **"Add element without channel"** and enter a label.
+Besides fixtures, you can place any element on the batten (e.g. fog machine, anchor). In the channel dialog choose **"Add element without channel"** and enter a label.
 
 ## Dimensions
 
