@@ -23,6 +23,14 @@ Auf die gewünschte Position auf der Stangen-Linie klicken → Kreis-Auswahl öf
 
 Hat der gewählte Kreis eine **Anzahl** größer als 1 (siehe [Kreise](./kanaele)), werden automatisch mehrere Marker mit Abstand nebeneinander platziert.
 
+## Eigene Elemente ohne Kreis
+
+Neben Scheinwerfern lassen sich auch beliebige Elemente auf die Stange setzen (z. B. Nebelmaschine, Anker). Im Kreis-Dialog **„Element ohne Kreis hinzufügen"** wählen und eine Bezeichnung eingeben.
+
+## Bemaßung
+
+Im Dialog legt **„Bemaßung von"** (Links, Mitte, Rechts) fest, von wo aus die Positionen gemessen und beschriftet werden. Optional lässt sich die Zugnummer eintragen. Die Bemaßung kann ganz ausgeblendet werden.
+
 ## Scheinwerfer verschieben
 
 Marker mit gedrückter Maustaste entlang der Stange ziehen.

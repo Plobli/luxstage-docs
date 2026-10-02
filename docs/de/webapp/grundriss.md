@@ -42,6 +42,10 @@ Weitere Tastaturkürzel des Grundriss-Editors siehe [Tastaturkürzel](./tastatur
 2. Auf die gewünschte Stelle im Grundriss klicken
 3. Die Kreismarkierung erscheint als nummerierte Kreismarke (rot mit Pfeil)
 
+## Elemente drehen
+
+Zugstangen, Rechtecke, Ellipsen und Texte lassen sich frei drehen: Element anwählen und den gelben Griff über dem Element ziehen. Alternativ drehen die Schaltflächen in der Optionsleiste um 45° oder 90° nach links bzw. rechts. Kreismarken drehen über den Griff an der Pfeilspitze.
+
 ## Maßstab-Werkzeug
 
 Mit dem Maßstab-Werkzeug (Lineal-Symbol, Tastaturkürzel **Y**) wird die Längenskala des Grundrisses kalibriert. Dadurch werden Zugstangen mit ihrer echten Länge dargestellt.

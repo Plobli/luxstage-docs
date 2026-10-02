@@ -31,7 +31,7 @@ Ein Tippen auf ein Foto öffnet die Vollbildansicht. Am unteren Rand werden die 
 
 ### Fotos hinzufügen
 
-Über den **+**-Button oben rechts können direkt in der iOS-App Fotos hinzugefügt werden.
+Über den **+**-Button oben rechts lassen sich ein oder mehrere Fotos direkt aus der **Fotomediathek** auswählen und hochladen. Das **Kamera**-Symbol daneben nimmt ein neues Foto auf.
 
 ::: tip Fokussier-Referenz
 Während des Einleuchtens sind über **Bereiche → Fotos** die dem aktuellen Kreis zugeordneten Referenzfotos schnell abrufbar — ideal zum Vergleichen der Fokusposition ohne zwischen Apps wechseln zu müssen.

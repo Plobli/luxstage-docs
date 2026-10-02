@@ -46,6 +46,16 @@ Sollte die KI-Auswertung länger als 45 Sekunden dauern, bricht der Scan ab und 
 
 Klick auf **„Übernehmen (n)"** wendet nur die ausgewählten Änderungen an (n = Anzahl ausgewählter Kreise). Eine Bestätigung zeigt, wie viele Kreise aktualisiert und wie viele neu angelegt wurden.
 
+## Einleuchtplan als PDF einlesen
+
+Statt eines Fotos lässt sich auch das PDF eines Einleuchtplans einlesen. Die Struktur des Plans darf variieren.
+
+1. **„Importieren"** → **„Einleuchtplan-PDF importieren"** wählen
+2. PDF auswählen (maximal 30 Seiten) — es erscheint „Einleuchtplan wird ausgewertet …"
+3. In der Vorschau **„Einleuchtplan-Import — Vorschau"** die Änderungen prüfen. Unter **„Zu importierende Spalten"** lässt sich frei wählen, welche Angaben übernommen werden. Einzelne Kreise lassen sich abwählen.
+4. Steht im Plan Freitext (z. B. Hängeplan-Notizen), erscheint der Block **„Erkannter Freitext"**. Er lässt sich an die bestehenden Einrichtungsnotizen **anhängen** oder diese **ersetzen**.
+5. **„Übernehmen (n)"** wendet die Auswahl an.
+
 ::: warning Foto wird an die Anthropic-API übertragen
-Der Scan nutzt ein KI-Modell von Anthropic (Claude Vision). Das hochgeladene Foto wird dafür an die Anthropic-API übertragen — anders als bei den übrigen Funktionen der Web-App, die ausschließlich mit dem eigenen LuxStage-Server kommunizieren. Details dazu in der [Datenschutzerklärung](https://luxstage.app/datenschutz.html).
+Der Scan nutzt ein KI-Modell von Anthropic (Claude Vision). Das hochgeladene Foto bzw. PDF wird dafür an die Anthropic-API übertragen — anders als bei den übrigen Funktionen der Web-App, die ausschließlich mit dem eigenen LuxStage-Server kommunizieren. Details dazu in der [Datenschutzerklärung](https://luxstage.app/datenschutz.html).
 :::

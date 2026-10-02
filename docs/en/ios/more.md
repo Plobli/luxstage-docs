@@ -23,7 +23,7 @@ Tapping a photo opens the full-screen view. The assigned **channel numbers** are
 
 ### Add photos
 
-The **+** button in the top right allows photos to be added directly in the iOS app.
+The **+** button in the top right lets you pick one or more photos from your **photo library** and upload them. The **camera** icon next to it takes a new photo.
 
 ::: tip Focus reference
 During focusing, the reference photos assigned to the current channel are quickly accessible via **More → Photos** — ideal for comparing the focus position without switching between apps.

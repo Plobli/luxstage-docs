@@ -42,6 +42,10 @@ More keyboard shortcuts for the floor plan editor: see [Keyboard Shortcuts](./ke
 2. Click on the desired position on the floor plan
 3. The channel marker appears as a numbered circle marker (red with arrow)
 
+## Rotate elements
+
+Bars, rectangles, ellipses and text can be rotated freely: select the element and drag the yellow handle above it. Alternatively, the buttons in the options bar rotate by 45° or 90° left or right. Channel markers rotate via the handle at the arrow tip.
+
 ## Using a background image
 
 A background image (e.g. a scan of the stage plan) can be added in two ways:

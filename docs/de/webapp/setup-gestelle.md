@@ -54,6 +54,10 @@ Klick auf **„Slot hinzufügen"** unterhalb der Slot-Liste des Gestells.
 - **Stift** – Bezeichnung, Seite oder Anzahl Slots ändern. Wird die Slot-Anzahl verringert, erscheint eine Warnung mit den betroffenen (ggf. belegten) Slots.
 - **Papierkorb** – Gestell nach Bestätigung löschen
 
+## Notiz pro Slot
+
+Jeder Slot hat ein eigenes **Notiz**-Feld. Text eintragen, er wird beim Verlassen des Feldes gespeichert.
+
 ## Notiz hinzufügen
 
 Am unteren Rand jeder Gestell-Karte lässt sich per Klick auf **„+ Notiz"** ein Freitext-Kommentar hinterlegen.

@@ -23,6 +23,14 @@ Click the desired position on the bar line → the channel picker opens → sear
 
 If the selected channel has a **quantity** greater than 1 (see [Channels](./channels)), several markers are placed automatically, spaced next to each other.
 
+## Custom elements without a channel
+
+Besides fixtures, you can place any element on the bar (e.g. fog machine, anchor). In the channel dialog choose **"Add element without channel"** and enter a label.
+
+## Dimensions
+
+In the dialog, **"Dimensions from"** (Left, Center, Right) sets where positions are measured from and labelled. You can also enter a pull number, or hide the dimensions entirely.
+
 ## Move a fixture
 
 Drag the marker along the bar with the mouse button held down.

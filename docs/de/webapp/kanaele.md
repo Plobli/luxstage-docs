@@ -74,6 +74,24 @@ Die **Kreisnummer** erscheint in drei Farben:
 
 Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kreistabelle in der App.
 
+## Mehrere Kreise gemeinsam ändern
+
+Über die Checkbox links in der Zeile (oder per Maus-Drag über die Checkbox-Spalte) lassen sich mehrere Kreise markieren. Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:
+
+- **Position**, **Gerät**, **Color**, **Prio** – Wert für alle gewählten Kreise setzen
+- **Notiz** – bestehende Notizen **ersetzen** oder den Text **anhängen**
+- **Leeren** – entfernt Notiz, Gerät und Farbe; Kreisnummer und DMX-Adresse bleiben
+- **Löschen** – entfernt die Kreise vollständig (nicht rückgängig zu machen)
+- **Auswahl aufheben**
+
+## Priorität (Prio)
+
+Die Spalte **Prio** legt die Reihenfolge beim Einleuchten fest — niedrigere Zahl zuerst. Die Prio erscheint als farbiges Badge, auch im PDF-Export und in den Apps.
+
+## Sortieren und ausblenden
+
+Ein Klick auf eine Spaltenüberschrift sortiert die Tabelle (erneut klicken: Richtung wechseln). Über der Tabelle zeigt „Sortiert nach: …" die aktive Sortierung, **Zurücksetzen** stellt die Ausgangsreihenfolge wieder her. Die Option **„Kreise ohne Notiz ausblenden"** blendet alle Kreise ohne Notiz aus.
+
 ## Kreis hinzufügen
 
 Unterhalb jeder Bühnenposition befindet sich der Button **„+ Kreis hinzufügen"**. Ein Klick fügt einen neuen leeren Kreis zur jeweiligen Bühnenposition hinzu.

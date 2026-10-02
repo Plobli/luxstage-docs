@@ -54,6 +54,10 @@ Using the icons in the top right of each rig card:
 - **Pencil** – change name, side, or number of slots. Reducing the slot count shows a warning listing the affected (possibly occupied) slots.
 - **Trash** – delete the rig after confirmation
 
+## Note per slot
+
+Each slot has its own **Note** field. Enter text; it is saved when you leave the field.
+
 ## Add a note
 
 At the bottom of each rig card, click **"+ Note"** to add a free-text comment.

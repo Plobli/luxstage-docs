@@ -29,6 +29,18 @@ Clicking **"Sign out"** ends the current session.
 
 ---
 
+**Delete team** (LuxStage Cloud only)
+
+Requests the irreversible deletion of the entire team, including all shows, channels, photos and users:
+
+1. Under **"Delete team"** click **"Delete team"**
+2. Enter your **password** to confirm
+3. Click **"Request deletion"**
+
+Deletion is not automatic. The LuxStage team will contact you before your team is deleted.
+
+---
+
 ## Display
 
 **Language**

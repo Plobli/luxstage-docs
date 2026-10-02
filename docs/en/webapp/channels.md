@@ -74,6 +74,24 @@ The **channel number** appears in three colours:
 
 The same legend is also available as inline help (help icon) next to the channel table in the app.
 
+## Edit several channels at once
+
+Use the checkbox at the left of a row (or drag the mouse over the checkbox column) to select several channels. The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
+
+- **Position**, **Device**, **Color**, **Prio** – set a value for all selected channels
+- **Note** – **replace** existing notes or **append** text
+- **Clear** – removes note, device and colour; channel number and DMX address stay
+- **Delete** – removes the channels completely (cannot be undone)
+- **Clear selection**
+
+## Priority (Prio)
+
+The **Prio** column sets the focusing order — lower number first. It appears as a coloured badge, also in the PDF export and in the apps.
+
+## Sort and hide
+
+Click a column header to sort (click again to change direction). "Sorted by: …" above the table shows the active sort; **Reset** restores the original order. **"Hide channels without notes"** hides all channels without a note.
+
 ## Add a channel
 
 Below each position there is a **"+ Add channel"** button. Clicking it adds a new empty channel to that position.

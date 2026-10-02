@@ -44,6 +44,16 @@ If no filled-out rows were recognized in the photo, the notice "No filled-out ro
 
 Clicking **"Apply"** applies only the selected changes. A confirmation shows how many channels were updated and how many were newly created.
 
+## Import a focus plan from PDF
+
+Instead of a photo, you can also read in the PDF of a focus plan. The plan's structure may vary.
+
+1. Choose **"Import"** → **"Import focus plan PDF"**
+2. Select the PDF (maximum 30 pages) — "Evaluating focus plan …" appears
+3. In the **"Focus plan import — preview"** check the changes. Under **"Columns to import"** you can freely choose which data is applied. Individual channels can be deselected.
+4. If the plan contains free text (e.g. rigging notes), the block **"Detected free text"** appears. You can **append** it to the existing setup notes or **replace** them.
+5. **"Apply (n)"** applies the selection.
+
 ::: warning Photo is sent to the Anthropic API
-The scan uses an AI model from Anthropic (Claude Vision). The uploaded photo is sent to the Anthropic API for this purpose — unlike the rest of the web app's features, which communicate exclusively with your own LuxStage server. See the [Privacy Policy](../privacy#scan-channel-list-ai-photo-scan) for details.
+The scan uses an AI model from Anthropic (Claude Vision). The uploaded photo or PDF is sent to the Anthropic API for this purpose — unlike the rest of the web app's features, which communicate exclusively with your own LuxStage server. See the [Privacy Policy](../privacy#scan-channel-list-ai-photo-scan) for details.
 :::

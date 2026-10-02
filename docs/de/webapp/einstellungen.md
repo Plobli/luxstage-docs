@@ -21,6 +21,18 @@ Klick auf **„Abmelden"** beendet die aktuelle Sitzung.
 
 ---
 
+**Team löschen** (nur LuxStage-Cloud)
+
+Beantragt die unwiderrufliche Löschung des gesamten Teams inklusive aller Shows, Kreise, Fotos und Benutzer:
+
+1. Unter **„Team löschen"** auf **„Team löschen"** klicken
+2. Zur Bestätigung das **Passwort** eingeben
+3. Klick auf **„Löschung beantragen"**
+
+Die Löschung erfolgt nicht automatisch. Das LuxStage-Team meldet sich vor der Löschung bei dir.
+
+---
+
 ## Darstellung
 
 **Sprache**
