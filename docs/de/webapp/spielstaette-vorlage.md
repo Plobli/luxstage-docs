@@ -75,12 +75,12 @@ Auf der Show-Karte in der Übersicht öffnet das **Stift-Symbol** einen Dialog z
 
 ## Änderungen an der Vorlage auf bestehende Shows anwenden
 
-Wurde eine Spielort-Vorlage nachträglich um Abschnitte oder Beleuchtungsgestelle erweitert, lassen sich diese Ergänzungen auf **alle** Shows übertragen, die dieser Vorlage zugeordnet sind:
+Wurde eine Spielort-Vorlage nachträglich um Abschnitte oder Gassentürme erweitert, lassen sich diese Ergänzungen auf **alle** Shows übertragen, die dieser Vorlage zugeordnet sind:
 
-1. Klick auf **„Auf alle Shows anwenden"** (bei Abschnitten bzw. Beleuchtungsgestellen)
+1. Klick auf **„Auf alle Shows anwenden"** (bei Abschnitten bzw. Gassentürmen)
 2. Der Dialog zeigt die betroffenen Shows namentlich, bevor irgendetwas passiert
 3. Bestätigen — ein Ergebnis meldet, wie viele Shows geprüft und wie viele Elemente ergänzt wurden
 
 ::: tip Ungefährliche Operation
-Es werden ausschließlich **fehlende** Elemente ergänzt. Bereits vorhandene Abschnitte, Zugstangen oder Beleuchtungsgestelle einer Show bleiben unverändert — nichts wird überschrieben oder gelöscht.
+Es werden ausschließlich **fehlende** Elemente ergänzt. Bereits vorhandene Abschnitte, Zugstangen oder Gassentürme einer Show bleiben unverändert — nichts wird überschrieben oder gelöscht.
 :::
