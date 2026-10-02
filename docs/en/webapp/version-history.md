@@ -25,7 +25,7 @@ The panel shows a list of all saved versions with **date and time**, e.g.:
 
 1. Click on a version entry → the detail view shows the date, channel count, and the full channel list at that point in time (channel, fixture, notes)
 2. Click **"Restore"** at the bottom of the panel → a confirmation dialog opens
-3. Confirm with **"Yes, restore"** to reset channels and sections to that state — photos, floor plan, bars and other data remain unchanged
+3. Confirm with **"Yes, restore"** to reset channels and sections to that state — photos, drawing, battens and other data remain unchanged
 4. Use **"← Back"** at the top to return to the version list without restoring
 
 ::: warning Note

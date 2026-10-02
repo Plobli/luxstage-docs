@@ -20,7 +20,7 @@ Theatre and lighting terms as used in LuxStage.
 
 **Position** — The installation or hanging point of a fixture (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 1"). Channels are grouped by position in the channel table.
 
-**Slot** — A single spot on a lighting rig that a channel can be assigned to.
+**Slot** — A single spot on a lighting tower that a channel can be assigned to.
 
 **Venue template** — A reusable template with a fixed channel structure for a stage or venue, which can be applied to any new show.
 

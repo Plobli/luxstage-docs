@@ -24,19 +24,25 @@ Clicking **"New Show"** (button in the bottom right) starts a multi-step wizard.
 
 1. **Template** – select an existing venue template, or "No template"
 2. **Name & date** – name, date, optional season (e.g. "25/26")
-3. **Areas** – enable lighting towers and/or bars; with a template selected, also pick its sections individually and optionally import the template's channel list
+3. **Areas** – enable lighting towers and/or battens; with a template selected, also pick its sections individually and optionally import the template's channel list
 4. **Lighting towers** (only if a template is selected, the "lighting towers" area is enabled, and the template has any) – pick individual towers from the template
-5. **Fly system** (only if a template is selected, the "bars" area is enabled, and the template has any) – pick individual elements from the template
+5. **Fly system** (only if a template is selected, the "battens" area is enabled, and the template has any) – pick individual elements from the template
 
 Finally, a **summary** shows all selected values; clicking **"Create Show"** creates the show.
 
 ::: tip Note
-If a template is selected, the new show optionally inherits the channel structure, selected sections, lighting towers and bars of the chosen venue.
+If a template is selected, the new show optionally inherits the channel structure, selected sections, lighting towers and battens of the chosen venue.
 :::
 
 ## Open a show
 
 Simply click on the desired show row. The show opens in the **Channels** tab by default, but remembers the last tab you worked in — e.g. if the show was last edited in the Fly System tab, it reopens there next time.
+
+## Edit area settings after creation
+
+The **"Edit"** button next to the show name opens a dialog to:
+- Enable/disable areas (lighting towers, battens)
+- Select which sections, towers, or battens from the venue template to include
 
 ## Change show metadata afterwards
 

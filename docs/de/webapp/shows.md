@@ -43,7 +43,7 @@ Wird eine Vorlage ausgewählt, übernimmt die neue Show wahlweise die Kreisstruk
 
 ## Show öffnen
 
-Einfach auf die gewünschte Show-Zeile klicken. Die Show öffnet sich standardmäßig im **Kreise**-Tab, merkt sich aber den zuletzt bearbeiteten Tab — wurde die Show zuletzt z. B. im Obermaschinerie-Tab bearbeitet, öffnet sie sich beim nächsten Mal dort wieder.
+Einfach auf die gewünschte Show-Zeile klicken. Die Show öffnet sich standardmäßig im **Kreise**-Tab, merkt sich aber den zuletzt bearbeiteten Tab — wurde die Show zuletzt z. B. im Gassentürme- oder Obermaschinerie-Tab bearbeitet, öffnet sie sich beim nächsten Mal dort wieder.
 
 ## Show-Metadaten nachträglich ändern
 

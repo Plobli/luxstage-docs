@@ -21,7 +21,7 @@ The app is organised in two levels:
 | **Setup** | Setup checklist and show details |
 | **Focus** | Channel plan for focusing fixtures |
 | **OSC** | EOS remote control (numpad, playback, fader, ML) |
-| **More** | Photos and floor plan |
+| **More** | Photos and drawing |
 
 ## Next steps
 
@@ -29,5 +29,5 @@ The app is organised in two levels:
 - [Setup](./setup) — setup checklist
 - [Focus](./focus) — focus fixtures
 - [OSC](./osc) — remote control EOS console
-- [Photos & Floor Plan](./more) — visual documentation
+- [Photos & Drawing](./more) — visual documentation
 - [Settings](./settings) — configure server and OSC venues

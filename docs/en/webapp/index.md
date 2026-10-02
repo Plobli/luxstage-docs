@@ -7,7 +7,7 @@ LuxStage runs in the browser on Mac, Windows, iPad or any other device.
 - Manage shows and channel plans
 - Import channels from EOS or maintain them manually
 - Upload photos and assign them to channels
-- Store a stage floor plan
+- Store a stage drawing
 - Export channel plan as PDF
 - Venue templates for recurring production locations
 - Version history and archiving

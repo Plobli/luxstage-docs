@@ -1,6 +1,6 @@
-# Photos & Floor Plan (iOS)
+# Photos & Drawing (iOS)
 
-Behind the **More** tab (three dots) are the visual documentation views of the show: **Photos** and **Floor Plan**.
+Behind the **More** tab (three dots) are the visual documentation views of the show: **Photos** and **Drawing**.
 
 ## Photos
 
@@ -29,6 +29,6 @@ The **+** button in the top right lets you pick one or more photos from your **p
 During focusing, the reference photos assigned to the current channel are quickly accessible via **More → Photos** — ideal for comparing the focus position without switching between apps.
 :::
 
-## Floor Plan
+## Drawing
 
-The floor plan shows the stored stage plan for the show. It is uploaded in the web app and is available read-only in the iOS app.
+The drawing shows the stored stage plan for the show. It is uploaded in the web app and is available read-only in the iOS app.

@@ -27,7 +27,7 @@ The **Drawing** tab provides an interactive vector editor for the stage plan. Fi
 | ↪ | **Redo** | Ctrl+Y / Ctrl+Shift+Z |
 | 🗑 | **Delete selection** | Delete / Backspace |
 
-More keyboard shortcuts for the floor plan editor: see [Keyboard Shortcuts](./keyboard-shortcuts).
+More keyboard shortcuts for the drawing editor: see [Keyboard Shortcuts](./keyboard-shortcuts).
 
 ### Options bar (top left)
 

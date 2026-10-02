@@ -29,23 +29,31 @@ Besides fixtures, you can place any element on the batten (e.g. fog machine, anc
 
 ## Dimensions
 
-In the dialog, **"Dimensions from"** (Left, Center, Right) sets where positions are measured from and labelled. You can also enter a pull number, or hide the dimensions entirely.
+In the dialog, **"Dimensions from"** (Left, Center, Right) sets where positions are measured from and labelled. You can also enter a pull number (e.g. for batten identification), or hide the dimensions entirely.
 
 ## Move a fixture
 
-Drag the marker along the bar with the mouse button held down.
+Drag the marker along the batten with the mouse button held down.
 
 ## Edit a fixture
 
 Clicking the marker opens a dialog for a note about the fixture (e.g. "3m rope, special colour…"). From there you can also jump directly **"To channel →"** in the channel table.
 
+## Save as template
+
+The bookmark icon lets you save an element into the venue template. You can choose to include the base structure (always included), plus position, channel number, fixture, and notes per fixture.
+
+::: tip Note
+Elements from the venue template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
+:::
+
 ## Remove a fixture
 
-Hovering over the marker reveals a red **×** icon in the top right. After confirming, the fixture is removed from the bar.
+Hovering over the marker reveals a red **×** icon in the top right. After confirming, the fixture is removed from the batten.
 
 ## Length, height, and note
 
-For each element, length (for Bar/Truss) and height (in the measurement unit chosen under [Settings](./settings)) as well as a free-text note can be edited inline directly.
+For each element, length (for Batten/Truss) and height (in the measurement unit chosen under [Settings](./settings)) as well as a free-text note can be edited inline directly.
 
 ## Reorder elements
 
@@ -57,11 +65,3 @@ Using the icons on the right of each element row (visible on hover):
 
 - **Pencil** – change name, length, and dimension display
 - **Trash** – delete the element after confirmation
-
-## Save as template
-
-The bookmark icon lets you save an element into the venue template. You can choose to include the base structure (always included), plus position, channel number, fixture, and notes per fixture.
-
-::: tip Note
-Elements from the venue template are not inherited automatically when quickly creating a show — only the creation wizard lets you select them individually, or you can add them later via "Insert" in the edit dialog.
-:::

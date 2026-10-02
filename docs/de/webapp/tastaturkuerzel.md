@@ -9,7 +9,7 @@
 | Rückgängig | ⌘Z (Mac) / Ctrl+Z (Win) |
 | Wiederholen | ⌘⇧Z (Mac) / Ctrl+Y (Win) |
 
-## Grundriss-Editor
+## Zeichnungs-Editor
 
 ### Werkzeuge
 
@@ -39,7 +39,7 @@
 | Werkzeug abbrechen / Auswahl aufheben | Esc |
 | Gitternetz ein-/ausblenden | G |
 
-Details dazu in [Grundriss](./grundriss).
+Details dazu in [Zeichnung](./grundriss).
 
 ## Escape in Dialogen und Feldern
 
