@@ -67,5 +67,5 @@ Am unteren Rand jeder Gestell-Karte lässt sich per Klick auf **„+ Notiz"** ei
 Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kreisnummer, Gerät und Farbe je Slot.
 
 ::: tip Hinweis
-Beleuchtungsgestelle aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Aus Vorlage einfügen…" beim Anlegen eines neuen Gestells.
+Gassentürme aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Aus Vorlage einfügen…" beim Anlegen eines neuen Gestells.
 :::
