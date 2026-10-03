@@ -4,7 +4,7 @@ layout: home
 hero:
   name: LuxStage
   text: Your channel plan. Always at hand.
-  tagline: The professional app for lighting documentation in theatre and events — as a native iOS app and as a web app. Channel management, EOS import, PDF export and real-time sync.
+  tagline: The professional app for lighting documentation in theatre — as a native iOS app and as a web app. Channel management, EOS import, PDF export and real-time sync.
   actions:
     - theme: brand
       text: Getting Started
