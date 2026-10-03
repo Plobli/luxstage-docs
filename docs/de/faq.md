@@ -32,7 +32,7 @@ LuxStage gibt es als gehosteten Service unter [luxstage.app](https://luxstage.ap
 
 ## Welche Daten sammelt die iOS-App?
 
-Die iOS-App sammelt **keine personenbezogenen Daten**. Gespeichert werden ausschließlich Server-URL, EOS-User-ID und Spracheinstellung – lokal auf deinem Gerät. Show-Daten werden nur mit deinem eigenen Server synchronisiert. Kein Tracking, keine Analyse, keine Werbung.
+Die iOS-App sammelt **keine personenbezogenen Daten**. Gespeichert werden ausschließlich Server-URL, EOS-User-ID und Spracheinstellung – lokal auf deinem Gerät. Show-Daten werden nur mit deinem LuxStage-Konto synchronisiert. Kein Tracking, keine Analyse, keine Werbung.
 
 Weitere Details: [Datenschutzerklärung](./datenschutz)
 
