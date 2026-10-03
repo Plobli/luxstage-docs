@@ -54,7 +54,7 @@ At the top, the EOS address, user and currently active cue (`LIVE: Cue 1`) are s
 | **Back** | Orange | One cue back |
 | **Pause** | Blue | Pause playback |
 | **GO** | Green | Start next cue |
-| **Go Time 2** | Teal | GO with time 2 |
+| **Go Time Disable** | Teal | GO without cue time (Shift+GO) |
 | **Go to Cue Out** | Red | Jump directly to Cue Out |
 
 ---
