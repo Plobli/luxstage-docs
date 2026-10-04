@@ -36,6 +36,10 @@ Shows and GridDeck need a team on [luxstage.app](https://luxstage.app). You try 
 
 Your team stays readable permanently. You can still view and export everything. Nothing is locked or deleted. A subscription lets you edit again.
 
+## Can I switch between monthly and yearly?
+
+Yes. The owner opens Settings → Team → “Manage subscription & invoices” and picks the other plan. Time already paid is credited.
+
 ## Who manages billing?
 
 The team owner, meaning whoever created the team. The owner can transfer ownership under Settings → Team. Everyone else is a member.

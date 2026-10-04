@@ -36,6 +36,10 @@ Für Shows und GridDeck brauchst du ein Team auf [luxstage.app](https://luxstage
 
 Dein Team bleibt dauerhaft lesbar. Du kannst weiter alles ansehen und exportieren. Nichts wird gesperrt oder gelöscht. Mit einem Abo kannst du wieder schreiben.
 
+## Kann ich zwischen Monats- und Jahresabo wechseln?
+
+Ja. Der Inhaber öffnet Einstellungen → Team → „Abo & Rechnungen verwalten“ und wählt dort den anderen Tarif. Bereits bezahlte Zeit wird angerechnet.
+
 ## Wer verwaltet die Abrechnung?
 
 Der Inhaber des Teams. Das ist, wer das Team angelegt hat. Er kann die Inhaberschaft unter Einstellungen → Team übertragen. Alle anderen sind Mitglieder.
