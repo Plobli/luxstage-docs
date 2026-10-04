@@ -30,7 +30,7 @@ Yes, any number – without roles or permission differences. All users can work 
 
 The iPhone, iPad and Android apps are free. Remote, which controls your ETC console, works without an account.
 
-Shows and GridDeck need a team on [luxstage.app](https://luxstage.app). You try it for 14 days without payment details. After that it costs €29 per month or €290 per year for the whole team. As a small business under § 19 UStG we charge no VAT, with unlimited users. You pay on the web under Settings → Team, by card or SEPA direct debit. You manage invoices and payment method there in the customer portal.
+Shows and GridDeck need a team on [luxstage.app](https://luxstage.app). You try it for 14 days without payment details. After that it costs €29 per month or €290 per year for the whole team. As a small business under § 19 UStG we charge no VAT, with unlimited users. You pay on the web under Settings → Team, by card or SEPA direct debit. You manage your subscription, invoices and payment method there via “Manage subscription & invoices”.
 
 ## What happens after the trial or after cancelling?
 
