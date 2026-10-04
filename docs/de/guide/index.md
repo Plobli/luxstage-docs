@@ -6,7 +6,7 @@ LuxStage ist eine App für Beleuchtungsdokumentation am Theater oder auf Events 
 
 Der Server verwaltet die Datenbank mit Shows, Vorlagen usw. Außerdem stellt der Server die Web-App bereit, welche über einen beliebigen Browser aufgerufen werden kann.
 
-LuxStage läuft als gehosteter Service unter [luxstage.app](https://luxstage.app) — ganz ohne eigene Server-Installation.
+LuxStage läuft als gehosteter Service unter [luxstage.app](https://luxstage.app) — ganz ohne eigene Server-Installation. Dein Team testest du 14 Tage kostenlos, danach gibt es ein Abo pro Team (siehe [FAQ](/de/faq)). Die Apps sind kostenlos.
 
 ### LuxStage im Browser
 

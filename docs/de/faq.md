@@ -28,7 +28,17 @@ Ja, beliebig viele – ohne Rollen oder Rechteunterschiede. Alle Benutzer könne
 
 ## Ist LuxStage kostenlos?
 
-LuxStage gibt es als gehosteten Service unter [luxstage.app](https://luxstage.app) gegen eine monatliche Gebühr. Die iOS-App ist optional und gegen eine monatliche Gebühr im App Store erhältlich.
+Die Apps für iPhone, iPad und Android sind kostenlos. Remote, also die Steuerung deiner ETC-Konsole, kannst du ohne Konto nutzen.
+
+Für Shows und GridDeck brauchst du ein Team auf [luxstage.app](https://luxstage.app). Du testest es 14 Tage ohne Zahlungsdaten. Danach kostet es 29 € pro Monat oder 290 € pro Jahr (netto zuzüglich Umsatzsteuer) für das ganze Team, mit beliebig vielen Nutzern. Bezahlt wird im Web unter Einstellungen → Team, per Karte oder SEPA-Lastschrift. Rechnungen und Zahlungsmittel verwaltest du dort im Kundenportal.
+
+## Was passiert nach der Testzeit oder bei Kündigung?
+
+Dein Team bleibt dauerhaft lesbar. Du kannst weiter alles ansehen und exportieren. Nichts wird gesperrt oder gelöscht. Mit einem Abo kannst du wieder schreiben.
+
+## Wer verwaltet die Abrechnung?
+
+Der Inhaber des Teams. Das ist, wer das Team angelegt hat. Er kann die Inhaberschaft unter Einstellungen → Team übertragen. Alle anderen sind Mitglieder.
 
 ## Welche Daten sammelt die iOS-App?
 

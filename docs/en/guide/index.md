@@ -17,7 +17,7 @@ The native SwiftUI app for iPhone and iPad. Fast, responsive and optimised for t
 
 ### LuxStage in the browser
 
-The web application runs in the browser on Mac, Windows, iPad or any other device. LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app) — no server installation required.
+The web application runs in the browser on Mac, Windows, iPad or any other device. LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app) — no server installation required. You try your team free for 14 days, then a per-team subscription applies (see the [FAQ](/en/faq)). The apps are free.
 
 ## Quick start in 10 minutes
 
