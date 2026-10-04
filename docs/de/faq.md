@@ -30,7 +30,7 @@ Ja, beliebig viele – ohne Rollen oder Rechteunterschiede. Alle Benutzer könne
 
 Die Apps für iPhone, iPad und Android sind kostenlos. Remote, also die Steuerung deiner ETC-Konsole, kannst du ohne Konto nutzen.
 
-Für Shows und GridDeck brauchst du ein Team auf [luxstage.app](https://luxstage.app). Du testest es 14 Tage ohne Zahlungsdaten. Danach kostet es 29 € pro Monat oder 290 € pro Jahr (netto zuzüglich Umsatzsteuer) für das ganze Team, mit beliebig vielen Nutzern. Bezahlt wird im Web unter Einstellungen → Team, per Karte oder SEPA-Lastschrift. Rechnungen und Zahlungsmittel verwaltest du dort im Kundenportal.
+Für Shows und GridDeck brauchst du ein Team auf [luxstage.app](https://luxstage.app). Du testest es 14 Tage ohne Zahlungsdaten. Danach kostet es 29 € pro Monat oder 290 € pro Jahr für das ganze Team. Als Kleinunternehmer nach § 19 UStG berechnen wir keine Umsatzsteuer, mit beliebig vielen Nutzern. Bezahlt wird im Web unter Einstellungen → Team, per Karte oder SEPA-Lastschrift. Rechnungen und Zahlungsmittel verwaltest du dort im Kundenportal.
 
 ## Was passiert nach der Testzeit oder bei Kündigung?
 
