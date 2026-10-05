@@ -7,7 +7,7 @@ This area is not the same as the "Aufbau" tab in the iOS app – that one shows 
 :::
 
 ::: tip The term "Truss"
-The in-app help text for lighting towers also gives "towers or trusses left/right of the stage" as an example — this refers to side towers with slots as described here. The standalone **"Truss"** element type under [Setup — Battens](./setup-zugstangen) is different: a freely positionable batten in the fly system.
+The in-app help text for lighting towers also gives "towers or trusses beside the stage" as an example — this refers to side towers with slots as described here. The standalone **"Truss"** element type under [Setup — Battens](./setup-zugstangen) is different: a freely positionable batten in the fly system.
 :::
 
 Depending on the show's settings (see [Shows](./shows)), one, the other, or both areas appear as their own sub-tab within Setup: lighting towers as "Lighting Towers", battens as **"Fly System"**.
@@ -20,7 +20,6 @@ Depending on the show's settings (see [Shows](./shows)), one, the other, or both
 | Field | Description |
 |-------|-------------|
 | **Name** | Name of the tower, e.g. "Lighting Tower 1" |
-| **Side** | e.g. "L" or "R" for left/right on stage |
 | **Number of slots** | How many tower positions the tower has (1–20) |
 
 3. Click **"Create"**

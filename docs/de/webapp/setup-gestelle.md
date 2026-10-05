@@ -7,7 +7,7 @@ Dieser Bereich ist nicht identisch mit dem „Aufbau"-Tab der iOS-App – dieser
 :::
 
 ::: tip Begriff „Traverse"
-Der In-App-Hilfetext nennt als Beispiel für Gassentürme auch „Traversen links/rechts der Bühne" — gemeint sind damit seitliche Türme mit Slots wie hier beschrieben. Der eigenständige Element-Typ **„Traverse"** unter [Setup — Obermaschinerie](./setup-zugstangen) ist etwas anderes: eine frei positionierbare Stange in der Obermaschinerie.
+Der In-App-Hilfetext nennt als Beispiel für Gassentürme auch „Traversen neben der Bühne" — gemeint sind damit seitliche Türme mit Slots wie hier beschrieben. Der eigenständige Element-Typ **„Traverse"** unter [Setup — Obermaschinerie](./setup-zugstangen) ist etwas anderes: eine frei positionierbare Stange in der Obermaschinerie.
 :::
 
 Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere oder beide Bereiche als eigener Unter-Tab im Setup-Bereich sichtbar: Gassentürme als „Gassentürme", Zugstangen als **„Obermaschinerie"**.
@@ -20,7 +20,6 @@ Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere o
 | Feld | Beschreibung |
 |------|-------------|
 | **Bezeichnung** | Name des Gestells, z. B. „Gassenturm 1" |
-| **Seite** | z. B. „L" oder „R" für links/rechts auf der Bühne (optional) |
 | **Anzahl Slots** | Wie viele Gestellplätze das Gestell hat (1–20) |
 
 3. Klick auf **„Anlegen"**
@@ -51,7 +50,7 @@ Klick auf **„Slot hinzufügen"** unterhalb der Slot-Liste des Gestells.
 
 Über die Symbole oben rechts an jeder Gestell-Karte:
 
-- **Stift** – Bezeichnung, Seite oder Anzahl Slots ändern. Wird die Slot-Anzahl verringert, erscheint eine Warnung mit den betroffenen (ggf. belegten) Slots.
+- **Stift** – Bezeichnung oder Anzahl Slots ändern. Wird die Slot-Anzahl verringert, erscheint eine Warnung mit den betroffenen (ggf. belegten) Slots.
 - **Papierkorb** – Gestell nach Bestätigung löschen
 
 ## Notiz pro Slot
