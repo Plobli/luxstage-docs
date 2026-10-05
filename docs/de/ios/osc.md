@@ -8,6 +8,10 @@ Oben links zeigt ein Dropdown den aktuell aktiven **Spielort**. Ein Tippen öffn
 
 Der Verbindungsstatus erscheint als grüner Punkt mit „Verbunden · User 1", sobald die Verbindung zur EOS steht. Der EOS-User kann in den [Einstellungen](./einstellungen) festgelegt werden.
 
+::: warning Pult-Voraussetzung
+Am Pult müssen **OSC RX** und **OSC TX** eingeschaltet sein (Setup → System → Show Control → OSC). Sonst nimmt die EOS die Verbindung an und schließt sie sofort wieder. Die App zeigt dann „Pult lehnt OSC ab“ statt „Verbunden“.
+:::
+
 ## Unteransichten
 
 Die vier Unteransichten werden über die Segment-Leiste oben gewechselt: **Numpad**, **Playback**, **Fader**, **ML**.

@@ -8,6 +8,10 @@ A dropdown in the top left shows the currently active **venue**. Tapping it open
 
 The connection status appears as a green dot with "Connected · User 1" once the connection to EOS is established. The EOS user can be set in [Settings](./settings).
 
+::: warning Console requirement
+**OSC RX** and **OSC TX** must be enabled on the console (Setup → System → Show Control → OSC). Otherwise EOS accepts the connection and closes it immediately. The app then shows "Console rejects OSC" instead of "Connected".
+:::
+
 ## Sub-views
 
 The four sub-views are switched via the segment control at the top: **Numpad**, **Playback**, **Fader**, **ML**.
