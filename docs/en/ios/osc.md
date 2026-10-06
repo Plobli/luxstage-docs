@@ -6,7 +6,7 @@ The **OSC** tab is the direct remote control of the EOS lighting console over th
 
 A dropdown in the top left shows the currently active **venue**. Tapping it opens the list of all venues from the server — the active one is marked with a checkmark. IP addresses are managed in the [WebApp](../webapp/venue-template); the EOS User ID is set in [Settings](./settings).
 
-The connection status appears as a green dot with "Connected · User 1" once the connection to EOS is established. The EOS user can be set in [Settings](./settings).
+The connection belongs to the whole app: switching tabs does not disconnect it, it survives short background periods and reconnects automatically after longer ones. The connection status appears as a green dot with "Connected · User 1" once the connection to EOS is established. The EOS user can be set in [Settings](./settings).
 
 ::: warning Console requirement
 **OSC RX** and **OSC TX** must be enabled on the console (Setup → System → Show Control → OSC). Otherwise EOS accepts the connection and closes it immediately. The app then shows "Console rejects OSC" instead of "Connected".

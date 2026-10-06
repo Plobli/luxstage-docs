@@ -12,17 +12,19 @@ In the **Server** field, enter the URL of the LuxStage server, e.g. `http://192.
 
 Use the **Language** menu to select the display language of the app (e.g. English).
 
-## OSC per venue
+## OSC connection
 
-The list of venues is loaded automatically from the LuxStage server. For each venue the following is shown:
+The list of venues is stored **locally on the device**. Server suggestions (login required) can be added with a tap, and you can add your own venues with a name and IP. Tapping a venue makes it the active connection for the whole app.
 
-- **Name** — read-only, managed in the WebApp
-- **IP address** — read-only, set in the [WebApp under Venue Templates](../webapp/spielstaette-vorlage); "Not configured" if no address has been entered
-- **EOS User ID** — stepper to set the EOS user (1–99); saved **locally on the device** and can differ per device
+- **Eos User** — stepper (−1 to 99). The value applies device-wide, is saved immediately and survives app restarts and updates. Changing it reconnects the app automatically.
 
-::: tip
-The IP address is set centrally in the WebApp and applies to all devices. The EOS User ID is device-specific and persists after restarting the app.
+::: warning Using the ETC RFR app too
+If you also use the ETC RFR app, pick a **different Eos user** there than in LuxStage, otherwise the two apps interfere with each other.
 :::
+
+## Diagnostics
+
+Optionally, and only with your consent, the app sends crashes and an anonymous connection log (connection and app states such as standby or network changes, no show content). **Send log now** transmits the log immediately, e.g. for support.
 
 ## Sign out
 

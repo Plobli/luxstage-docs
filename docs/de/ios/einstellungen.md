@@ -12,17 +12,19 @@ Im Feld **Server** wird die URL des LuxStage-Servers eingetragen, z. B. `http://
 
 Über das **Sprache**-Menü lässt sich die Anzeigesprache der App wählen (z. B. Deutsch).
 
-## OSC pro Spielort
+## OSC-Verbindung
 
-Die Liste der Spielorte wird automatisch vom LuxStage-Server geladen. Für jeden Spielort wird angezeigt:
+Die Liste der Bühnen liegt **lokal auf dem Gerät**. Server-Vorschläge (nur mit Login) lassen sich per Tipp übernehmen, eigene Bühnen mit Name und IP ergänzen. Ein Tipp auf eine Bühne macht sie zur aktiven Verbindung für alle Bereiche der App.
 
-- **Name** — read-only, wird in der WebApp gepflegt
-- **IP-Adresse** — read-only, wird in der [WebApp unter Spielort-Vorlagen](../webapp/spielstaette-vorlage) gesetzt; „Nicht konfiguriert" wenn kein Eintrag vorhanden
-- **EOS-User-ID** — Stepper zum Einstellen des EOS-Users (1–99); wird **lokal auf dem Gerät** gespeichert und kann pro Gerät unterschiedlich sein
+- **Eos User** — Stepper (−1 bis 99). Der Wert gilt geräteweit, wird sofort gespeichert und bleibt auch nach App-Neustart und Updates erhalten. Wechselst du ihn, verbindet sich die App automatisch neu.
 
-::: tip
-Die IP-Adresse wird zentral in der WebApp gesetzt und gilt für alle Geräte. Die EOS-User-ID ist gerätespezifisch und bleibt nach App-Neustart erhalten.
+::: warning ETC-RFR-App parallel
+Nutzt du zusätzlich die ETC-RFR-App, wähle dort einen **anderen Eos-User** als in LuxStage, sonst stören sich beide Apps gegenseitig.
 :::
+
+## Diagnosedaten
+
+Optional und nur mit deiner Zustimmung sendet die App Crashes und ein anonymes Verbindungsprotokoll (Verbindungs- und App-Zustände wie Standby oder Netzwechsel, keine Show-Inhalte). Mit **Protokoll jetzt senden** lässt sich das Protokoll sofort übertragen, z. B. für den Support.
 
 ## Abmelden
 

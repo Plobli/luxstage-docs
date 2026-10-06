@@ -6,7 +6,7 @@ Der **OSC**-Tab ist die direkte Fernsteuerung der EOS-Lichtsteuerkonsole über d
 
 Oben links zeigt ein Dropdown den aktuell aktiven **Spielort**. Ein Tippen öffnet die Liste aller Spielorte vom Server — der aktive ist mit einem Haken markiert. Die IP-Adressen werden in der [WebApp](../webapp/spielstaette-vorlage) gepflegt, die EOS-User-ID in den [Einstellungen](./einstellungen).
 
-Der Verbindungsstatus erscheint als grüner Punkt mit „Verbunden · User 1", sobald die Verbindung zur EOS steht. Der EOS-User kann in den [Einstellungen](./einstellungen) festgelegt werden.
+Die Verbindung gehört der ganzen App: Tab-Wechsel trennen sie nicht, nach kurzem Hintergrund bleibt sie bestehen und nach längerem baut sie sich automatisch neu auf. Der Verbindungsstatus erscheint als grüner Punkt mit „Verbunden · User 1", sobald die Verbindung zur EOS steht. Der EOS-User kann in den [Einstellungen](./einstellungen) festgelegt werden.
 
 ::: warning Pult-Voraussetzung
 Am Pult müssen **OSC RX** und **OSC TX** eingeschaltet sein (Setup → System → Show Control → OSC). Sonst nimmt die EOS die Verbindung an und schließt sie sofort wieder. Die App zeigt dann „Pult lehnt OSC ab“ statt „Verbunden“.
