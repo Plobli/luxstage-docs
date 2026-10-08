@@ -87,6 +87,7 @@ export default {
               items: [
                 { text: 'Archiv', link: '/de/webapp/archiv' },
                 { text: 'Spielstätten-Vorlage anlegen', link: '/de/webapp/spielstaette-vorlage' },
+                { text: 'Farben verwalten', link: '/de/webapp/farben' },
                 { text: 'Einstellungen', link: '/de/webapp/einstellungen' },
               ]
             },
@@ -203,6 +204,7 @@ export default {
               items: [
                 { text: 'Archive', link: '/en/webapp/archive' },
                 { text: 'Venue Template', link: '/en/webapp/venue-template' },
+                { text: 'Managing Colors', link: '/en/webapp/colors' },
                 { text: 'Settings', link: '/en/webapp/settings' },
               ]
             },

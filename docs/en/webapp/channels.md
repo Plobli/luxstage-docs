@@ -56,7 +56,7 @@ Channels are grouped by **positions** (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 
 |-------|--------|
 | **Channel number (left)** | Click → enter number |
 | **Dimmer address (right)** | Click → enter address |
-| **Colour** | Click → dropdown with available gel codes appears (e.g. "L201 / R371 Full C.T. Blue"). Also selectable: **"No Color"** (no filter) or **"Custom"** for free-text entries (e.g. "R02" or "warm white") |
+| **Colour** | Click → dropdown with all colors appears, custom colors first (e.g. "L201 / R371 Full C.T. Blue"). Frost and diffusion are shown hatched. Manage the list under [Managing Colors](/en/webapp/colors). Also selectable: **"No Color"** (no filter) or **"Custom"** for free-text entries (e.g. "R02" or "warm white") |
 | **Fixture** | Click → enter fixture name |
 | **Notes** | Click → enter free text |
 

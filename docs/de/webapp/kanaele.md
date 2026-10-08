@@ -56,7 +56,7 @@ Die Kreise sind nach **Bühnenpositionen** gruppiert (z. B. „FOH BAR LEFT", �
 |------|--------|
 | **Kreiszahl links** | Klicken → Nummer eingeben|
 | **Dimmer-Adresse rechts** | Klicken → Adresse eingeben |
-| **Farbe** | Klicken → Dropdown mit verfügbaren Gel-Codes erscheint (z. B. „L201 / R371 Full C.T. Blue"). Zusätzlich wählbar: **„No Color"** (kein Farbfilter) oder **Freitext** für eigene Angaben (z. B. „R02" oder „warm weiß") |
+| **Farbe** | Klicken → Dropdown mit allen Farben erscheint, eigene Farben ganz oben (z. B. „L201 / R371 Full C.T. Blue"). Frost und Diffusion erscheinen schraffiert. Die Liste pflegst du unter [Farben verwalten](/de/webapp/farben). Zusätzlich wählbar: **„No Color"** (kein Farbfilter) oder **Freitext** für eigene Angaben (z. B. „R02" oder „warm weiß") |
 | **Gerät** | Klicken → Gerätebezeichnung eingeben |
 | **Notizen** | Klicken → Freitext eingeben |
 
