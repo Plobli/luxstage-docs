@@ -40,6 +40,7 @@ Die Tabelle hat folgende Spalten:
 | **KREIS** | Kreisnummer, reine Zahl, z. B. „1" |
 | **DMX** | Universum/Adresse, z. B. „1/121" |
 | **COLOR** | Farbfilter (Gel-Code), z. B. „L201/R371" oder „RGB", „variable" |
+| **2. FOLIE** | Optionale zweite Folie. Einblenden über das **+** im Spaltenkopf von COLOR; sobald ein Kreis eine 2. Folie hat, bleibt die Spalte sichtbar |
 | **ANZ.** | Anzahl identischer Geräte an dieser Bühnenposition |
 | **GERÄT** | Leuchtenbezeichnung, z. B. „ETC Source Four 26°" |
 | **NOTIZEN** | Freitext-Notiz, z. B. „Key light stage left, narrow spot" |

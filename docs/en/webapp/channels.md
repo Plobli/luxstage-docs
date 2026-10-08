@@ -40,6 +40,7 @@ The table has the following columns:
 | **Chan** | Channel number, plain integer, e.g. "1" |
 | **DMX** | Universe/address, e.g. "1/121" |
 | **Color** | Colour filter (gel code), e.g. "L201/R371" or "RGB", "variable" |
+| **2nd gel** | Optional second gel. Show it with the **+** in the Color column header; once any channel has a 2nd gel, the column stays visible |
 | **Qty.** | Number of identical fixtures at this position |
 | **Device** | Fixture name, e.g. "ETC Source Four 26°" |
 | **Notes** | Free-text note, e.g. "Key light stage left, narrow spot" |
