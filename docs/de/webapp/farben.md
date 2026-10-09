@@ -10,6 +10,7 @@ Unter **Vorlagen** steht der Eintrag **Farben** unterhalb der Bühnen-Vorlagen. 
 
 - **Suche:** Code, Code 2 oder Name eingeben.
 - **Typ:** Farbe, Frost, Diffusion oder Neutraldichte.
+- **Hersteller:** Lee, Rosco, GAM und weitere, erkannt am Code-Präfix. Bei Farben mit zwei Codes zählen beide Hersteller.
 - **Standard / Eigene:** zeigt nur mitgelieferte oder nur selbst angelegte Farben.
 
 Jede Zeile zeigt Code (bei Standardfarben die Lee-Nummer, dahinter die Rosco-Nummer), Name, Typ und in wie vielen Kreisen die Farbe verwendet wird.
