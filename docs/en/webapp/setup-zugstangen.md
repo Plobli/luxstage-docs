@@ -65,3 +65,16 @@ Using the icons on the right of each element row (visible on hover):
 
 - **Pencil** – change name, length, and dimension display
 - **Trash** – delete the element after confirmation
+
+## Fixed elements in the drawing
+
+Elements placed on the floor plan in the venue template appear automatically at the same position in every show that uses the template floor plan. Only additional elements need to be placed by hand.
+
+1. In the template: place the element once in the **Drawing** tab. Without placement it counts as movable.
+2. In the show: add the element from the template — it appears at the right position automatically.
+
+Create different fit-outs of the same bar as separate elements (e.g. "Bar 12 – A" and "Bar 12 – B"). Automatically placed elements cannot be moved: delete and place manually. Manually placed elements take precedence.
+
+::: info Layers
+In the drawing, four switches show or hide **Floor plan**, **Overhead rigging**, **Channels** and **Labels**. This also applies to PNG and PDF export.
+:::

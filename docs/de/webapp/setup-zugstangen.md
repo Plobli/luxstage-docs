@@ -58,6 +58,19 @@ Elemente lassen sich per Drag & Drop in der Liste neu anordnen.
 - **Stift** – Name, Länge und Bemaßungsanzeige ändern
 - **Papierkorb** – Element nach Bestätigung löschen
 
+## Feste Elemente in der Zeichnung
+
+Elemente, die in der Spielort-Vorlage im Grundriss platziert sind, erscheinen in jeder Show mit dem Vorlagen-Grundriss automatisch an derselben Stelle der Zeichnung. Nur zusätzliche Elemente platzierst du von Hand.
+
+1. In der Vorlage: Element im Tab **Zeichnung** einmalig platzieren. Ohne Platzierung gilt das Element als ortsveränderlich.
+2. In der Show: Element aus der Vorlage übernehmen — es erscheint automatisch an der richtigen Position.
+
+Mehrere Bestückungen desselben Zugs legst du als eigene Elemente an (z. B. „Zug 12 – A" und „Zug 12 – B"). Automatisch platzierte Elemente lassen sich nicht verschieben: löschen und manuell neu platzieren. Manuell platzierte Elemente haben Vorrang.
+
+::: info Ebenen
+In der Zeichnung blenden vier Schalter **Grundriss**, **Obermaschinerie**, **Kanäle** und **Beschriftung** ein oder aus. Das gilt auch für PNG- und PDF-Export.
+:::
+
 ## Als Vorlage speichern
 
 Über das Lesezeichen-Symbol lässt sich ein Element in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten) sowie je Scheinwerfer Bühnenposition, Kreisnummer, Gerät und Anmerkungen.
