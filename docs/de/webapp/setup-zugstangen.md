@@ -19,7 +19,9 @@ Der Dialog **„Neues Element"** bietet drei Typen:
 
 ## Scheinwerfer auf der Stange platzieren
 
-Auf die gewünschte Position auf der Stangen-Linie klicken → Kreis-Auswahl öffnet sich → Kreis suchen und auswählen → Position bestätigen (in cm, 0 = Mitte der Stange).
+Mit der Kreisliste-Leiste (siehe [Gassentürme](./setup-gestelle)): Kreis in der Leiste anklicken, dann die Stelle auf der Stange anklicken — oder den Kreis per Drag & Drop auf die Stange ziehen.
+
+Ohne Leiste: Auf die gewünschte Position auf der Stangen-Linie klicken → Kreis-Auswahl öffnet sich → Kreis suchen und auswählen → Position bestätigen (in cm, 0 = Mitte der Stange).
 
 Hat der gewählte Kreis eine **Anzahl** größer als 1 (siehe [Kreise](./kanaele)), werden automatisch mehrere Marker mit Abstand nebeneinander platziert.
 

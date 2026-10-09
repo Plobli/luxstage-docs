@@ -19,7 +19,9 @@ The **"New Element"** dialog offers three types:
 
 ## Place a fixture on the batten
 
-Click the desired position on the batten line → the channel picker opens → search and select a channel → confirm the position (in cm, 0 = centre of the batten).
+With the channel list rail (see [Towers](./setup-gestelle)): click a channel in the rail, then the spot on the batten — or drag the channel onto the batten.
+
+Without the rail: click the desired position on the batten line → the channel picker opens → search and select a channel → confirm the position (in cm, 0 = centre of the batten).
 
 If the selected channel has a **quantity** greater than 1 (see [Channels](./channels)), several markers are placed automatically, spaced next to each other.
 

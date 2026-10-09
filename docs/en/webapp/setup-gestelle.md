@@ -24,15 +24,35 @@ Depending on the show's settings (see [Shows](./shows)), one, the other, or both
 
 3. Click **"Create"**
 
+## Channel list rail
+
+Next to towers and overhead rigging, the **channel list rail** sits on the right, showing fixture, colour and note of each channel. It offers:
+
+- **Search** by channel number or fixture
+- **All / Unplaced** filter
+- **Eye button** "Only channels with note"
+- **Stage position filter** with counter
+- **Placement pill** per channel, e.g. "Tower 1 · S1, S3"
+
+The list stays stable; a channel can be placed several times. The rail can be dragged wider.
+
 ## Assign a channel to a slot
+
+**With the rail:**
+
+1. Click a slot or a channel, then its counterpart. Alternatively drag a channel from the rail onto the slot.
+2. After a slot, the target jumps to the next free slot. A selected channel stays selected until you press **Esc** or click outside tower and rail.
+3. If a channel is missing, **Enter** in the search creates an unknown number in the channel list.
+
+The rail does not ask before overwriting an occupied slot; **Undo** still applies.
+
+**Without the rail** (template editor, narrow screens, collapsed rail):
 
 1. Click the **⌄⌄** (select) icon on the right of a slot
 2. Search by channel number or fixture in the search field
 3. Click a channel → it is assigned to the slot
 
-If the next slot is still empty, its selection dialog opens automatically, letting you quickly fill several slots in a row.
-
-If a slot is already occupied, a confirmation appears before overwriting.
+If the next slot is still empty, its selection dialog opens automatically. If a slot is already occupied, a confirmation appears before overwriting.
 
 ## Clear a slot
 

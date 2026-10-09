@@ -24,15 +24,35 @@ Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere o
 
 3. Klick auf **„Anlegen"**
 
+## Kreisliste als Leiste
+
+Neben Gassentürmen und Obermaschinerie steht rechts die **Kreisliste als Leiste** mit Gerät, Farbe und Notiz jedes Kreises. Sie bietet:
+
+- **Suche** nach Kreisnummer oder Gerät
+- **Alle / Nicht platziert** als Filter
+- **Auge-Knopf** „Nur Kreise mit Notiz"
+- **Filter nach Bühnenposition** mit Zähler
+- **Platz-Pille** je Kreis, z. B. „Gassenturm 1 · S1, S3"
+
+Die Liste bleibt stabil; ein Kreis lässt sich mehrfach platzieren. Die Leiste lässt sich breiter ziehen.
+
 ## Kreis einem Slot zuweisen
+
+**Mit der Leiste:**
+
+1. Slot oder Kreis anklicken, dann das Gegenstück. Alternativ den Kreis aus der Leiste per Drag & Drop auf den Slot ziehen.
+2. Nach einem Slot springt das Ziel zum nächsten freien Slot. Ein gewählter Kreis bleibt gewählt, bis **Esc** gedrückt wird oder ein Klick außerhalb von Turm und Leiste erfolgt.
+3. Fehlt ein Kreis, legt **Enter** in der Suche eine unbekannte Nummer in der Kreisliste an.
+
+Beim Überschreiben eines belegten Slots fragt die Leiste nicht nach; **Rückgängig** gilt weiter.
+
+**Ohne Leiste** (Vorlagen-Editor, schmale Bildschirme, eingeklappte Leiste):
 
 1. Bei einem leeren Slot auf **„Kreis zuordnen"** klicken, bei einem belegten Slot auf das **Stift**-Symbol
 2. Im Suchfeld nach Kreisnummer oder Gerät suchen
 3. Kreis anklicken → wird dem Slot zugewiesen
 
-Ist der nächste Slot noch leer, öffnet sich automatisch dessen Auswahl-Dialog, um mehrere Slots hintereinander schnell zu befüllen.
-
-Ist ein Slot bereits belegt, erscheint vor dem Überschreiben eine Bestätigung.
+Ist der nächste Slot noch leer, öffnet sich automatisch dessen Auswahl-Dialog. Ist ein Slot bereits belegt, erscheint vor dem Überschreiben eine Bestätigung.
 
 ## Slot leeren
 
@@ -55,7 +75,7 @@ Klick auf **„Slot hinzufügen"** unterhalb der Slot-Liste des Gestells.
 
 ## Notiz pro Slot
 
-Jeder Slot hat ein eigenes **Notiz**-Feld. Text eintragen, er wird beim Verlassen des Feldes gespeichert.
+Jeder Slot hat ein eigenes **Aufbaunotiz**-Feld (getrennt von der Notiz der Kreisliste für das Einleuchten). Text eintragen, er wird beim Verlassen des Feldes gespeichert.
 
 ## Notiz hinzufügen
 
