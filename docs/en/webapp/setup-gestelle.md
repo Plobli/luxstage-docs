@@ -75,7 +75,7 @@ Using the icons in the top right of each tower card:
 
 ## Note per slot
 
-Each slot has its own **Note** field. Enter text; it is saved when you leave the field.
+Each slot has its own **Setup note** field (separate from the channel list note used for focusing). Enter text; it is saved when you leave the field.
 
 ## Add a note
 
