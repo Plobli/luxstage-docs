@@ -4,7 +4,9 @@ The **Drawing** tab provides an interactive vector editor for the stage plan. Fi
 
 ## User interface
 
-### Toolbar (left side)
+### Toolbar
+
+All tools carry a text label next to the icon and are grouped (navigation, draw, lighting, scale, background, export).
 
 | Icon | Tool | Keyboard shortcut |
 |------|------|-------------------|
@@ -40,11 +42,25 @@ More keyboard shortcuts for the drawing editor: see [Keyboard Shortcuts](./keybo
 
 1. Select the **"Place channel" (C)** tool
 2. Click on the desired position on the drawing
-3. The channel marker appears as a numbered circle marker (red with arrow)
+3. The channel appears as a slim numbered marker. Before clicking, the preview at the cursor already shows the real size
 
 ## Rotate elements
 
-Bars, rectangles, ellipses and text can be rotated freely: select the element and drag the yellow handle above it. Alternatively, the buttons in the options bar rotate by 45° or 90° left or right. Channel markers rotate via the handle at the arrow tip.
+Bars, rectangles, ellipses and text can be rotated freely: select the element and drag the yellow handle above it. Alternatively, the buttons in the options bar rotate by 45° or 90° left or right. Channel markers no longer have an orientation.
+
+## Bay frame
+
+Bay frames appear compact with a readable label on an opaque background.
+
+## Scale tool
+
+The scale must be set right after uploading a floor plan. A hint explains the steps and offers **Mark distance** or **Later**. While marking, a line follows the cursor.
+
+1. Select the **Scale** tool
+2. Click two points with a known real distance
+3. Enter the distance in metres and confirm
+
+Bars and bay frames are then shown at their real size; the placement preview has the same size as the placed element.
 
 ## Using a background image
 

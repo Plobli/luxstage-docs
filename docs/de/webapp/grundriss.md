@@ -4,7 +4,9 @@ Der Tab **Zeichnung** bietet einen interaktiven Vektor-Editor für den Bühnengr
 
 ## Benutzeroberfläche
 
-### Werkzeugleiste (linke Seite)
+### Werkzeugleiste
+
+Alle Werkzeuge tragen eine Beschriftung neben dem Symbol und sind in Gruppen sortiert (Navigation, Zeichnen, Lichttechnik, Maßstab, Hintergrund, Export).
 
 | Symbol | Werkzeug | Tastaturkürzel |
 |--------|----------|----------------|
@@ -40,13 +42,19 @@ Weitere Tastaturkürzel des Zeichnungs-Editors siehe [Tastaturkürzel](./tastatu
 
 1. Werkzeug **„Kreis platzieren" (C)** auswählen
 2. Auf die gewünschte Stelle in der Zeichnung klicken
-3. Die Kreismarkierung erscheint als nummerierte Kreismarke (rot mit Pfeil)
+3. Die Kreismarkierung erscheint als schlanke, nummerierte Marke. Vor dem Klick zeigt die Vorschau am Mauszeiger bereits die echte Größe.
 
 ## Elemente drehen
 
-Zugstangen, Rechtecke, Ellipsen und Texte lassen sich frei drehen: Element anwählen und den gelben Griff über dem Element ziehen. Alternativ drehen die Schaltflächen in der Optionsleiste um 45° oder 90° nach links bzw. rechts. Kreismarken drehen über den Griff an der Pfeilspitze.
+Zugstangen, Rechtecke, Ellipsen und Texte lassen sich frei drehen: Element anwählen und den gelben Griff über dem Element ziehen. Alternativ drehen die Schaltflächen in der Optionsleiste um 45° oder 90° nach links bzw. rechts. Kreismarken haben keine Ausrichtung mehr.
+
+## Gassengestell
+
+Gassengestelle erscheinen kompakt mit gut lesbarer Beschriftung auf einem deckenden Hintergrund.
 
 ## Maßstab-Werkzeug
+
+Der Maßstab muss direkt nach dem Hochladen eines Grundrisses festgelegt werden: Ein Hinweis erklärt das Vorgehen und bietet **Strecke markieren** oder **Später** an. Beim Markieren folgt dem Mauszeiger eine Linie. Zugstangen und Gassengestelle haben in der Vorschau beim Platzieren dieselbe Größe wie danach.
 
 Mit dem Maßstab-Werkzeug (Lineal-Symbol, Tastaturkürzel **Y**) wird die Längenskala der Zeichnung kalibriert. Dadurch werden Zugstangen mit ihrer echten Länge dargestellt.
 
