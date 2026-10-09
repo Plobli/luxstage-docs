@@ -93,3 +93,17 @@ If a venue template was later extended with sections or lighting towers, these a
 ::: tip Safe operation
 Only **missing** elements are added. Sections, battens, or lighting towers a show already has remain unchanged — nothing is overwritten or deleted.
 :::
+
+## Compare the channel list with the template
+
+Template changes can be applied to the channel list from within the show:
+
+1. In the show, open the import (dialog **"Choose import source"**) and select **"Compare with template"**. The option only appears if the show is assigned to a venue template.
+2. The comparison shows what changes: **Devices changed**, **Addresses changed**, **Quantity changed** and **New channels (only in template)**.
+3. The selection starts empty. Tick the changes you want and click **"Apply"**.
+
+Saving works like any other channel list change, and undo still applies. If the channel list already matches the template, the app says so.
+
+::: warning Empty values overwrite
+If a value is empty in the template, the show's value is cleared when applied.
+:::

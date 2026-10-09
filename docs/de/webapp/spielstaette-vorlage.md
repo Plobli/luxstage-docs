@@ -84,3 +84,17 @@ Wurde eine Spielort-Vorlage nachträglich um Abschnitte oder Gassentürme erweit
 ::: tip Ungefährliche Operation
 Es werden ausschließlich **fehlende** Elemente ergänzt. Bereits vorhandene Abschnitte, Zugstangen oder Gassentürme einer Show bleiben unverändert — nichts wird überschrieben oder gelöscht.
 :::
+
+## Kreisliste mit der Vorlage abgleichen
+
+Änderungen an der Vorlage lassen sich aus der Show heraus in die Kreisliste übernehmen:
+
+1. In der Show den Import öffnen (Dialog **„Import-Quelle wählen"**) und **„Aus Vorlage abgleichen"** wählen. Die Option erscheint nur, wenn die Show einer Spielort-Vorlage zugeordnet ist.
+2. Der Vergleich zeigt, was sich ändert: **Geräte geändert**, **Adressen geändert**, **Anzahl geändert** und **Neue Kreise (nur in Vorlage)**.
+3. Die Auswahl startet leer. Gewünschte Änderungen anhaken und auf **„Übernehmen"** klicken.
+
+Gespeichert wird wie bei jeder Änderung an der Kreisliste, Rückgängig gilt weiter. Entspricht die Kreisliste schon der Vorlage, meldet die App das.
+
+::: warning Leere Werte überschreiben
+Ist ein Wert in der Vorlage leer, wird der Wert in der Show beim Übernehmen geleert.
+:::
