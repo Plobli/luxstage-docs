@@ -54,6 +54,17 @@ Click on the desired option – the app switches language immediately.
 
 ---
 
+**Navigation**
+
+Choose where the navigation sits:
+
+- **Sidebar** – vertical bar on the left
+- **Dock** – fixed bar at the bottom edge; leaves more room for the channel list and more
+
+The choice applies to your account on all devices. The dock is available from tablet width; on smartphones the bottom navigation bar remains. In dock mode the logo appears in the page header.
+
+---
+
 **Unit**
 
 Unit for lengths and heights on bars:

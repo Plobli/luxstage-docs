@@ -14,7 +14,7 @@ LuxStage runs in the browser on Mac, Windows, iPad or any other device.
 
 ## Navigation
 
-The vertical sidebar on the left contains five icons:
+The navigation (sidebar on the left or dock at the bottom, configurable under [Settings](./settings)) contains these areas:
 
 | Area | Description |
 |------|-------------|

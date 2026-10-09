@@ -1,6 +1,6 @@
 # Einstellungen
 
-Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der linken Seitenleiste erreichbar.
+Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der Navigation erreichbar (Seitenleiste oder Dock).
 
 ## Konto
 
@@ -43,6 +43,17 @@ Wähle die Anzeigesprache der App:
 - **English**
 
 Klick auf die gewünschte Option – die App wechselt sofort die Sprache.
+
+---
+
+**Navigation**
+
+Wähle, wo die Navigation sitzt:
+
+- **Seitenleiste** – vertikale Leiste links
+- **Dock** – feste Leiste am unteren Rand; schafft mehr Platz für Kreisliste und Co.
+
+Die Wahl gilt für dein Konto auf allen Geräten. Das Dock gibt es ab Tablet-Breite; auf dem Smartphone bleibt die untere Navigationsleiste. Im Dock-Modus steht das Logo im Kopf der Seite.
 
 ---
 

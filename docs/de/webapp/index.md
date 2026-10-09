@@ -14,7 +14,7 @@ LuxStage läuft im Browser auf Mac, Windows, iPad oder jedem anderen Gerät.
 
 ## Navigation
 
-Die vertikale Seitenleiste links enthält fünf Symbole:
+Die Navigation (Seitenleiste links oder Dock am unteren Rand, einstellbar unter [Einstellungen](./einstellungen)) enthält diese Bereiche:
 
 | Bereich | Beschreibung |
 |---------|--------------|
@@ -23,7 +23,7 @@ Die vertikale Seitenleiste links enthält fünf Symbole:
 | **Vorlagen** | Spielort-Vorlagen verwalten |
 | **Netzwerk** | IT-Infrastruktur der Spielstätte dokumentieren |
 | **Einstellungen** | App-Einstellungen |
-| **Logout** (unten Sidebar) | Abmelden von der App |
+| **Logout** (in der Navigation) | Abmelden von der App |
 
 ## Einstieg
 
