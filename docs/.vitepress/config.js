@@ -120,7 +120,7 @@ export default {
 
         footer: {
           message: 'Open Source · Version ' + (process.env.APP_VERSION || 'dev'),
-          copyright: '<a href="https://luxstage.app/datenschutz.html">Datenschutz</a> · <a href="https://luxstage.app/impressum.html">Impressum</a> · LuxStage © 2026'
+          copyright: '<a href="https://discord.gg/H8ZMSXyJC">Discord</a> · <a href="https://luxstage.app/datenschutz.html">Datenschutz</a> · <a href="https://luxstage.app/impressum.html">Impressum</a> · LuxStage © 2026'
         },
 
         outline: {
@@ -237,7 +237,7 @@ export default {
 
         footer: {
           message: 'Open source · Version ' + (process.env.APP_VERSION || 'dev'),
-          copyright: '<a href="https://luxstage.app/privacy.html">Privacy Policy</a> · <a href="https://luxstage.app/impressum.html">Legal Notice</a> · LuxStage © 2026'
+          copyright: '<a href="https://discord.gg/H8ZMSXyJC">Discord</a> · <a href="https://luxstage.app/privacy.html">Privacy Policy</a> · <a href="https://luxstage.app/impressum.html">Legal Notice</a> · LuxStage © 2026'
         },
 
         outline: {
