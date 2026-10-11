@@ -25,12 +25,13 @@ Neben Notizfeldern steckt ein Mikrofon-Knopf. **Gedrückt halten** = sprechen, *
 
 ## Kreisliste
 
-Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise. In **Alle** legt **+** einen neuen Kreis an. Ein Tipp auf den Verbindungspunkt (OSC) öffnet die Remote im Vollbild.
+Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise. Ein Tipp auf den Verbindungspunkt (OSC) öffnet die Remote im Vollbild.
 
 ## Struktur bearbeiten (Stift)
 
-Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du im Tab **Bereiche** sowie in Gassentürmen und Fly-System auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
+Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du in der **Kreisliste**, im Tab **Bereiche** sowie in Gassentürmen und Fly-System auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
 
+- **Kreisliste:** Kreise anlegen (**Kreis hinzufügen**), per Tipp alle Felder ändern, per Wischen löschen (mit Rückfrage), per Ziehen umsortieren
 - **Bereiche:** Abschnitte anlegen, umbenennen, löschen, sortieren
 - **Gassentürme:** Türme anlegen und löschen
 - **Fly-System:** Elemente anlegen, löschen, sortieren

@@ -25,12 +25,13 @@ Next to note fields there is a microphone button. **Hold** to speak, **release**
 
 ## Channel list
 
-The **With note / All** switch shows only channels with a note, or all channels. In **All**, **+** adds a channel. Tapping the connection dot (OSC) opens the remote in full screen.
+The **With note / All** switch shows only channels with a note, or all channels. Tapping the connection dot (OSC) opens the remote in full screen.
 
 ## Edit structure (pencil)
 
-Adding, deleting and sorting change the structure. Tap the **pencil** in the **Areas** tab, in towers and in the fly system. The show is locked for others until you tap **Done**.
+Adding, deleting and sorting change the structure. Tap the **pencil** in the **Channel list**, in the **Areas** tab, in towers and in the fly system. The show is locked for others until you tap **Done**.
 
+- **Channel list:** add channels (**Add channel**), tap to change any field, swipe to delete (with confirmation), drag to reorder
 - **Areas:** add, rename, delete and sort sections
 - **Towers:** add and delete towers
 - **Fly system:** add, delete and sort elements
