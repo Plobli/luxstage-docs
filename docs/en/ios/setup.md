@@ -21,3 +21,7 @@ Under **Special notes**, free-text notes about the show appear, e.g. special pro
 ::: tip
 The setup checklist and special notes are maintained in the web app in the **Info** tab and are then available in the iOS app.
 :::
+
+## Editing
+
+Long-press a note to edit, dictate or delete it. Long-press a section title to add a note, rename or delete the section. **Add section** creates a new one. See [Editing in the apps](./editing).

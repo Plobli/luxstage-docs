@@ -1,6 +1,6 @@
-# Einleuchten (iOS)
+# Kreisliste (iOS)
 
-Der **Einleuchten**-Tab ist die zentrale Fokussier-Ansicht der Show. Er zeigt alle Kreise der Produktion in einer Liste, gruppiert nach **Bühnenpositionen** (z. B. „FOH SL Slot").
+Der **Kreisliste**-Tab (früher „Einleuchten") ist die zentrale Fokussier-Ansicht der Show. Er zeigt die Kreise der Produktion, gruppiert nach **Bühnenpositionen** (z. B. „FOH SL Slot"). Der Umschalter **Mit Notiz / Alle** wählt, ob nur Kreise mit Notiz oder alle erscheinen. Kreise bearbeitest du per Lang-Drücken, siehe [Bearbeiten](./bearbeiten).
 
 ## Kreisanzeige
 
@@ -21,7 +21,7 @@ Oben rechts zeigt der Status, wie viele Kreise bereits fokussiert wurden, z. B. 
 
 ## Suche
 
-Das Suchfeld oben filtert die Kreisliste in Echtzeit nach Name, Gerät oder Notiz.
+Der Tab **Suche** durchsucht Kreise, Notizen und Pläne der Show.
 
 ## Workflow: Scheinwerfer einleuchten
 

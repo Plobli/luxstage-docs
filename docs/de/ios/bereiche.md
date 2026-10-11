@@ -1,18 +1,18 @@
 # Bereiche (iOS)
 
-Im **Aufbau**-Tab öffnet der Button **Bereiche** oben rechts (Icon mit vier Kacheln) ein Menü mit allen weiteren Bereichen der Show: **Gassentürme**, **Obermaschinerie**, **Fotos**, **Zeichnung** sowie **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage.
+Der Tab **Bereiche** listet die **Abschnitte** der Show (z. B. **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage) und die **Pläne**: **Gassentürme**, **Fly-System** und **Zeichnung**. Mit dem **Stift** legst du Abschnitte an, benennst sie um, löschst und sortierst sie; die Show ist dann bis **Fertig** für andere gesperrt. Siehe [Bearbeiten](./bearbeiten). **Fotos** haben einen eigenen Tab.
 
 ## Gassentürme
 
-Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Gassentürme verwendet.
+Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Gassentürme verwendet. Lang drücken auf einen Slot ordnet einen Kreis zu und ergänzt eine Notiz, auf den Turmkopf ändert Bezeichnung und Slot-Anzahl. Anlegen und Löschen geht im Stift-Modus.
 
-## Obermaschinerie
+## Fly-System
 
-Zeigt alle Zugstangen/Traversen der Show mit den daran hängenden Scheinwerfern und ihren Positionen. Nur sichtbar, wenn die Show Obermaschinerie verwendet.
+Zeigt alle Zugstangen, Traversen und Punktzüge der Show mit den daran hängenden Scheinwerfern und ihren Positionen. Nur sichtbar, wenn die Show ein Fly-System verwendet. Lang drücken auf ein Element bearbeitet Typ, Name, Zugnummer, Länge, Höhe, Bemaßung, Notiz und die Scheinwerfer (Position als Zahl in cm). Anlegen, Löschen und Sortieren geht im Stift-Modus.
 
 ## Fotos
 
-Die Fotos-Ansicht zeigt alle zur Show hochgeladenen Bilder. Fotos werden in der Web-App verwaltet und mit Kreisnummern verknüpft — in der iOS-App stehen sie dann zum Abrufen bereit.
+Der Tab **Fotos** zeigt alle zur Show hochgeladenen Bilder. Lang drücken auf ein Foto bearbeitet Beschriftung (auch per Diktat) und Kreisnummer oder löscht das Foto. Im Stift-Modus sortierst du die Fotos per Drag.
 
 ### Kreis-Filter
 
@@ -31,10 +31,10 @@ Ein Tippen auf ein Foto öffnet die Vollbildansicht. Am unteren Rand werden die 
 
 ### Fotos hinzufügen
 
-Über den **+**-Button oben rechts lassen sich ein oder mehrere Fotos direkt aus der **Fotomediathek** auswählen und hochladen. Das **Kamera**-Symbol daneben nimmt ein neues Foto auf.
+Über den **+**-Button oben rechts im Tab **Fotos** lassen sich ein oder mehrere Fotos direkt aus der **Fotomediathek** auswählen und hochladen. Das **Kamera**-Symbol daneben nimmt ein neues Foto auf.
 
 ::: tip Fokussier-Referenz
-Während des Einleuchtens sind über **Bereiche → Fotos** die dem aktuellen Kreis zugeordneten Referenzfotos schnell abrufbar — ideal zum Vergleichen der Fokusposition ohne zwischen Apps wechseln zu müssen.
+Während des Einleuchtens sind im Tab **Fotos** die dem aktuellen Kreis zugeordneten Referenzfotos schnell abrufbar — ideal zum Vergleichen der Fokusposition ohne zwischen Apps wechseln zu müssen.
 :::
 
 ## Zeichnung
@@ -43,4 +43,4 @@ Die Zeichnung zeigt den hinterlegten Bühnenplan der Show. Sie wird in der Web-A
 
 ## Raum, Hinweise & weitere Bereiche
 
-Zusätzliche Bereiche, die in der Spielstätten-Vorlage angelegt wurden (z. B. **Raum** oder **Hinweise**), erscheinen ebenfalls im Bereiche-Menü. Ihr Inhalt wird in der Web-App gepflegt und in der iOS-App schreibgeschützt angezeigt.
+Zusätzliche Bereiche, die in der Spielstätten-Vorlage angelegt wurden (z. B. **Raum** oder **Hinweise**), erscheinen ebenfalls im Bereiche-Menü. Die Notizen bearbeitest du wie im Aufbau-Tab per Lang-Drücken.

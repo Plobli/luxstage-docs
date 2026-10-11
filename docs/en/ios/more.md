@@ -32,3 +32,7 @@ During focusing, the reference photos assigned to the current channel are quickl
 ## Drawing
 
 The drawing shows the stored stage plan for the show. It is uploaded in the web app and is available read-only in the iOS app.
+
+## Editing
+
+Photos have their own tab. Long-press a photo to edit its caption (also by dictation) and channel number, or to delete it. In pencil mode you can sort photos by dragging. See [Editing in the apps](./editing).

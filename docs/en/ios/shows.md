@@ -19,3 +19,7 @@ Tapping a tile opens the show directly in the **Setup** tab.
 ::: tip
 If a venue is selected, the new show automatically inherits the channel structure and drawing of the chosen venue.
 :::
+
+## Editing
+
+**+** starts a wizard to create a show. Long-press a tile to edit the show details or archive the show. See [Editing in the apps](./editing).

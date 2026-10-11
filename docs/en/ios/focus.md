@@ -42,3 +42,7 @@ The search field at the top filters the channel list in real time by name, fixtu
 ::: tip Photos during focusing
 **Photos** assigned to the channel are directly accessible in the list — ideal for comparing the focus position.
 :::
+
+## Editing
+
+The tab is now called **Channel list**. The **With note / All** switch shows only channels with a note, or all channels. Long-press a channel to edit it. See [Editing in the apps](./editing).

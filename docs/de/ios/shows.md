@@ -13,8 +13,12 @@ Ein Tippen auf eine Kachel öffnet die Show direkt im **Aufbau**-Tab.
 ## Neue Show anlegen
 
 1. **+**-Button oben rechts antippen
-2. Im Dialog Showname, Datum und (optional) Spielort eingeben
-3. Bestätigen — die Show erscheint sofort in der Liste
+2. Der Assistent führt durch Vorlage, Name und Datum, aktive Bereiche, Fly-System und Gassentürme
+3. In der Zusammenfassung **Show erstellen** — die Show erscheint sofort in der Liste
+
+## Show bearbeiten
+
+Kachel **lang drücken** → Show-Daten (Name, Datum, Spielzeit, Spielstätte, aktive Bereiche) ändern oder die Show archivieren. Archivierte Shows lassen sich in der Web-App wiederherstellen. Siehe auch [Bearbeiten](./bearbeiten).
 
 ::: tip
 Wird ein Spielort ausgewählt, übernimmt die neue Show automatisch die Kreisstruktur und die Zeichnung des gewählten Spielorts.
