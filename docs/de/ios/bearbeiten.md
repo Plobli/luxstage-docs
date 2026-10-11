@@ -29,10 +29,9 @@ Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise.
 
 ## Struktur bearbeiten (Stift)
 
-Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du in den Tabs **Bereiche** und **Fotos** sowie in Gassentürmen und Fly-System auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
+Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du im Tab **Bereiche** sowie in Gassentürmen und Fly-System auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
 
 - **Bereiche:** Abschnitte anlegen, umbenennen, löschen, sortieren
-- **Fotos:** Reihenfolge ändern
 - **Gassentürme:** Türme anlegen und löschen
 - **Fly-System:** Elemente anlegen, löschen, sortieren
 

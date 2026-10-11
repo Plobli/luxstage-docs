@@ -35,4 +35,4 @@ The drawing shows the stored stage plan for the show. It is uploaded in the web 
 
 ## Editing
 
-Photos have their own tab. Long-press a photo to edit its caption (also by dictation) and channel number, or to delete it. In pencil mode you can sort photos by dragging. See [Editing in the apps](./editing).
+Photos have their own tab. Long-press a photo to edit its caption (also by dictation) and channel number, or to delete it. See [Editing in the apps](./editing).

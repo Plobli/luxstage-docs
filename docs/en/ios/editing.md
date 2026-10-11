@@ -29,10 +29,9 @@ The **With note / All** switch shows only channels with a note, or all channels.
 
 ## Edit structure (pencil)
 
-Adding, deleting and sorting change the structure. Tap the **pencil** in the **Areas** and **Photos** tabs, in towers and in the fly system. The show is locked for others until you tap **Done**.
+Adding, deleting and sorting change the structure. Tap the **pencil** in the **Areas** tab, in towers and in the fly system. The show is locked for others until you tap **Done**.
 
 - **Areas:** add, rename, delete and sort sections
-- **Photos:** change the order
 - **Towers:** add and delete towers
 - **Fly system:** add, delete and sort elements
 

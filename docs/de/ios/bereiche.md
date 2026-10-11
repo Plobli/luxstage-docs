@@ -12,7 +12,7 @@ Zeigt alle Zugstangen, Traversen und Punktzüge der Show mit den daran hängende
 
 ## Fotos
 
-Der Tab **Fotos** zeigt alle zur Show hochgeladenen Bilder. Lang drücken auf ein Foto bearbeitet Beschriftung (auch per Diktat) und Kreisnummer oder löscht das Foto. Im Stift-Modus sortierst du die Fotos per Drag.
+Der Tab **Fotos** zeigt alle zur Show hochgeladenen Bilder. Lang drücken auf ein Foto bearbeitet Beschriftung (auch per Diktat) und Kreisnummer oder löscht das Foto.
 
 ### Kreis-Filter
 
