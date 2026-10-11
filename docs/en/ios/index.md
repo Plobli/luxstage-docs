@@ -12,6 +12,7 @@ The app is organised in two levels:
 |-----|----------|
 | **Shows** | List of all shows, grouped by venue |
 | **OSC** | Direct EOS control without an active show |
+| **Cues** | Cue list live from the console |
 | **Settings** | Server URL, language, OSC venues |
 
 **Show tabs** (visible within an open show):
@@ -29,5 +30,6 @@ The app is organised in two levels:
 - [Setup](./setup) — setup checklist
 - [Focus](./focus) — focus fixtures
 - [OSC](./osc) — remote control EOS console
+- [Cues](./cues) — cue list live from the console
 - [Photos & Drawing](./more) — visual documentation
 - [Settings](./settings) — configure server and OSC venues
