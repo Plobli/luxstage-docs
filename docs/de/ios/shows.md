@@ -13,7 +13,7 @@ Ein Tippen auf eine Kachel öffnet die Show direkt im **Aufbau**-Tab.
 ## Neue Show anlegen
 
 1. **+**-Button oben rechts antippen
-2. Der Assistent führt durch Vorlage, Name und Datum, aktive Bereiche, Fly-System und Gassentürme
+2. Der Assistent führt durch Vorlage, Name und Datum, aktive Bereiche, Obermaschinerie und Gassentürme
 3. In der Zusammenfassung **Show erstellen** — die Show erscheint sofort in der Liste
 
 ## Show bearbeiten

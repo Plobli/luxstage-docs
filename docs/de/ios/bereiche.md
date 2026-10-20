@@ -1,14 +1,14 @@
 # Bereiche (iOS)
 
-Der Tab **Bereiche** listet die **Abschnitte** der Show (z. B. **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage) und die **Pläne**: **Gassentürme**, **Fly-System** und **Zeichnung**. Mit dem **Stift** legst du Abschnitte an, benennst sie um, löschst und sortierst sie; die Show ist dann bis **Fertig** für andere gesperrt. Siehe [Bearbeiten](./bearbeiten). **Fotos** haben einen eigenen Tab.
+Der Tab **Bereiche** listet die **Abschnitte** der Show (z. B. **Raum**, **Hinweise** und alle benutzerdefinierten Bereiche der Show-Vorlage) und die **Pläne**: **Gassentürme**, **Obermaschinerie** und **Zeichnung**. Mit dem **Stift** legst du Abschnitte an, benennst sie um, löschst und sortierst sie; die Show ist dann bis **Fertig** für andere gesperrt. Siehe [Bearbeiten](./bearbeiten). **Fotos** haben einen eigenen Tab.
 
 ## Gassentürme
 
 Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Gassentürme verwendet. Lang drücken auf einen Slot ordnet einen Kreis zu und ergänzt eine Notiz, auf den Turmkopf ändert Bezeichnung und Slot-Anzahl. Anlegen und Löschen geht im Stift-Modus.
 
-## Fly-System
+## Obermaschinerie
 
-Zeigt alle Zugstangen, Traversen und Punktzüge der Show mit den daran hängenden Scheinwerfern und ihren Positionen. Nur sichtbar, wenn die Show ein Fly-System verwendet. Lang drücken auf ein Element bearbeitet Typ, Name, Zugnummer, Länge, Höhe, Bemaßung, Notiz und die Scheinwerfer (Position als Zahl in cm). Anlegen, Löschen und Sortieren geht im Stift-Modus.
+Zeigt alle Zugstangen, Traversen und Punktzüge der Show mit den daran hängenden Scheinwerfern und ihren Positionen. Nur sichtbar, wenn die Show eine Obermaschinerie verwendet. Lang drücken auf ein Element bearbeitet Typ, Name, Zugnummer, Länge, Höhe, Bemaßung, Notiz und die Scheinwerfer (Position als Zahl in cm). Anlegen, Löschen und Sortieren geht im Stift-Modus.
 
 ## Fotos
 

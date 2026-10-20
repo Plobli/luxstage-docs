@@ -4,7 +4,7 @@ Der **Aufbau**-Tab ist die Startansicht einer geöffneten Show und zeigt direkt 
 
 ## Bereiche
 
-Gassentürme, Fly-System, Zeichnung sowie Raum, Hinweise und benutzerdefinierte Bereiche findest du im Tab **Bereiche**. Details dazu: [Bereiche](./bereiche).
+Gassentürme, Obermaschinerie, Zeichnung sowie Raum, Hinweise und benutzerdefinierte Bereiche findest du im Tab **Bereiche**. Details dazu: [Bereiche](./bereiche).
 
 ## Aufbaunotizen
 

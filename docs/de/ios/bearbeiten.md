@@ -16,7 +16,7 @@ Ein Tipp macht, was er bisher tat (z. B. abhaken). **Lang drücken** öffnet ein
 | Aufbau | Notizen und Abschnittstitel |
 | Fotos | Beschriftung, Kreisnummer, Löschen |
 | Gassentürme | Turmname, Slot-Anzahl, Slot-Kreis und -Notiz |
-| Fly-System | Zug-Daten und Scheinwerfer am Zug |
+| Obermaschinerie | Zug-Daten und Scheinwerfer am Zug |
 | Shows-Liste | Show-Daten (Name, Datum, Spielzeit, Spielstätte, Bereiche), Archivieren |
 
 ## Diktieren
@@ -29,16 +29,16 @@ Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise.
 
 ## Struktur bearbeiten (Stift)
 
-Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du in der **Kreisliste**, im Tab **Bereiche** sowie in Gassentürmen und Fly-System auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
+Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du in der **Kreisliste**, im Tab **Bereiche** sowie in Gassentürmen und Obermaschinerie auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.
 
 - **Kreisliste:** Kreise anlegen (**Kreis hinzufügen**), per Tipp alle Felder ändern, per Wischen löschen (mit Rückfrage), per Ziehen umsortieren
 - **Bereiche:** Abschnitte anlegen, umbenennen, löschen, sortieren
 - **Gassentürme:** Türme anlegen und löschen
-- **Fly-System:** Elemente anlegen, löschen, sortieren
+- **Obermaschinerie:** Elemente anlegen, löschen, sortieren
 
 ## Show anlegen
 
-**+** in der Shows-Liste startet einen Assistenten: Vorlage, Name und Datum, aktive Bereiche, Fly-System, Gassentürme, Zusammenfassung.
+**+** in der Shows-Liste startet einen Assistenten: Vorlage, Name und Datum, aktive Bereiche, Obermaschinerie, Gassentürme, Zusammenfassung.
 
 ## Nicht in den Apps
 
