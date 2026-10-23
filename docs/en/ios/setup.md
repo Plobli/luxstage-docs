@@ -14,6 +14,10 @@ Under **Setup**, all setup steps for the show are listed (e.g. "2x PAR 64 CP61 o
 
 <img src="/img/ios/aufbau-setup-abgehakt.png" alt="Setup checklist checked" class="ios-screenshot">
 
+### Generated notes
+
+Above your own notes, the **generated notes** list devices automatically built from the fly system, lighting towers and [locations](../webapp/setup-standorte) (channel, device, address, color, place). With several groups, switch between them via tabs. Tap a row to mark it as done.
+
 ## Special notes
 
 Under **Special notes**, free-text notes about the show appear, e.g. special procedures or notes for the team (e.g. "Main curtain is used as scenery").
