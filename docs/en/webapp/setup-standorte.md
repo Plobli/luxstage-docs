@@ -26,4 +26,4 @@ A channel belongs to at most one location.
 
 ## Setup notes
 
-Locations appear in the generated setup notes as their own section. In the apps they are a third tab next to fly system and towers; each row can be checked off. Locations are edited in the web app.
+Locations appear in the generated setup notes as their own section. In the apps they are a third tab next to fly system and towers; each row can be checked off. In the apps, locations can also be edited under **Areas**: long-press to change name, type, place, note and channels; the pencil mode creates or deletes locations.

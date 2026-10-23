@@ -6,6 +6,10 @@ Der Tab **Bereiche** listet die **Abschnitte** der Show (z. B. **Raum**, **Hinwe
 
 Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten Scheinwerfern. Nur sichtbar, wenn die Show Gassentürme verwendet. Lang drücken auf einen Slot ordnet einen Kreis zu und ergänzt eine Notiz, auf den Turmkopf ändert Bezeichnung und Slot-Anzahl. Anlegen und Löschen geht im Stift-Modus.
 
+## Standorte
+
+Zeigt alle [Standorte](../webapp/setup-standorte) der Show mit ihren Kreisen (Kreis, Gerät, Adresse, Farbe). Lang drücken auf einen Standort ändert Name, Art, Ort, Hinweis und die Kreise. Anlegen und Löschen geht im Stift-Modus.
+
 ## Obermaschinerie
 
 Zeigt alle Zugstangen, Traversen und Punktzüge der Show mit den daran hängenden Scheinwerfern und ihren Positionen. Nur sichtbar, wenn die Show eine Obermaschinerie verwendet. Lang drücken auf ein Element bearbeitet Typ, Name, Zugnummer, Länge, Höhe, Bemaßung, Notiz und die Scheinwerfer (Position als Zahl in cm). Anlegen, Löschen und Sortieren geht im Stift-Modus.

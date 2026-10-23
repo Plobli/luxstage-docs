@@ -17,6 +17,7 @@ Im Feld **Server** wird die URL des LuxStage-Servers eingetragen, z. B. `http://
 Die Liste der Bühnen liegt **lokal auf dem Gerät**. Server-Vorschläge (nur mit Login) lassen sich per Tipp übernehmen, eigene Bühnen mit Name und IP ergänzen. Ein Tipp auf eine Bühne macht sie zur aktiven Verbindung für alle Bereiche der App.
 
 - **Eos User** — Stepper (−1 bis 99). Der Wert gilt geräteweit, wird sofort gespeichert und bleibt auch nach App-Neustart und Updates erhalten. Wechselst du ihn, verbindet sich die App automatisch neu.
+- **At-Schnelltaste** — Stepper (5 bis 100 %, in 5er-Schritten, Standard 80 %). Legt fest, auf welche Stufe die Schnelltaste im Remote-Tab die gewählten Kreise setzt. Der Wert gilt für dieses Gerät; bist du angemeldet, wird er zusätzlich an deinem LuxStage-Konto gespeichert und auf deinen anderen Geräten übernommen.
 
 ::: warning ETC-RFR-App parallel
 Nutzt du zusätzlich die ETC-RFR-App, wähle dort einen **anderen Eos-User** als in LuxStage, sonst stören sich beide Apps gegenseitig.

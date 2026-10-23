@@ -17,6 +17,7 @@ Use the **Language** menu to select the display language of the app (e.g. Englis
 The list of venues is stored **locally on the device**. Server suggestions (login required) can be added with a tap, and you can add your own venues with a name and IP. Tapping a venue makes it the active connection for the whole app.
 
 - **Eos User** — stepper (−1 to 99). The value applies device-wide, is saved immediately and survives app restarts and updates. Changing it reconnects the app automatically.
+- **Quick At key** — stepper (5 to 100 %, in steps of 5, default 80 %). Sets the level the quick key in the Remote tab applies to the selected channels. The value applies to this device; when you are signed in, it is also saved to your LuxStage account and picked up on your other devices.
 
 ::: warning Using the ETC RFR app too
 If you also use the ETC RFR app, pick a **different Eos user** there than in LuxStage, otherwise the two apps interfere with each other.

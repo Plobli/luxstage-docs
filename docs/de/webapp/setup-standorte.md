@@ -26,4 +26,4 @@ Ein Kreis gehört höchstens zu einem Standort.
 
 ## Aufbaunotizen
 
-Standorte erscheinen in den generierten Aufbaunotizen als eigener Abschnitt. In den Apps stehen sie als dritter Tab neben Obermaschinerie und Gassentürmen; jede Zeile lässt sich als erledigt abhaken. Das Bearbeiten der Standorte erfolgt in der Web-App.
+Standorte erscheinen in den generierten Aufbaunotizen als eigener Abschnitt. In den Apps stehen sie als dritter Tab neben Obermaschinerie und Gassentürmen; jede Zeile lässt sich als erledigt abhaken. In den Apps lassen sich Standorte unter **Bereiche** auch bearbeiten: lang drücken ändert Name, Art, Ort, Hinweis und Kreise, der Stift-Modus legt neue Standorte an oder löscht sie.
