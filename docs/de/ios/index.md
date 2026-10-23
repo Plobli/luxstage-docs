@@ -13,7 +13,7 @@ Die App ist in zwei Ebenen gegliedert:
 | **Shows** | Liste aller Shows, nach Spielort gruppiert |
 | **OSC** | Direkte EOS-Steuerung ohne aktive Show |
 | **Cues** | Cue-Liste live vom Pult |
-| **Einstellungen** | Server-URL, Sprache, OSC-Venues |
+| **Einstellungen** | Team, Sprache, Remote-Verbindung, Diagnose |
 
 **Show-Tabs** (sichtbar innerhalb einer geöffneten Show):
 
@@ -32,4 +32,4 @@ Die App ist in zwei Ebenen gegliedert:
 - [Einleuchten](./einleuchten) — Scheinwerfer fokussieren
 - [OSC](./osc) — EOS-Konsole fernsteuern
 - [Cues](./cues) — Cue-Liste live vom Pult
-- [Einstellungen](./einstellungen) — Server und OSC-Venues konfigurieren
+- [Einstellungen](./einstellungen) — Team, Remote-Verbindung und Diagnose
