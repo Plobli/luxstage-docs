@@ -12,7 +12,17 @@ Direkt im Tab stehen die Aufbaunotizen der Show — Freitext-Hinweise zum Aufbau
 
 ### Generierte Notizen
 
-Oberhalb der eigenen Notizen erscheint dezent der Abschnitt **Generierte Notizen**: automatisch aus den Gassentürmen, der Obermaschinerie und den [Standorten](../webapp/setup-standorte) erzeugte Zeilen, die auflisten, welcher Scheinwerfer an welcher Position hängt (Kanal, Gerät, Farbe, Position). Gibt es mehrere Gruppen, wechselst du per Tab zwischen Obermaschinerie, Gassentürmen und Standorten. Jede Zeile lässt sich per Antippen als erledigt markieren.
+Oberhalb der eigenen Notizen erscheint der Abschnitt **Generierte Notizen**: automatisch aus den Gassentürmen, der Obermaschinerie und den [Standorten](../webapp/setup-standorte) erzeugte Zeilen, die auflisten, welcher Scheinwerfer an welcher Position hängt (Kanal, Gerät, Farbe, Position).
+
+- **Fortschritt:** Die Leiste oben zeigt für Obermaschinerie, Gassentürme und Standorte, wie viel schon abgehakt ist. Fertige Gruppen klappen nach unten weg.
+- **Abhaken:** Nur über die Checkbox. Ein Tipp auf die Zeile öffnet die Bearbeitung (Position, Notiz, Kreiszuordnung).
+- **Zeilen:** Zeigen Fotos und die Zahl der Geräte pro Kreis.
+- **Zurück:** Der Pfeil oben links führt zur Show-Liste.
+- **Zurücksetzen:** Im Menü ••• setzt du alle Häkchen zurück.
+
+### Züge, Türme und Standorte anlegen
+
+Über den **Stift** legst du Züge, Türme und Standorte direkt im Aufbau-Tab an, änderst oder löschst sie. Der Tab **Bereiche** zeigt sie nicht mehr doppelt. Über den Grafik-Umschalter blendest du die Zeichnung ein.
 
 ### Notizen bearbeiten
 
