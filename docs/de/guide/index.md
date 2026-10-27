@@ -22,6 +22,10 @@ Die App für iPhone und iPad zum Aufrufen der Dokumentation und Steuerung von Sc
 - OSC-Steuerung von ETC Lichtpulten
 - Einleuchtmodus mit Notizen zu jeder Bühnenposition und 1-Klick-Steuerung der Scheinwerfer
 
+### LuxStage Desktop
+
+Die Desktop-App für Mac und Windows öffnet dein Team in einem eigenen Fenster. Für Windows kommt sie bald im Microsoft Store: Installation ohne Warnhinweise, automatische Updates, einfache Freigabe durch die IT.
+
 ## Schnellstart in 10 Minuten
 
 Nach dem [Login](/de/webapp/login) — diese Reihenfolge führt am schnellsten zur ersten Show:
