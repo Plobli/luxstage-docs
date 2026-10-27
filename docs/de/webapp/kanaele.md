@@ -65,6 +65,15 @@ Die Kreise sind nach **Bühnenpositionen** gruppiert (z. B. „FOH BAR LEFT", �
 Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Universum/Adresse" gebracht, z. B. wird aus „129" automatisch „1/129" und aus „1/1" wird „1/001". Reine Zahlen über 512 werden dabei als durchlaufende Adresse über mehrere Universen interpretiert (z. B. „515" → „2/003").
 :::
 
+## Persönliche Anmerkung
+
+Zu jeder Kreisnotiz kannst du eine eigene Anmerkung schreiben. Nur du siehst sie. Die Notiz fürs Team bleibt unverändert. Die Anmerkung steht darunter in Violett und Kursiv.
+
+- **Anlegen:** In der Zeile auf **Persönliche Anmerkung hinzufügen** klicken, Text eingeben.
+- **Löschen:** Text entfernen, Feld verlassen.
+- Nicht sichtbar für andere, im Versionsverlauf, in PDF-/CSV-Export und in Vorlagen.
+- Kein Live-Sync, keine Show-Sperre.
+
 ## Kreis-Status umschalten
 
 Die **Kreisnummer** erscheint in drei Farben:

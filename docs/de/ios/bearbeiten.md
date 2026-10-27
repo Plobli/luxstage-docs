@@ -27,6 +27,8 @@ Neben Notizfeldern steckt ein Mikrofon-Knopf. **Gedrückt halten** = sprechen, *
 
 Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise. Ein Tipp auf den Verbindungspunkt (OSC) öffnet die Remote im Vollbild.
 
+Unter der Kreisnotiz steht deine **persönliche Anmerkung** in Violett und Kursiv. Nur du siehst sie. Anlegen oder ändern: Kreis lange drücken, dann **Persönliche Anmerkung hinzufügen**. Nur bei bestehenden Kreisen.
+
 ## Struktur bearbeiten (Stift)
 
 Anlegen, Löschen und Sortieren ändert die Struktur. Dafür tippst du in der **Kreisliste**, im Tab **Bereiche** sowie in Gassentürmen und Obermaschinerie auf den **Stift**. Die Show ist dann für andere gesperrt, bis du **Fertig** tippst.

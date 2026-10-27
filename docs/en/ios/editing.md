@@ -27,6 +27,8 @@ Next to note fields there is a microphone button. **Hold** to speak, **release**
 
 The **With note / All** switch shows only channels with a note, or all channels. Tapping the connection dot (OSC) opens the remote in full screen.
 
+Below the channel note your **personal annotation** appears in purple italics. Only you can see it. To add or change it, long-press a channel, then tap **Add personal annotation**. Existing channels only.
+
 ## Edit structure (pencil)
 
 Adding, deleting and sorting change the structure. Tap the **pencil** in the **Channel list**, in the **Areas** tab, in towers and in the fly system. The show is locked for others until you tap **Done**.

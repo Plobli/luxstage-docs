@@ -65,6 +65,15 @@ Channels are grouped by **positions** (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 
 When you leave the address field, the input is automatically formatted as "universe/address" — e.g. "129" becomes "1/129" and "1/1" becomes "1/001". Plain numbers above 512 are treated as a continuous address spanning multiple universes (e.g. "515" → "2/003").
 :::
 
+## Personal annotation
+
+You can add your own annotation to any channel note. Only you can see it. The team note stays unchanged. Your annotation appears below it in purple italics.
+
+- **Add:** In the row, click **Add personal annotation** and enter text.
+- **Delete:** Remove the text and leave the field.
+- Not visible to others, in version history, in PDF/CSV export or in templates.
+- No live sync, no show lock.
+
 ## Toggle channel status
 
 The **channel number** appears in three colours:
