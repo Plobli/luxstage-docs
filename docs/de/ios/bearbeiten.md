@@ -12,7 +12,7 @@ Ein Tipp macht, was er bisher tat (z. B. abhaken). **Lang drücken** öffnet ein
 
 | Wo | Was du bearbeitest |
 |----|--------------------|
-| Kreisliste | Kreis: Nummer, Adresse, Gerät, Position, Farbe, Notiz, Prio. Löschen mit Rückfrage |
+| Kreisliste | Kreis: Nummer, Adresse, Gerät, Anzahl Geräte, Position, Farbe, Notiz, Prio. Löschen mit Rückfrage |
 | Aufbau | Notizen und Abschnittstitel |
 | Fotos | Beschriftung, Kreisnummer, Löschen |
 | Gassentürme | Turmname, Slot-Anzahl, Slot-Kreis und -Notiz |

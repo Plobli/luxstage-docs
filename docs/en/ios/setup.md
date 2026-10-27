@@ -16,7 +16,7 @@ Under **Setup**, all setup steps for the show are listed (e.g. "2x PAR 64 CP61 o
 
 ### Generated notes
 
-Above your own notes, the **generated notes** list devices automatically built from the fly system, lighting towers and [locations](../webapp/setup-standorte) (channel, device, address, color, place). With several groups, switch between them via tabs. Tap a row to mark it as done.
+Above your own notes, the **generated notes** list devices automatically built from the fly system, lighting towers and [locations](../webapp/setup-standorte) (channel, device, address, color, place). With several groups, switch between them via tabs. Tap a row to mark it as done. Long-press a row to open the channel editor (color, device count, placement), same as in the channel list.
 
 ## Special notes
 

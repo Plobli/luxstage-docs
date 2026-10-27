@@ -16,7 +16,7 @@ Oberhalb der eigenen Notizen erscheint der Abschnitt **Generierte Notizen**: aut
 
 - **Fortschritt:** Die Leiste oben zeigt für Obermaschinerie, Gassentürme und Standorte, wie viel schon abgehakt ist. Fertige Gruppen klappen nach unten weg.
 - **Abhaken:** Nur über die Checkbox. Ein Tipp auf die Zeile öffnet die Bearbeitung (Position, Notiz, Kreiszuordnung).
-- **Zeilen:** Zeigen Fotos und die Zahl der Geräte pro Kreis.
+- **Zeilen:** Zeigen Fotos und die Zahl der Geräte pro Kreis (bei mehreren Platzierungen eines Kreises entfällt die Zahl). **Lang drücken** öffnet den Kreis-Editor mit Farbe, Anzahl Geräte und Platzierung, wie in der Kreisliste.
 - **Zurück:** Der Pfeil oben links führt zur Show-Liste.
 - **Zurücksetzen:** Im Menü ••• setzt du alle Häkchen zurück.
 

@@ -12,7 +12,7 @@ A tap does what it always did (for example checking something off). A **long pre
 
 | Where | What you edit |
 |-------|---------------|
-| Channel list | Channel: number, address, device, position, color, note, priority. Delete with confirmation |
+| Channel list | Channel: number, address, device, device count, position, color, note, priority. Delete with confirmation |
 | Setup | Notes and section titles |
 | Photos | Caption, channel number, delete |
 | Towers | Tower name, slot count, slot channel and note |
