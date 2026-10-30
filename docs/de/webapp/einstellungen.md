@@ -51,7 +51,7 @@ Klick auf die gewünschte Option – die App wechselt sofort die Sprache.
 Wähle, wo die Navigation sitzt:
 
 - **Seitenleiste** – vertikale Leiste links
-- **Dock** – feste Leiste am unteren Rand; schafft mehr Platz für Kreisliste und Co.
+- **Dock** (Standard) – feste Leiste am unteren Rand; schafft mehr Platz für Kreisliste und Co.
 
 Die Wahl gilt für dein Konto auf allen Geräten. Das Dock gibt es ab Tablet-Breite; auf dem Smartphone bleibt die untere Navigationsleiste. Im Dock-Modus steht das Logo im Kopf der Seite.
 
