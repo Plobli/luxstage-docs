@@ -95,6 +95,7 @@ export default {
             {
               text: 'Referenz',
               items: [
+                { text: 'Desktop-App', link: '/de/webapp/desktop-app' },
                 { text: 'Tastaturkürzel', link: '/de/webapp/tastaturkuerzel' },
                 { text: 'Was tun bei Problemen?', link: '/de/webapp/troubleshooting' },
               ]
@@ -215,6 +216,7 @@ export default {
             {
               text: 'Reference',
               items: [
+                { text: 'Desktop App', link: '/en/webapp/desktop-app' },
                 { text: 'Keyboard Shortcuts', link: '/en/webapp/keyboard-shortcuts' },
                 { text: 'Troubleshooting', link: '/en/webapp/troubleshooting' },
               ]

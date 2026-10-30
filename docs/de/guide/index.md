@@ -24,7 +24,7 @@ Die App für iPhone und iPad zum Aufrufen der Dokumentation und Steuerung von Sc
 
 ### LuxStage Desktop
 
-Die Desktop-App für Mac und Windows öffnet dein Team in einem eigenen Fenster. Für Windows gibt es sie im [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=de-DE): Installation ohne Warnhinweise, automatische Updates, einfache Freigabe durch die IT.
+Die Desktop-App für Mac und Windows öffnet dein Team in einem eigenen Fenster. Für Windows gibt es sie im [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=de-DE): Installation ohne Warnhinweise, automatische Updates, einfache Freigabe durch die IT. Mehr dazu unter [Desktop-App](/de/webapp/desktop-app).
 
 ## Schnellstart in 10 Minuten
 

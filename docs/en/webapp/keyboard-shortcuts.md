@@ -8,6 +8,9 @@ Overview of all web app keyboard shortcuts in one place.
 |--------|----------|
 | Undo | ⌘Z (Mac) / Ctrl+Z (Win) |
 | Redo | ⌘⇧Z (Mac) / Ctrl+Y (Win) |
+| Find (desktop app) | ⌘F (Mac) / Ctrl+F (Win) |
+
+More desktop app shortcuts (import, export, history) are listed on the [Desktop App](/en/webapp/desktop-app) page.
 
 ## Drawing editor
 

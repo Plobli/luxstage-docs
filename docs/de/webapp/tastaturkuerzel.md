@@ -8,6 +8,9 @@
 |--------|--------|
 | Rückgängig | ⌘Z (Mac) / Ctrl+Z (Win) |
 | Wiederholen | ⌘⇧Z (Mac) / Ctrl+Y (Win) |
+| Suchen (Desktop-App) | ⌘F (Mac) / Ctrl+F (Win) |
+
+Weitere Kürzel der Desktop-App (Importieren, Exportieren, Verlauf) stehen auf der Seite [Desktop-App](/de/webapp/desktop-app).
 
 ## Zeichnungs-Editor
 
