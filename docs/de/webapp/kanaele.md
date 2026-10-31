@@ -156,6 +156,15 @@ Neben der Kreistabelle zeigt ein Badge, ob die Show vollständig ist:
 
 Ein Klick auf das Badge öffnet die Aufschlüsselung nach fehlender Angabe (kein Gerät, keine Bühnenposition, keine Adresse, Kreise ohne Notiz). Klick auf eine Zeile filtert die Kreistabelle auf genau diese Kreise; ein **×** neben dem aktiven Filter setzt ihn zurück.
 
+## Kreisgruppen
+
+Mit **Gruppen** in der Kopfleiste fasst du Kreise zu benannten Gruppen zusammen, z. B. „Rücklicht“ mit den Kreisen `137-148`. Optional trägst du die Gruppennummer am Pult ein.
+
+- Kreise gibst du als Bereich oder Liste ein (`137-148, 150`).
+- Ein Kreis kann in mehreren Gruppen sein.
+- Die **Reihenfolge** der Gruppen zählt: In den Apps steht ein Kreis unter der ersten Gruppe, zu der er gehört. Weitere Gruppen erscheinen als Chips hinter dem Kreis.
+- Gruppen erscheinen als Chips in der Kreistabelle und im **Filter**. Ein Klick filtert die Tabelle auf die Gruppe.
+
 ## Tastaturkürzel
 
 | Aktion | Kürzel |

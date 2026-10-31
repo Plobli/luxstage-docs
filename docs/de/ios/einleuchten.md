@@ -25,6 +25,14 @@ Ein Tipp auf eine Pille öffnet einen **Schnellblick** ohne Tab-Wechsel: Bei ein
 
 Oben rechts zeigt der Status, wie viele Kreise bereits fokussiert wurden, z. B. `64 · 50%`.
 
+## Gruppen
+
+Hast du in der Web-App Kreisgruppen angelegt, zeigt die Liste für jede Gruppe eine Karte mit Name, Kreisbereich und Zähler. Ein Kreis steht unter der ersten Gruppe, zu der er gehört; weitere Gruppen erscheinen als kleine Chips.
+
+- **Box im Gruppenkopf** antippen → alle Kreise der Gruppe werden abgehakt (nochmal antippen: alle Häkchen weg). Die Box zeigt „teils“, wenn nur einige Kreise erledigt sind. Einzelne Kreise bleiben jederzeit einzeln abhakbar.
+- **Titel oder Pfeil** antippen → Gruppe auf- oder zuklappen.
+- **Chip-Leiste** über der Liste: Chip antippen filtert die Liste auf die Kreise der Gruppe, nochmal antippen hebt den Filter auf.
+
 ## Suche
 
 Der Tab **Suche** durchsucht Kreise, Notizen und Pläne der Show.

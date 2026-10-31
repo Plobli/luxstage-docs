@@ -25,6 +25,14 @@ Tapping a pill opens a **quick look** without switching tabs: for a tower you se
 
 The status in the top right shows how many channels have already been focused, e.g. `64 · 50%`.
 
+## Groups
+
+If you created circuit groups in the web app, the list shows one card per group with name, circuit range and counter. A circuit is listed under the first group it belongs to; other groups show as small chips.
+
+- Tap the **box in the group header** to check all circuits of the group (tap again to clear them). The box shows "partial" when only some are done. Single circuits can always be checked on their own.
+- Tap the **title or arrow** to collapse or expand the group.
+- The **chip bar** above the list: tap a chip to filter the list to that group, tap again to clear the filter.
+
 ## Search
 
 The search field at the top filters the channel list in real time by name, fixture or note.

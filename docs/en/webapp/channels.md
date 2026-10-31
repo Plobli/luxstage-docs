@@ -145,6 +145,15 @@ The search field also works in the **Alley towers**, **Overhead machinery**, **L
 
 Use **Filter** in the top bar to filter the channel list by alley towers, overhead machinery, scenery and locations. You can pick several: within one kind they combine with "or", across kinds with "and". Clicking a chip in the list applies the same filter. Selected entries show a ring and a checkmark; the number next to **Filter** shows how many are active. The filter is available in the web app only.
 
+## Circuit groups
+
+Use **Groups** in the top bar to bundle circuits into named groups, e.g. "Backlight" with circuits `137-148`. You can also enter the group number on the console.
+
+- Enter circuits as a range or list (`137-148, 150`).
+- A circuit can belong to several groups.
+- The **order** of groups matters: the apps list a circuit under the first group it belongs to. Other groups show as chips next to the circuit.
+- Groups appear as chips in the table and in the **filter**. Click one to filter the table to that group.
+
 ## Completeness check
 
 Next to the channel table, a badge shows whether the show is complete:
