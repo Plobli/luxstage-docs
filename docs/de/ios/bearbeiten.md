@@ -3,7 +3,7 @@
 Shows lassen sich in der iOS- und Android-App direkt vor Ort bearbeiten: Kreis lang drücken, ändern, speichern. Die App muss dafür online sein. Ohne Verbindung erscheint ein Hinweis, deine Eingabe bleibt im Fenster stehen.
 
 ::: tip Sicherheitsnetz
-Über das **···**-Menü oben rechts gibt es **Rückgängig**, **Wiederholen** und den **Verlauf**. Schütteln des Geräts macht die letzte Änderung rückgängig (mit Rückfrage).
+Über das **···**-Menü oben rechts gibt es **Rückgängig**, **Wiederholen** und den **Verlauf**.
 :::
 
 ## Lang drücken = bearbeiten

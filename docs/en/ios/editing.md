@@ -3,7 +3,7 @@
 You can edit shows directly on site in the iOS and Android apps: long-press a channel, change it, save. The app must be online. Without a connection a notice appears and your input stays in the sheet.
 
 ::: tip Safety net
-The **···** menu at the top right offers **Undo**, **Redo** and **History**. Shaking the device undoes the last change (with confirmation).
+The **···** menu at the top right offers **Undo**, **Redo** and **History**.
 :::
 
 ## Long-press to edit
