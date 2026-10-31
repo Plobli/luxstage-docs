@@ -15,6 +15,12 @@ Jeder Kreis wird als Karte mit folgenden Elementen dargestellt:
 | **Fokus-Kreis** (links) | Tippen → Kreis als fokussiert markieren (roter Haken) |
 | **OSC-Toggle** (rechts) | Kreis über OSC auf Full schalten; aktiv = grüner Toggle, Karte rosa hinterlegt |
 
+## Wo hängt der Kreis?
+
+Unter jedem Kreis zeigen **Pillen**, wo er aufgebaut ist, z. B. „Gassenturm 1 · Slot 3“, eine Batten der Obermaschinerie oder ein Standort. Kreise ohne Platz zeigen keine Pille. Die Pillen erscheinen in der Liste und im Kachel-Sheet.
+
+Ein Tipp auf eine Pille öffnet einen **Schnellblick** ohne Tab-Wechsel: Bei einem Turm siehst du alle Slots mit Kreisnummer, bei einer Batten alle Geräte nach Position, bei einem Standort alle zugehörigen Kreise. Dein Kreis ist hervorgehoben. **Bearbeiten** öffnet den Eintrag zum Ändern.
+
 ## Fortschritt
 
 Oben rechts zeigt der Status, wie viele Kreise bereits fokussiert wurden, z. B. `64 · 50%`.

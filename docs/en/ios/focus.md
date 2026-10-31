@@ -15,6 +15,12 @@ Each channel is displayed as a card with the following elements:
 | **Focus circle** (left) | Tap → mark channel as focused (red checkmark) |
 | **OSC toggle** (right) | Switch channel to Full via OSC; active = green toggle, card highlighted in pink |
 
+## Where is the channel?
+
+Below each channel, **pills** show where it is set up, e.g. "Tower 1 · Slot 3", a batten of the overhead machinery or a location. Channels without a place show no pill. Pills appear in the list and in the tile sheet.
+
+Tapping a pill opens a **quick look** without switching tabs: for a tower you see all slots with channel numbers, for a batten all fixtures by position, for a location all its channels. Your channel is highlighted. **Edit** opens the entry for changes.
+
 ## Progress
 
 The status in the top right shows how many channels have already been focused, e.g. `64 · 50%`.
