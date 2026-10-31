@@ -163,6 +163,7 @@ Mit **Gruppen** in der Kopfleiste fasst du Kreise zu benannten Gruppen zusammen,
 - Kreise gibst du als Bereich oder Liste ein (`137-148, 150`).
 - Ein Kreis kann in mehreren Gruppen sein.
 - Die Liste zeigt eine Zeile pro Gruppe; zum Ändern auf die Zeile klicken. Ein Kreis in mehreren Gruppen steht in den Apps unter der kleinsten seiner Gruppen. Die anderen erscheinen als Chips hinter dem Kreis.
+- **Aus Pult importieren** (nur Desktop-App): holt die Gruppen per OSC aus Eos. Gruppen mit gleicher Pult-Nummer oder gleichem Namen werden aktualisiert, neue kommen dazu. Gespeichert wird erst mit „Speichern“.
 - Gruppen erscheinen als Chips in der Kreistabelle und im **Filter**. Ein Klick filtert die Tabelle auf die Gruppe.
 
 ## Tastaturkürzel

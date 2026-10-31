@@ -32,4 +32,4 @@ Undo/Redo, Filter und Suche sitzen oben in der Kopfzeile neben dem Show-Namen. A
 
 ## Pult-Sync mit Eos
 
-Mit der Desktop-App holst du den Patch direkt aus dem Pult. Neue Kreise, Adressen und Geräte landen ohne Export-Datei in der Kreisliste. Du wählst, ob nur Neues ergänzt, zusammengeführt oder das Pult gespiegelt wird. Details: [Aus EOS importieren](/de/webapp/import-eos).
+Mit der Desktop-App holst du den Patch direkt aus dem Pult. Neue Kreise, Adressen und Geräte landen ohne Export-Datei in der Kreisliste. Du wählst, ob nur Neues ergänzt, zusammengeführt oder das Pult gespiegelt wird. Details: [Aus EOS importieren](/de/webapp/import-eos). Auch die Kreisgruppen lassen sich aus dem Pult holen (Kreisliste → Gruppen → „Aus Pult importieren“).

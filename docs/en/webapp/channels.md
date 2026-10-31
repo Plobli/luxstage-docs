@@ -152,6 +152,7 @@ Use **Groups** in the top bar to bundle circuits into named groups, e.g. "Backli
 - Enter circuits as a range or list (`137-148, 150`).
 - A circuit can belong to several groups.
 - The list shows one row per group; click a row to edit it. A circuit in several groups is listed under the smallest of its groups in the apps. The others show as chips next to the circuit.
+- **Import from console** (desktop app only): reads the groups from Eos via OSC. Groups with the same console number or name are updated, new ones are added. Nothing is saved until you click Save.
 - Groups appear as chips in the table and in the **filter**. Click one to filter the table to that group.
 
 ## Completeness check
