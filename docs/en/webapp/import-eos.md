@@ -42,3 +42,29 @@ If there are no changes compared to the current state, "No changes." appears —
 Fixtures with pan/tilt capability (per the export) are treated as moving lights. Newly created or newly active channels without a note automatically receive the note "Moving Light" and turn green instead of yellow — moving lights usually cover many different positions per show, so a fixed position note doesn't make sense for them.
 
 All remaining yellow-highlighted channels can now be labelled with notes, colour codes, etc. in the channel table.
+
+## Fetch directly from the console
+
+Desktop app only ([Desktop app](/en/webapp/desktop-app)): instead of a CSV file, you fetch the patch straight from the console.
+
+1. In Eos: Setup › System › Show Control › OSC, enable "OSC TCP" (port 3037). Computer and console must be on the same network.
+2. In LuxStage, click **"Import"** and choose **"Fetch from console"**.
+3. Enter the console address (e.g. `192.168.1.20`) and click **"Fetch"**.
+4. Choose a mode. The preview shows what will change.
+5. Confirm with **"Apply"**.
+
+| Mode | Effect |
+|------|--------|
+| **New only** | Only adds channels missing from the list. |
+| **Merge** | Adds new channels, updates address and device. Colour, position, notes and photos stay. |
+| **Mirror console** | Like merge, but removes channels that are not patched on the console. You must explicitly confirm the number of channels to be removed. |
+
+::: tip Undo available
+The sync works like any other change. It appears in the history and can be undone.
+:::
+
+::: info Patch only
+The console delivers channels, addresses and devices. It does not send cue levels. For those, use the CSV import (above).
+:::
+
+If LuxStage reports that the console did not return all channels, fetch again.
