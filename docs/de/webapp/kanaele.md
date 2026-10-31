@@ -162,7 +162,7 @@ Mit **Gruppen** in der Kopfleiste fasst du Kreise zu benannten Gruppen zusammen,
 
 - Kreise gibst du als Bereich oder Liste ein (`137-148, 150`).
 - Ein Kreis kann in mehreren Gruppen sein.
-- Die **Reihenfolge** der Gruppen zählt: In den Apps steht ein Kreis unter der ersten Gruppe, zu der er gehört. Weitere Gruppen erscheinen als Chips hinter dem Kreis.
+- Die Liste zeigt eine Zeile pro Gruppe; zum Ändern auf die Zeile klicken. Ein Kreis in mehreren Gruppen steht in den Apps unter der kleinsten seiner Gruppen. Die anderen erscheinen als Chips hinter dem Kreis.
 - Gruppen erscheinen als Chips in der Kreistabelle und im **Filter**. Ein Klick filtert die Tabelle auf die Gruppe.
 
 ## Tastaturkürzel

@@ -151,7 +151,7 @@ Use **Groups** in the top bar to bundle circuits into named groups, e.g. "Backli
 
 - Enter circuits as a range or list (`137-148, 150`).
 - A circuit can belong to several groups.
-- The **order** of groups matters: the apps list a circuit under the first group it belongs to. Other groups show as chips next to the circuit.
+- The list shows one row per group; click a row to edit it. A circuit in several groups is listed under the smallest of its groups in the apps. The others show as chips next to the circuit.
 - Groups appear as chips in the table and in the **filter**. Click one to filter the table to that group.
 
 ## Completeness check
