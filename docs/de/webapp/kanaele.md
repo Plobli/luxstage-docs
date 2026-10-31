@@ -141,6 +141,8 @@ Beim Hovern über eine Bühnenpositions-Überschrift erscheint der Button **„B
 
 Im Suchfeld oben rechts (**„In Kreisen suchen …"**) können Kreise, Geräte oder Notizen in Echtzeit gefiltert werden.
 
+Das Suchfeld gilt auch in den Tabs **Gassentürme**, **Obermaschinerie**, **Standorte** und **Fotos**. Du findest Elemente nach Name, Notiz oder zugeordneter Kreisnummer. Mehrere Wörter müssen alle passen. Aufbaunotizen, Raum und Zeichnung sind nicht durchsuchbar.
+
 ## Nach Chips filtern
 
 Über **Filter** in der oberen Leiste filterst du die Kreisliste nach Gassentürmen, Obermaschinerie, Kulissen und Standorten. Mehrere Einträge sind möglich: Innerhalb einer Art zählt „oder", zwischen Arten „und". Ein Klick auf einen Chip in der Liste setzt denselben Filter. Gewählte Einträge zeigen einen Ring und ein Häkchen, die Zahl neben **Filter** nennt die aktive Auswahl. Der Filter gilt nur in der Web-App.

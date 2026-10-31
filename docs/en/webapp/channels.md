@@ -139,6 +139,8 @@ When hovering over a position heading, the **"Rename position"** button appears 
 
 In the search field at the top right (**"Search channels …"**) channels, fixtures or notes can be filtered in real time.
 
+The search field also works in the **Alley towers**, **Overhead machinery**, **Locations** and **Photos** tabs. You find items by name, note or assigned channel number. All words you type must match. Setup notes, room and drawing are not searchable.
+
 ## Filter by chips
 
 Use **Filter** in the top bar to filter the channel list by alley towers, overhead machinery, scenery and locations. You can pick several: within one kind they combine with "or", across kinds with "and". Clicking a chip in the list applies the same filter. Selected entries show a ring and a checkmark; the number next to **Filter** shows how many are active. The filter is available in the web app only.
