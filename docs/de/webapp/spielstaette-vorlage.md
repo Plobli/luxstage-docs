@@ -85,6 +85,13 @@ Wurde eine Spielort-Vorlage nachträglich um Abschnitte oder Gassentürme erweit
 Es werden ausschließlich **fehlende** Elemente ergänzt. Bereits vorhandene Abschnitte, Zugstangen oder Gassentürme einer Show bleiben unverändert — nichts wird überschrieben oder gelöscht.
 :::
 
+## Kreisgruppen in der Vorlage
+
+Im Tab **Kreise** der Vorlage legt **Gruppen** Kreisgruppen an (z. B. „Rücklicht“ = 137-148), genau wie in einer Show. Die Gruppen gehören zur Vorlage und werden über die **Kreisnummer** zugeordnet.
+
+- Neue Show aus der Vorlage mit Kreis-Import: Die Gruppen kommen mit.
+- Bestehende Shows: **„Gruppen auf alle Shows anwenden“** ergänzt Gruppen, die in der Show noch fehlen (Vergleich nach Name). Vorhandene Gruppen bleiben unverändert. Kreise, die es in der Show nicht gibt, werden übersprungen.
+
 ## Kreisliste mit der Vorlage abgleichen
 
 Änderungen an der Vorlage lassen sich aus der Show heraus in die Kreisliste übernehmen:

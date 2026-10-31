@@ -94,6 +94,13 @@ If a venue template was later extended with sections or lighting towers, these a
 Only **missing** elements are added. Sections, battens, or lighting towers a show already has remain unchanged — nothing is overwritten or deleted.
 :::
 
+## Circuit groups in the template
+
+In the **Channels** tab of the template, **Groups** creates circuit groups (e.g. "Backlight" = 137-148), just like in a show. Groups belong to the template and are matched by **circuit number**.
+
+- New show from the template with channel import: the groups come along.
+- Existing shows: **"Apply groups to all shows"** adds groups that are still missing in the show (matched by name). Existing groups stay unchanged. Circuits that do not exist in the show are skipped.
+
 ## Compare the channel list with the template
 
 Template changes can be applied to the channel list from within the show:
