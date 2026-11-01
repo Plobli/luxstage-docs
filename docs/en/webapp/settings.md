@@ -90,12 +90,17 @@ Only users with source **DB** have a **"Delete"** button.
 
 ---
 
-**New user**
+**Invite colleagues**
 
-Creates a new user for your team. The initial password is generated automatically and sent by email.
+Invites a person to your team by email. There is no password in the email. The person chooses it.
 
 1. Enter **email address**
-2. Click **"Create"**
+2. Click **"Send invitation"**
+3. The person opens the link in the email and chooses a password. Then they are in the team.
+
+The link is valid for **7 days** and works **once**. Under **"Open invitations"** you see who has not accepted yet. **"Withdraw"** makes the link invalid.
+
+If the address already has an account in the team, LuxStage says so. Without email sending on the server there are no invitations.
 
 ---
 

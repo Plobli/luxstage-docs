@@ -11,7 +11,7 @@ Click **"Sign in"**. On incorrect credentials, the message "Login failed. Please
 
 ## Registration
 
-Below the sign-in form, the link **"No account yet? Register"** appears. On a hosted team at [luxstage.app](https://luxstage.app), registration works via a team slug plus email address and password, confirmed by an email link (double opt-in). New members of an existing team are instead created via **Settings → User Management → New user** (see [Settings](./settings)).
+Below the sign-in form, the link **"No account yet? Register"** appears. On a hosted team at [luxstage.app](https://luxstage.app), registration works via a team slug plus email address and password, confirmed by an email link (double opt-in). New members of an existing team are instead invited by email: **Settings → Users → Invite colleagues** (see [Settings](./settings)). You sign in on your phone without typing: [Connect phone](./connect-phone).
 
 ## Forgot password
 

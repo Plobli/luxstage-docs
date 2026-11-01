@@ -61,6 +61,7 @@ export default {
               text: 'Shows',
               items: [
                 { text: 'Anmeldung', link: '/de/webapp/login' },
+                { text: 'Handy verbinden', link: '/de/webapp/handy-verbinden' },
                 { text: 'Shows', link: '/de/webapp/shows' },
                 { text: 'Kreise', link: '/de/webapp/kanaele' },
                 { text: 'Setup — Gassentürme', link: '/de/webapp/setup-gestelle' },
@@ -182,6 +183,7 @@ export default {
               text: 'Shows',
               items: [
                 { text: 'Login', link: '/en/webapp/login' },
+                { text: 'Connect phone', link: '/en/webapp/connect-phone' },
                 { text: 'Shows', link: '/en/webapp/shows' },
                 { text: 'Channels', link: '/en/webapp/channels' },
                 { text: 'Setup — Lighting Towers', link: '/en/webapp/setup-gestelle' },

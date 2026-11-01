@@ -13,7 +13,7 @@ Klick auf **„Anmelden"**. Bei falschen Zugangsdaten erscheint „Anmeldung feh
 
 ## Registrierung
 
-Unterhalb des Anmelde-Formulars erscheint der Link **„Noch kein Konto? Registrieren"**. Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) läuft die Registrierung über ein Team-Kürzel plus E-Mail-Adresse und Passwort, per Bestätigungslink per E-Mail (Double-Opt-in). Neue Teammitglieder eines bestehenden Teams legt man stattdessen über **Einstellungen → Benutzerverwaltung → Neuer Benutzer** an (siehe [Einstellungen](./einstellungen)).
+Unterhalb des Anmelde-Formulars erscheint der Link **„Noch kein Konto? Registrieren"**. Bei einem gehosteten Team unter [luxstage.app](https://luxstage.app) läuft die Registrierung über ein Team-Kürzel plus E-Mail-Adresse und Passwort, per Bestätigungslink per E-Mail (Double-Opt-in). Neue Teammitglieder eines bestehenden Teams lädst du stattdessen per E-Mail ein: **Einstellungen → Benutzer → Kollegen einladen** (siehe [Einstellungen](./einstellungen)). Dein Handy meldest du ohne Tippen an: [Handy verbinden](./handy-verbinden).
 
 ## Passwort vergessen
 

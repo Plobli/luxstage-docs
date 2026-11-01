@@ -90,10 +90,14 @@ Nur Benutzer mit Quelle **DB** haben einen **„Löschen"**-Button.
 
 ---
 
-**Neuer Benutzer**
+**Kollegen einladen**
 
-Legt einen neuen Benutzer für dein Team an. Das initiale Passwort wird automatisch generiert und per E-Mail zugestellt.
+Lädt eine Person per E-Mail in dein Team ein. Es gibt kein Passwort in der Mail. Die Person wählt es selbst.
 
 1. **E-Mail-Adresse** eingeben
-2. Klick auf **„Anlegen"**
+2. Klick auf **„Einladung senden"**
+3. Die Person öffnet den Link in der Mail und wählt ein Passwort. Danach ist sie im Team.
 
+Der Link gilt **7 Tage** und nur **einmal**. Unter **„Offene Einladungen"** siehst du, wer noch nicht angenommen hat. Mit **„Zurückziehen"** wird der Link ungültig.
+
+Hat die Adresse schon ein Konto im Team, meldet LuxStage das. Ohne E-Mail-Versand auf dem Server gibt es keine Einladungen.
