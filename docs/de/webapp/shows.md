@@ -73,7 +73,7 @@ Teams, die vor Einführung der Demo-Show angelegt wurden, bekommen sie über **H
 
 ## Tour durch die Demo-Show
 
-Beim ersten Start bietet LuxStage dir die Demo-Show mit einer kurzen **Tour** an. Du kannst sie ansehen oder mit **„Selbst umsehen"** überspringen. Die Tour startet nie von allein.
+Neue Konten bekommen beim ersten Start die Demo-Show mit einer kurzen **Tour** angeboten. Bestehende Konten finden die Tour jederzeit unter **Hilfe**. Du kannst sie ansehen oder mit **„Selbst umsehen"** überspringen. Die Tour startet nie von allein.
 
 Ein kleines Fenster erscheint direkt an der jeweiligen Stelle, oben zeigt eine Punkteleiste, wie viele Schritte noch kommen. Die Tour zeigt den Weg zur eigenen Show in sechs Stationen:
 

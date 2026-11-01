@@ -72,7 +72,7 @@ Teams created before the demo show was introduced get it via **Help → "Show de
 
 ## Tour of the demo show
 
-On first start, LuxStage offers you the demo show with a short **tour**. You can take it or skip it with **"Look around myself"**. The tour never starts on its own.
+New accounts are offered the demo show with a short **tour** on first start. Existing accounts find the tour at any time under **Help**. You can take it or skip it with **"Look around myself"**. The tour never starts on its own.
 
 A small window appears right at the relevant spot, a row of dots at the top shows how many steps are left. The tour shows the way to your own show in six stations:
 
