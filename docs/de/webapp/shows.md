@@ -82,7 +82,7 @@ Ein kleines Fenster erscheint direkt an der jeweiligen Stelle und zeigt den Weg 
 4. **Mit dem Handy einleuchten** – das Handy verbindest du mit einem Code. In der Demo ist das nur eine Vorschau.
 5. **Liste drucken** – die Kreisliste als PDF.
 
-Die Stelle der aktuellen Station ist mit einem Rahmen hervorgehoben, der Rest der Oberfläche ist abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
+Die Stelle der aktuellen Station leuchtet sanft in der Akzentfarbe. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
 
 - **Nach einer Unterbrechung** macht die Tour dort weiter, wo du aufgehört hast. Der Stand gehört zu deinem Benutzerkonto.
 - **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.

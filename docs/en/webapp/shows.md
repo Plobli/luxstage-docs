@@ -81,7 +81,7 @@ A small window appears right at the relevant spot and shows the way to your own 
 4. **Focus with your phone** – you connect your phone with a code. In the demo this is only a preview.
 5. **Print the list** – the channel list as a PDF.
 
-The place of the current station is highlighted with a frame, the rest of the interface is dimmed. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
+The place of the current station glows softly in the accent colour. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
 
 - **After an interruption** the tour continues where you stopped. The progress belongs to your user account.
 - **Watch it again** – via **Help → "Watch the tour again"**. If the demo show is hidden, this entry shows it again.
