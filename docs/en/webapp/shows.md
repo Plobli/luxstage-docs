@@ -69,6 +69,25 @@ Every new team gets a **demo show** to try things out. It appears in the show li
 Teams created before the demo show was introduced get it via **Help → "Show demo show"**.
 :::
 
+## Tour of the demo show
+
+On first start, LuxStage offers you the demo show with a short **tour**. You can take it or skip it with **"Look around myself"**. The tour never starts on its own.
+
+A narrow window on the right shows the way to your own show in five stations:
+
+1. **Create a show** – this is where you start your own show later.
+2. **Bring in channels** – in the demo the channels are already there. In your own show they come from the console or from a file.
+3. **Edit channels** – change device, colour and note.
+4. **Focus with your phone** – you connect your phone with a code. In the demo this is only a preview.
+5. **Print the list** – the channel list as a PDF.
+
+The place of the current station is highlighted with a frame, the rest of the interface is dimmed. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
+
+- **After an interruption** the tour continues where you stopped. The progress belongs to your user account.
+- **Watch it again** – via **Help → "Watch the tour again"**. If the demo show is hidden, this entry shows it again.
+- **At the end** LuxStage asks whether you want to create your own show or look around a bit more. Without an account, **"Create my own show"** leads to registration.
+- The tour is available in the web app and the desktop app from a window width of 768 pixels, not in the smartphone apps.
+
 ## Demo without an account
 
 You can try the web app at **demo.luxstage.app** without an account, also in the desktop app via **"View demo"**. Everyone gets their own copy of the demo show. The demo needs an internet connection.

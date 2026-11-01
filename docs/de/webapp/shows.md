@@ -70,6 +70,25 @@ Jedes neue Team bekommt eine **Demo-Show** zum Ausprobieren. Sie steht in der Sh
 Teams, die vor Einführung der Demo-Show angelegt wurden, bekommen sie über **Hilfe → „Demo-Show einblenden"**.
 :::
 
+## Tour durch die Demo-Show
+
+Beim ersten Start bietet LuxStage dir die Demo-Show mit einer kurzen **Tour** an. Du kannst sie ansehen oder mit **„Selbst umsehen"** überspringen. Die Tour startet nie von allein.
+
+Am rechten Rand erscheint ein schmales Fenster mit dem Weg zur eigenen Show in fünf Stationen:
+
+1. **Show anlegen** – hier startest du später deine eigene Show.
+2. **Kreise übernehmen** – in der Demo sind die Kreise schon da. Bei dir kommen sie vom Pult oder aus einer Datei.
+3. **Kreise bearbeiten** – Gerät, Farbe und Notiz ändern.
+4. **Mit dem Handy einleuchten** – das Handy verbindest du mit einem Code. In der Demo ist das nur eine Vorschau.
+5. **Liste drucken** – die Kreisliste als PDF.
+
+Die Stelle der aktuellen Station ist mit einem Rahmen hervorgehoben, der Rest der Oberfläche ist abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
+
+- **Nach einer Unterbrechung** macht die Tour dort weiter, wo du aufgehört hast. Der Stand gehört zu deinem Benutzerkonto.
+- **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.
+- **Am Ende** fragt LuxStage, ob du eine eigene Show anlegen oder noch etwas stöbern möchtest. Ohne Konto führt **„Eigene Show anlegen"** zur Registrierung.
+- Die Tour gibt es in der Web-App und in der Desktop-App ab einer Fensterbreite von 768 Pixeln, nicht in den Smartphone-Apps.
+
 ## Demo ohne Konto
 
 Die Web-App lässt sich unter **demo.luxstage.app** ohne Konto ausprobieren, auch in der Desktop-App über **„Demo ansehen"**. Jede Person bekommt eine eigene Kopie der Demo-Show. Die Demo braucht eine Internetverbindung.
