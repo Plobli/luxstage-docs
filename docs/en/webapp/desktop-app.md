@@ -1,11 +1,10 @@
 # Desktop App
 
-The desktop app for Mac and Windows shows your team in its own window. It behaves like a regular program: its own menu bar, keyboard shortcuts, and it remembers the window position. It can also fetch the patch directly from an Eos console.
+The desktop app for Windows shows your team in its own window. It behaves like a regular program: its own menu bar, keyboard shortcuts, and it remembers the window position. It can also fetch the patch directly from an Eos console.
 
 ## Installation
 
 - **Windows:** [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=en-US). Updates install automatically.
-- **Mac:** Coming soon to the Mac App Store. Until then, use LuxStage in the browser on your Mac.
 
 On first launch, enter your team name, for example `my-theater` for `my-theater.luxstage.app`. Use **Switch team …** in the menu to change teams later. You can create a new team right on the start page.
 
