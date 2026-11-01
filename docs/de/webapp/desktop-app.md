@@ -5,7 +5,7 @@ Die Desktop-App für Mac und Windows zeigt dein Team in einem eigenen Fenster. S
 ## Installation
 
 - **Windows:** [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=de-DE). Updates kommen automatisch.
-- **Mac:** [Download der aktuellen Version](https://github.com/Plobli/luxstage-desktop/releases/latest) (Datei `…-arm64.dmg`, für Macs mit Apple-Chip). Die App ist signiert und von Apple geprüft und aktualisiert sich selbst.
+- **Mac:** Kommt in Kürze in den Mac App Store. Bis dahin nutzt du LuxStage auf dem Mac im Browser.
 
 Beim ersten Start gibst du den Namen deines Teams ein, zum Beispiel `mein-theater` für `mein-theater.luxstage.app`. Über **Team wechseln …** im Menü wechselst du später das Team. Ein neues Team legst du direkt auf der Startseite an.
 
