@@ -111,7 +111,7 @@ Ein pulsierender Leuchtpunkt zeigt auf die Stelle der aktuellen Station, die Pfe
 
 ## Demo ohne Konto
 
-Die Web-App lässt sich unter **demo.luxstage.app** ohne Konto ausprobieren, auch in der Desktop-App über **„Demo ansehen"**. Jede Person bekommt eine eigene Kopie der Demo-Show. Die Demo braucht eine Internetverbindung.
+Die Web-App lässt sich unter **demo.luxstage.app** ohne Konto ausprobieren, auch in der Desktop-App über **„Demo ansehen"**. Zum Öffnen gibst du Nutzername **demo** und Passwort **demo** ein. Jede Person bekommt eine eigene Kopie der Demo-Show. Die Demo braucht eine Internetverbindung.
 
 - Die Kopie wird nach **20 Minuten ohne Aktivität** gelöscht. Danach bietet die Demo einen Neustart an.
 - **Zurücksetzen** stellt den Ausgangszustand jederzeit wieder her.

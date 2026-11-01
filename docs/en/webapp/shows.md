@@ -110,7 +110,7 @@ A pulsing dot marks the place of the current station and the tip of the tour win
 
 ## Demo without an account
 
-You can try the web app at **demo.luxstage.app** without an account, also in the desktop app via **"View demo"**. Everyone gets their own copy of the demo show. The demo needs an internet connection.
+You can try the web app at **demo.luxstage.app** without an account, also in the desktop app via **"View demo"**. To open it, enter username **demo** and password **demo**. Everyone gets their own copy of the demo show. The demo needs an internet connection.
 
 - The copy is deleted after **20 minutes of inactivity**. The demo then offers a restart.
 - **Reset** restores the original state at any time.
