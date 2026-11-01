@@ -31,10 +31,10 @@ After [logging in](/en/webapp/login) — this order gets you to your first show 
 [Venue template](/en/webapp/venue-template) — define the channel structure once (via CSV import or manually), available immediately for every new production.
 
 ### 2. Create a show
-[Shows](/en/webapp/shows) — create a new show and optionally assign it a venue template. Channel structure and drawing are inherited automatically.
+[Shows](/en/webapp/shows) — create a new show and optionally assign it a venue template. Channel structure and drawing are inherited automatically. The wizard asks: "How do the channels get in?" — fetch from console (desktop app only), import an Eos file, enter them yourself, or read a photo (beta). Afterwards you check the result and can undo it.
 
 ### 3. Plan & focus channels
-[Import from EOS](/en/webapp/import-eos) or fill in [channels](/en/webapp/channels) manually. The iOS app and web app are in sync – all lighting technicians always see the same state.
+If channels are still missing: [Import from EOS](/en/webapp/import-eos) or fill in [channels](/en/webapp/channels) manually. The iOS app and web app are in sync – all lighting technicians always see the same state.
 
 ### 4. Export & archive
 [Export as PDF](/en/webapp/export-pdf) for printing, [archive](/en/webapp/archive) the show once done — with a full [version history](/en/webapp/version-history) for later.

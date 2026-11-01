@@ -45,7 +45,7 @@ All remaining yellow-highlighted channels can now be labelled with notes, colour
 
 ## Fetch directly from the console
 
-Desktop app only ([Desktop app](/en/webapp/desktop-app)): instead of a CSV file, you fetch the patch straight from the console.
+Desktop app only ([Desktop app](/en/webapp/desktop-app)): instead of a CSV file, you fetch the patch straight from the console. When you create a new show, this is the first choice in the question ["How do the channels get in?"](/en/webapp/shows#how-do-the-channels-get-in). It is not available in the web app in the browser — you need the desktop app for it.
 
 1. In Eos: Setup › System › Show Control › OSC, enable "OSC TCP" (port 3037). Computer and console must be on the same network.
 2. In LuxStage, click **"Import"** and choose **"Fetch from console"**.

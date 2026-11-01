@@ -20,7 +20,7 @@ Shows are grouped by venue, with the venue name as a heading. Shows without an a
 
 ## Create a new show
 
-Clicking **"New Show"** (button in the bottom right) starts a multi-step wizard. Depending on your choices, it runs through up to five steps:
+Clicking **"New Show"** (button in the bottom right) starts a multi-step wizard. Depending on your choices, it runs through up to six steps:
 
 1. **Template** – select an existing venue template, or "No template"
 2. **Name & date** – name, date, optional season (e.g. "25/26")
@@ -28,11 +28,29 @@ Clicking **"New Show"** (button in the bottom right) starts a multi-step wizard.
 4. **Lighting towers** (only if a template is selected, the "lighting towers" area is enabled, and the template has any) – pick individual towers from the template
 5. **Fly system** (only if a template is selected, the "battens" area is enabled, and the template has any) – pick individual elements from the template
 
+6. **Channels** – the start question "How do the channels get in?" (see below). This step is skipped if you take over a template with channels.
+
 Finally, a **summary** shows all selected values; clicking **"Create Show"** creates the show.
 
 ::: tip Note
 If a template is selected, the new show optionally inherits the channel structure, selected sections, lighting towers and battens of the chosen venue.
 :::
+
+### How do the channels get in?
+
+In the **"Channels"** step you choose where the channels of your new show come from. There are four ways:
+
+1. **Fetch from console** – LuxStage reads the channels straight from the lighting console. This only works in the [desktop app](/en/webapp/desktop-app). In the web app in the browser this option is greyed out and says: "This needs the desktop app."
+2. **Import Eos file** – you have a file (CSV) from the console. Click **"Choose file"** and pick the file. More under [Import from EOS](/en/webapp/import-eos).
+3. **Enter them myself** – you type the channels in by hand. The channel list starts empty.
+4. **Read a photo of the form** – small, at the very bottom and marked **Beta**. You choose a photo of your filled-in channel list. More under [Scan channel list](/en/webapp/scan-channel-list).
+
+You can always fetch or add channels later with **"Import"** inside the show.
+
+After **"Create Show"**, the chosen way runs with the familiar dialogs. You first see a preview and confirm it. Then comes the **"Check"** step. It shows how many **channels** and how many **different devices** are now in your show.
+
+- **"Looks good"** closes the dialog.
+- **"Undo"** takes the import back. The channel list is then as it was before.
 
 ## Open a show
 

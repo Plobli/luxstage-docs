@@ -27,7 +27,7 @@ Der **„Neue Show"**-Button (unten rechts) öffnet ein Dropdown-Menü mit zwei 
 
 ### Assistent (mehrstufig)
 
-Je nach Auswahl durchläuft der Assistent bis zu fünf Schritte:
+Je nach Auswahl durchläuft der Assistent bis zu sechs Schritte:
 
 1. **Vorlage** – bestehende Spielort-Vorlage auswählen oder „Keine Vorlage"
 2. **Name & Datum** – Name, Datum, optional Spielzeit (z. B. „25/26")
@@ -35,11 +35,29 @@ Je nach Auswahl durchläuft der Assistent bis zu fünf Schritte:
 4. **Obermaschinerie** (nur wenn Vorlage + Bereich „Zugstangen" aktiv und die Vorlage welche enthält) – einzelne Elemente der Vorlage auswählen
 5. **Gassentürme** (nur wenn Vorlage + Bereich „Gassentürme" aktiv und die Vorlage welche enthält) – einzelne Türme der Vorlage auswählen
 
+6. **Kreise** – die Startfrage „Wie kommen die Kreise herein?“ (siehe unten). Dieser Schritt entfällt, wenn du eine Vorlage mit Kreisen übernimmst.
+
 Zum Abschluss zeigt eine **Zusammenfassung** alle gewählten Werte; Klick auf **„Show erstellen"** legt die Show an.
 
 ::: tip Hinweis
 Wird eine Vorlage ausgewählt, übernimmt die neue Show wahlweise die Kreisstruktur, die ausgewählten Abschnitte, Gassentürme und Zugstangen des gewählten Spielorts.
 :::
+
+### Wie kommen die Kreise herein?
+
+Im Schritt **„Kreise“** wählst du, woher die Kreise deiner neuen Show kommen. Es gibt vier Wege:
+
+1. **Vom Pult holen** – LuxStage liest die Kreise direkt aus dem Lichtpult. Das geht nur in der [Desktop-App](/de/webapp/desktop-app). In der Web-App im Browser ist der Weg grau, dort steht: „Dafür brauchst du die Desktop-App.“
+2. **Eos-Datei importieren** – du hast eine Datei (CSV) vom Pult. Klicke auf **„Datei wählen“** und such die Datei aus. Mehr dazu unter [Aus Eos importieren](/de/webapp/import-eos).
+3. **Selbst eintragen** – du trägst die Kreise von Hand ein. Die Kreisliste ist zuerst leer.
+4. **Foto vom Vordruck lesen** – klein ganz unten und als **Beta** gekennzeichnet. Du wählst ein Foto deiner ausgefüllten Kreisliste. Mehr dazu unter [Kreisliste scannen](/de/webapp/scan-kreisliste).
+
+Du kannst Kreise später jederzeit noch holen oder ergänzen, über **„Importieren“** in der Show.
+
+Nach **„Show erstellen“** läuft der gewählte Weg mit den bekannten Dialogen. Du siehst zuerst eine Vorschau und bestätigst sie. Danach kommt der Schritt **„Prüfen“**. Er zeigt, wie viele **Kreise** und wie viele **verschiedene Geräte** jetzt in deiner Show stehen.
+
+- **„Passt“** schließt den Dialog.
+- **„Rückgängig“** nimmt den Import zurück. Die Kreisliste ist dann wieder so wie davor.
 
 ## Show öffnen
 

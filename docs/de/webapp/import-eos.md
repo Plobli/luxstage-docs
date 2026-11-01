@@ -45,7 +45,7 @@ Alle übrigen gelb markierten Kreise können nun in der Kreistabelle mit Notizen
 
 ## Direkt vom Pult holen
 
-Nur in der [Desktop-App](/de/webapp/desktop-app): Statt einer CSV-Datei holst du den Patch direkt aus dem Pult.
+Nur in der [Desktop-App](/de/webapp/desktop-app): Statt einer CSV-Datei holst du den Patch direkt aus dem Pult. Beim Anlegen einer neuen Show erscheint dieser Weg als erste Wahl in der Frage [„Wie kommen die Kreise herein?“](/de/webapp/shows#wie-kommen-die-kreise-herein). In der Web-App im Browser steht er nicht zur Verfügung — dort brauchst du dafür die Desktop-App.
 
 1. In Eos: Setup › System › Show Control › OSC, „OSC TCP“ aktivieren (Port 3037). Rechner und Pult müssen im selben Netz sein.
 2. In LuxStage auf **„Importieren"** klicken und **„Vom Pult holen"** wählen.
