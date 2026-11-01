@@ -78,11 +78,11 @@ Ein kleines Fenster erscheint direkt an der jeweiligen Stelle und zeigt den Weg 
 
 1. **Show anlegen** – hier startest du später deine eigene Show.
 2. **Kreise übernehmen** – in der Demo sind die Kreise schon da. Bei dir kommen sie vom Pult oder aus einer Datei.
-3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Color**, **Anzahl und Gerät**, **Notizen**, **Prio** und **Position**. Die jeweilige Spalte leuchtet.
+3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Color**, **Anzahl und Gerät**, **Notizen**, **Prio** und **Position**. Die jeweilige Spalte liegt im Licht.
 4. **Mit dem Handy einleuchten** – das Handy verbindest du mit einem Code. In der Demo ist das nur eine Vorschau.
 5. **Liste drucken** – die Kreisliste als PDF.
 
-Die Stelle der aktuellen Station leuchtet sanft in der Akzentfarbe, der Rest der Oberfläche ist abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
+Die Stelle der aktuellen Station liegt wie im Lichtkegel eines Verfolgers, der Rest der Oberfläche ist weich abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
 
 - **Nach einer Unterbrechung** macht die Tour dort weiter, wo du aufgehört hast. Der Stand gehört zu deinem Benutzerkonto.
 - **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.
