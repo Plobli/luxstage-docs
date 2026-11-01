@@ -76,4 +76,5 @@ Die Web-App lässt sich unter **demo.luxstage.app** ohne Konto ausprobieren, auc
 
 - Die Kopie wird nach **20 Minuten ohne Aktivität** gelöscht. Danach bietet die Demo einen Neustart an.
 - **Zurücksetzen** stellt den Ausgangszustand jederzeit wieder her.
-- Nicht verfügbar sind Fotos hochladen, Import, Einstellungen, Team, Benutzer und Abrechnung.
+- Der Einleuchtplan lässt sich als **PDF-Vorschau** ansehen, aber nicht herunterladen. Auch der CSV-Export fehlt.
+- Nicht verfügbar sind außerdem Fotos hochladen, Import, Einstellungen, Team, Benutzer und Abrechnung.

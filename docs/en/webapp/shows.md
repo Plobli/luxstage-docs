@@ -75,4 +75,5 @@ You can try the web app at **demo.luxstage.app** without an account, also in the
 
 - The copy is deleted after **20 minutes of inactivity**. The demo then offers a restart.
 - **Reset** restores the original state at any time.
-- Not available: uploading photos, import, settings, team, users and billing.
+- The lighting plan can be viewed as a **PDF preview** but not downloaded. CSV export is not available either.
+- Also not available: uploading photos, import, settings, team, users and billing.
