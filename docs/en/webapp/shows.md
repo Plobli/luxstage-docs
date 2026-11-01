@@ -77,7 +77,7 @@ A small window appears right at the relevant spot and shows the way to your own 
 
 1. **Create a show** – this is where you start your own show later.
 2. **Bring in channels** – in the demo the channels are already there. In your own show they come from the console or from a file.
-3. **Edit channels** – change device, colour and note.
+3. **Edit channels** – the tour goes through the columns one by one: **channel number and address**, **color**, **quantity and device**, **notes**, **prio** and **position**. The column in question glows.
 4. **Focus with your phone** – you connect your phone with a code. In the demo this is only a preview.
 5. **Print the list** – the channel list as a PDF.
 
