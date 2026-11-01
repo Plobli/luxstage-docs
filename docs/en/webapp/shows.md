@@ -73,7 +73,7 @@ Teams created before the demo show was introduced get it via **Help → "Show de
 
 On first start, LuxStage offers you the demo show with a short **tour**. You can take it or skip it with **"Look around myself"**. The tour never starts on its own.
 
-A narrow window on the right shows the way to your own show in five stations:
+A small window appears right at the relevant spot and shows the way to your own show in five stations:
 
 1. **Create a show** – this is where you start your own show later.
 2. **Bring in channels** – in the demo the channels are already there. In your own show they come from the console or from a file.
