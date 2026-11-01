@@ -23,6 +23,8 @@ Import, export, history, find, undo and redo are in the menu bar. That is why th
 | | Redo | ⇧⌘Z | Ctrl+Y |
 | | Find … | ⌘F | Ctrl+F |
 | Navigation | Back / Forward | ⌘[ / ⌘] | Ctrl+[ / Ctrl+] |
+| Help | Watch the tour again | | |
+| | Documentation | | |
 
 In text fields, undo and redo apply to the typed text, otherwise to the show. Open settings with ⌘, (Mac) or Ctrl+, (Windows). The menu items are named in German.
 

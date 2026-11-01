@@ -86,7 +86,7 @@ Ein kleines Fenster erscheint direkt an der jeweiligen Stelle und zeigt den Weg 
 Die Stelle der aktuellen Station liegt wie im Lichtkegel eines Verfolgers, der Rest der Oberfläche ist weich abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
 
 - **Nach einer Unterbrechung** macht die Tour dort weiter, wo du aufgehört hast. Der Stand gehört zu deinem Benutzerkonto.
-- **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.
+- **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"** (auf der Show-Liste). In der Desktop-App findest du den Befehl auch in der Menüleiste unter **Hilfe**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.
 - **Am Ende** fragt LuxStage, ob du eine eigene Show anlegen oder noch etwas stöbern möchtest. Ohne Konto führt **„Eigene Show anlegen"** zur Registrierung.
 - Die Tour gibt es in der Web-App und in der Desktop-App ab einer Fensterbreite von 768 Pixeln, nicht in den Smartphone-Apps.
 

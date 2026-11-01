@@ -23,6 +23,8 @@ Importieren, Exportieren, Verlauf, Suchen sowie Rückgängig und Wiederholen fin
 | | Wiederholen | ⇧⌘Z | Ctrl+Y |
 | | Suchen … | ⌘F | Ctrl+F |
 | Navigation | Zurück / Vor | ⌘[ / ⌘] | Ctrl+[ / Ctrl+] |
+| Hilfe | Tour noch einmal ansehen | | |
+| | Dokumentation | | |
 
 In Textfeldern gelten Widerrufen und Wiederholen für den eingegebenen Text, sonst für die Show. Einstellungen öffnest du mit ⌘, (Mac) beziehungsweise Ctrl+, (Windows).
 

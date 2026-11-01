@@ -85,7 +85,7 @@ A small window appears right at the relevant spot and shows the way to your own 
 The place of the current station sits in a soft spotlight, the rest of the interface is dimmed. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
 
 - **After an interruption** the tour continues where you stopped. The progress belongs to your user account.
-- **Watch it again** – via **Help → "Watch the tour again"**. If the demo show is hidden, this entry shows it again.
+- **Watch it again** – via **Help → "Watch the tour again"** (on the show list). In the desktop app the command is also in the menu bar under **Help**. If the demo show is hidden, this entry shows it again.
 - **At the end** LuxStage asks whether you want to create your own show or look around a bit more. Without an account, **"Create my own show"** leads to registration.
 - The tour is available in the web app and the desktop app from a window width of 768 pixels, not in the smartphone apps.
 
