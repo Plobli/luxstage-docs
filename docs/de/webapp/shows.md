@@ -62,6 +62,7 @@ Das Archivieren kann im Archiv rückgängig gemacht werden. Eine endgültige Lö
 Jedes neue Team bekommt eine **Demo-Show** zum Ausprobieren. Sie steht in der Show-Liste mit der Markierung **„Demo"** und zeigt Kreisliste, Gassentürme, Zugstangen, Standorte und Grundriss mit Beispieldaten.
 
 - **Ändern erlaubt** – du kannst in der Demo-Show alles ausprobieren.
+- **Ohne Notizen ausblenden** – in der Demo-Show ist dieser Filter zu Beginn eingeschaltet, die Kreisliste zeigt also nur Kreise mit Notiz. Mit dem Knopf in der Aktionszeile schaltest du ihn aus. **„Zurücksetzen"** schaltet ihn wieder ein. In anderen Shows ist der Filter davon unabhängig.
 - **Zurücksetzen** – im Hinweisband oben in der Show stellt **„Zurücksetzen"** den Ausgangszustand wieder her. Das gilt für alle im Team.
 - **Ausblenden** – beim Überfahren der Zeile blendet das Augen-Symbol die Demo-Show **nur für dich** aus. Über **Hilfe → „Demo-Show einblenden"** kommt sie zurück.
 - **Nicht löschbar** – die Demo-Show lässt sich weder archivieren noch löschen, auch nicht als Administrator.
@@ -78,12 +79,12 @@ Ein kleines Fenster erscheint direkt an der jeweiligen Stelle und zeigt den Weg 
 
 1. **Show anlegen** – hier startest du später deine eigene Show.
 2. **Kreise übernehmen** – in der Demo sind die Kreise schon da. Bei dir kommen sie vom Pult oder aus einer Datei.
-3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Color**, **Anzahl und Gerät**, **Notizen**, **Prio** und **Position**. Die jeweilige Spalte liegt im Licht.
+3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Color**, **Anzahl und Gerät**, **Notizen**, der Knopf **„Ohne Notizen ausblenden"**, **Prio** und **Position**.
 4. **Bereiche der Show** – hier wechselst du zwischen Aufbaunotizen, Gassentürmen, Obermaschinerie, Fotos, Zeichnung und den weiteren Bereichen.
 5. **Mit dem Handy einleuchten** – das Handy verbindest du mit einem Code. In der Demo ist das nur eine Vorschau.
 6. **Liste drucken** – die Kreisliste als PDF.
 
-Die Stelle der aktuellen Station liegt wie im Lichtkegel eines Verfolgers, der Rest der Oberfläche ist weich abgedunkelt. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
+Ein pulsierender Leuchtpunkt zeigt auf die Stelle der aktuellen Station, die Pfeilspitze des Tour-Fensters weist darauf. Du kannst jederzeit selbst klicken. **„Weiter"** und **„Zurück"** wechseln die Station, **„Beenden"** schließt die Tour.
 
 - **Nach einer Unterbrechung** macht die Tour dort weiter, wo du aufgehört hast. Der Stand gehört zu deinem Benutzerkonto.
 - **Noch einmal ansehen** – über **Hilfe → „Tour noch einmal ansehen"** (auf der Show-Liste). In der Desktop-App findest du den Befehl auch in der Menüleiste unter **Hilfe**. Ist die Demo-Show ausgeblendet, blendet dieser Eintrag sie wieder ein.

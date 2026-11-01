@@ -61,6 +61,7 @@ Archiving can be undone in the archive. Permanent deletion is possible via the a
 Every new team gets a **demo show** to try things out. It appears in the show list with a **"Demo"** badge and contains sample data for the channel list, towers, battens, locations and floor plan.
 
 - **Editing is allowed** – try anything in the demo show.
+- **Hide channels without notes** – in the demo show this filter starts switched on, so the channel list shows only channels with a note. Use the button in the action bar to switch it off. **"Reset"** switches it on again. In other shows the filter is independent.
 - **Reset** – the **"Reset"** button in the banner at the top of the show restores the original state for everyone in the team.
 - **Hide** – hovering over the row shows an eye icon that hides the demo show **for you only**. Bring it back via **Help → "Show demo show"**.
 - **Cannot be deleted** – the demo show can be neither archived nor deleted, not even by an administrator.
@@ -77,12 +78,12 @@ A small window appears right at the relevant spot and shows the way to your own 
 
 1. **Create a show** – this is where you start your own show later.
 2. **Bring in channels** – in the demo the channels are already there. In your own show they come from the console or from a file.
-3. **Edit channels** – the tour goes through the columns one by one: **channel number and address**, **color**, **quantity and device**, **notes**, **prio** and **position**. The column in question is in the light.
+3. **Edit channels** – the tour goes through the columns one by one: **channel number and address**, **color**, **quantity and device**, **notes**, the **"Hide channels without notes"** button, **prio** and **position**.
 4. **Areas of the show** – here you switch between setup notes, towers, fly system, photos, drawing and the other areas.
 5. **Focus with your phone** – you connect your phone with a code. In the demo this is only a preview.
 6. **Print the list** – the channel list as a PDF.
 
-The place of the current station sits in a soft spotlight, the rest of the interface is dimmed. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
+A pulsing dot marks the place of the current station and the tip of the tour window points at it. You can click yourself at any time. **"Next"** and **"Back"** change the station, **"Close"** ends the tour.
 
 - **After an interruption** the tour continues where you stopped. The progress belongs to your user account.
 - **Watch it again** – via **Help → "Watch the tour again"** (on the show list). In the desktop app the command is also in the menu bar under **Help**. If the demo show is hidden, this entry shows it again.
