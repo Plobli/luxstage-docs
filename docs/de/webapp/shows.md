@@ -56,3 +56,24 @@ Beim Überfahren der Show-Zeile erscheint rechts ein **Archivieren-Symbol**. Nac
 ::: warning Achtung
 Das Archivieren kann im Archiv rückgängig gemacht werden. Eine endgültige Löschung ist über den Archiv-Bereich möglich.
 :::
+
+## Demo-Show
+
+Jedes neue Team bekommt eine **Demo-Show** zum Ausprobieren. Sie steht in der Show-Liste mit der Markierung **„Demo"** und zeigt Kreisliste, Gassentürme, Zugstangen, Standorte und Grundriss mit Beispieldaten.
+
+- **Ändern erlaubt** – du kannst in der Demo-Show alles ausprobieren.
+- **Zurücksetzen** – im Hinweisband oben in der Show stellt **„Zurücksetzen"** den Ausgangszustand wieder her. Das gilt für alle im Team.
+- **Ausblenden** – beim Überfahren der Zeile blendet das Augen-Symbol die Demo-Show **nur für dich** aus. Über **Hilfe → „Demo-Show einblenden"** kommt sie zurück.
+- **Nicht löschbar** – die Demo-Show lässt sich weder archivieren noch löschen, auch nicht als Administrator.
+
+::: tip Teams ohne Demo-Show
+Teams, die vor Einführung der Demo-Show angelegt wurden, bekommen sie über **Hilfe → „Demo-Show einblenden"**.
+:::
+
+## Demo ohne Konto
+
+Die Web-App lässt sich unter **demo.luxstage.app** ohne Konto ausprobieren, auch in der Desktop-App über **„Demo ansehen"**. Jede Person bekommt eine eigene Kopie der Demo-Show. Die Demo braucht eine Internetverbindung.
+
+- Die Kopie wird nach **20 Minuten ohne Aktivität** gelöscht. Danach bietet die Demo einen Neustart an.
+- **Zurücksetzen** stellt den Ausgangszustand jederzeit wieder her.
+- Nicht verfügbar sind Fotos hochladen, Import, Einstellungen, Team, Benutzer und Abrechnung.

@@ -55,3 +55,24 @@ Hovering over a show row reveals an **archive icon** on the right. After confirm
 ::: warning Note
 Archiving can be undone in the archive. Permanent deletion is possible via the archive section.
 :::
+
+## Demo show
+
+Every new team gets a **demo show** to try things out. It appears in the show list with a **"Demo"** badge and contains sample data for the channel list, towers, battens, locations and floor plan.
+
+- **Editing is allowed** – try anything in the demo show.
+- **Reset** – the **"Reset"** button in the banner at the top of the show restores the original state for everyone in the team.
+- **Hide** – hovering over the row shows an eye icon that hides the demo show **for you only**. Bring it back via **Help → "Show demo show"**.
+- **Cannot be deleted** – the demo show can be neither archived nor deleted, not even by an administrator.
+
+::: tip Teams without a demo show
+Teams created before the demo show was introduced get it via **Help → "Show demo show"**.
+:::
+
+## Demo without an account
+
+You can try the web app at **demo.luxstage.app** without an account, also in the desktop app via **"View demo"**. Everyone gets their own copy of the demo show. The demo needs an internet connection.
+
+- The copy is deleted after **20 minutes of inactivity**. The demo then offers a restart.
+- **Reset** restores the original state at any time.
+- Not available: uploading photos, import, settings, team, users and billing.
