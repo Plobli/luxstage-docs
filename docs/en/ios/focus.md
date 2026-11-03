@@ -1,6 +1,6 @@
 # Focus (iOS)
 
-The **Focus** tab is the central focusing view of the show. It displays all channels of the production in a list, grouped by **positions** (e.g. "FOH SL Slot").
+The **Focus** tab is the central focusing view of the show. It displays all channels of the production in a list sorted by placement: **towers** first (by slot), then **locations**, then **fly system** (by position on the bar), and finally unplaced channels, grouped by **position** (e.g. "FOH SL Slot"). The **stack icon** in the channel list switches to sorting by stage position and number, as does **Sort by number** in [Settings](./settings#channel-list).
 
 ## Channel display
 

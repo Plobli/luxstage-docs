@@ -14,6 +14,10 @@ Shows your current team. **Change team** signs you in to another team directly, 
 
 Use the **Language** menu to select the display language of the app (German or English).
 
+## Channel list
+
+The **Sort by number** switch sets the order of the channel list. Off (default): channels follow their placement (towers, locations, fly system). On: channels follow stage position and number.
+
 ## Remote connection
 
 The **Remote connection** subpage holds the venues. The list is stored **locally on the device**. Server suggestions (login required) can be added with a tap, and you can add your own venues with a name and IP. Tapping a venue makes it the active connection for the whole app.

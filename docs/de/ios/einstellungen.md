@@ -14,6 +14,10 @@ Zeigt dein aktuelles Team. Über **Team wechseln** meldest du dich direkt in ein
 
 Über das **Sprache**-Menü lässt sich die Anzeigesprache der App wählen (Deutsch oder Englisch).
 
+## Kreisliste
+
+Der Schalter **Nach Nummer sortieren** legt die Reihenfolge der Kreisliste fest. Aus (Standard): Kreise stehen nach Platzierung im Aufbau (Gassentürme, Standorte, Obermaschinerie). An: Kreise stehen nach Bühnenposition und Nummer.
+
 ## Remote-Verbindung
 
 Die Unterseite **Remote-Verbindung** enthält die Bühnen. Die Liste liegt **lokal auf dem Gerät**. Server-Vorschläge (nur mit Login) lassen sich per Tipp übernehmen, eigene Bühnen mit Name und IP ergänzen. Ein Tipp auf eine Bühne macht sie zur aktiven Verbindung für alle Bereiche der App.

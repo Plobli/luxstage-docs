@@ -1,6 +1,6 @@
 # Kreisliste (iOS)
 
-Der **Kreisliste**-Tab (früher „Einleuchten") ist die zentrale Fokussier-Ansicht der Show. Er zeigt die Kreise der Produktion, gruppiert nach **Bühnenpositionen** (z. B. „FOH SL Slot"). Der Umschalter **Mit Notiz / Alle** wählt, ob nur Kreise mit Notiz oder alle erscheinen. Kreise bearbeitest du per Lang-Drücken, siehe [Bearbeiten](./bearbeiten).
+Der **Kreisliste**-Tab (früher „Einleuchten") ist die zentrale Fokussier-Ansicht der Show. Er zeigt die Kreise der Produktion nach Platzierung sortiert: erst **Gassentürme** (nach Slot), dann **Standorte**, dann **Obermaschinerie** (nach Position auf dem Zug), zuletzt nicht platzierte Kreise, gruppiert nach **Bühnenposition** (z. B. „FOH SL Slot"). Das **Stapel-Symbol** in der Kreisliste schaltet auf Sortierung nach Bühnenposition und Nummer um, ebenso **Nach Nummer sortieren** in den [Einstellungen](./einstellungen#kreisliste). Der Umschalter **Mit Notiz / Alle** wählt, ob nur Kreise mit Notiz oder alle erscheinen. Kreise bearbeitest du per Lang-Drücken, siehe [Bearbeiten](./bearbeiten).
 
 ## Kreisanzeige
 
