@@ -82,6 +82,7 @@ Jedes neue Team bekommt eine **Demo-Show** zum Ausprobieren. Sie steht in der Sh
 - **Ändern erlaubt** – du kannst in der Demo-Show alles ausprobieren.
 - **Ohne Notizen ausblenden** – in der Demo-Show ist dieser Filter zu Beginn eingeschaltet, die Kreisliste zeigt also nur Kreise mit Notiz. Mit dem Knopf in der Aktionszeile schaltest du ihn aus. **„Zurücksetzen"** schaltet ihn wieder ein. In anderen Shows ist der Filter davon unabhängig.
 - **Zurücksetzen** – im Hinweisband oben in der Show stellt **„Zurücksetzen"** den Ausgangszustand wieder her. Das gilt für alle im Team.
+- **Neue Version** – gibt es eine überarbeitete Demo-Show, steht im Hinweisband **„Es gibt eine neue Version der Demo-Show"**. **„Aktualisieren"** ersetzt dann den Inhalt (Änderungen gehen verloren, auch für alle im Team). Ohne Klick bleibt alles, wie es ist.
 - **Ausblenden** – beim Überfahren der Zeile blendet das Augen-Symbol die Demo-Show **nur für dich** aus. Über **Hilfe → „Demo-Show einblenden"** kommt sie zurück.
 - **Nicht löschbar** – die Demo-Show lässt sich weder archivieren noch löschen, auch nicht als Administrator.
 

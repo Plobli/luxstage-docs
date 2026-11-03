@@ -81,6 +81,7 @@ Every new team gets a **demo show** to try things out. It appears in the show li
 - **Editing is allowed** – try anything in the demo show.
 - **Hide channels without notes** – in the demo show this filter starts switched on, so the channel list shows only channels with a note. Use the button in the action bar to switch it off. **"Reset"** switches it on again. In other shows the filter is independent.
 - **Reset** – the **"Reset"** button in the banner at the top of the show restores the original state for everyone in the team.
+- **New version** – when a revised demo show is available, the banner says **"A new version of the demo show is available."** **"Update"** then replaces the content (changes are lost, for everyone in the team). Without a click nothing changes.
 - **Hide** – hovering over the row shows an eye icon that hides the demo show **for you only**. Bring it back via **Help → "Show demo show"**.
 - **Cannot be deleted** – the demo show can be neither archived nor deleted, not even by an administrator.
 
