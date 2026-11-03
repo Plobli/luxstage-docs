@@ -74,6 +74,14 @@ You can add your own annotation to any channel note. Only you can see it. The te
 - Not visible to others, in version history, in PDF/CSV export or in templates.
 - No live sync, no show lock.
 
+## Mark a note as a hint
+
+Some notes are a task rather than something to focus, for example "turn away". Click the **wrench icon** on the right of the note. The channel is now a hint and the icon turns orange. Click again to remove the mark.
+
+- In the smartphone apps a hint channel has no on/off switch and does not count towards progress.
+- Consecutive hints with the same text appear there as one row with one check for all.
+- Without note text there is no hint: if you delete the text, the mark is removed.
+
 ## Toggle channel status
 
 The **channel number** appears in three colours:

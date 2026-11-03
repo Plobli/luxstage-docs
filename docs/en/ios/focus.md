@@ -25,6 +25,10 @@ Tapping a pill opens a **quick look** without switching tabs: for a tower you se
 
 The status in the top right shows how many channels have already been focused, e.g. `64 · 50%`.
 
+### Hints
+
+Channels whose note you marked as a **hint** in the web app (for example "turn away") are not fixtures to focus. They appear as a slim orange row without an on/off switch. Consecutive hints with the same text form one row, e.g. "136–147 · 12". One tap checks them all. They do not count towards progress. A separate count with a flag sits next to it, e.g. `⚑ 0/1`.
+
 ## Groups
 
 If you created circuit groups in the web app, the list shows one card per group with name, circuit range and counter. A circuit is listed under the first group it belongs to; other groups show as small chips.

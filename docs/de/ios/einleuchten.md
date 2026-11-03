@@ -25,6 +25,10 @@ Ein Tipp auf eine Pille öffnet einen **Schnellblick** ohne Tab-Wechsel: Bei ein
 
 Oben rechts zeigt der Status, wie viele Kreise bereits fokussiert wurden, z. B. `64 · 50%`.
 
+### Hinweise
+
+Kreise, deren Notiz du in der Web-App als **Hinweis** markiert hast (zum Beispiel „Wegdrehen“), sind keine Scheinwerfer zum Einleuchten. Sie erscheinen als schmale orange Zeile ohne Ein/Aus. Aufeinanderfolgende Hinweise mit gleichem Text sind eine Zeile, z. B. „136–147 · 12“. Ein Tipp hakt alle ab. Im Fortschritt zählen sie nicht. Daneben steht eine eigene Zählung mit Flagge, z. B. `⚑ 0/1`.
+
 ## Gruppen
 
 Hast du in der Web-App Kreisgruppen angelegt, zeigt die Liste für jede Gruppe eine Karte mit Name, Kreisbereich und Zähler. Ein Kreis steht unter der ersten Gruppe, zu der er gehört; weitere Gruppen erscheinen als kleine Chips.

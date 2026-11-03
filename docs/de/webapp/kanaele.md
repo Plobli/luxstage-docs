@@ -74,6 +74,14 @@ Zu jeder Kreisnotiz kannst du eine eigene Anmerkung schreiben. Nur du siehst sie
 - Nicht sichtbar für andere, im Versionsverlauf, in PDF-/CSV-Export und in Vorlagen.
 - Kein Live-Sync, keine Show-Sperre.
 
+## Notiz als Hinweis markieren
+
+Manche Notizen sind eine Aufgabe, kein Einleuchten, zum Beispiel „Wegdrehen“. Klicke dafür rechts in der Notiz auf das **Werkzeug-Symbol**. Der Kreis ist dann ein Hinweis, das Symbol wird orange. Nochmal klicken hebt die Markierung auf.
+
+- In den Smartphone-Apps hat ein Hinweis-Kreis kein Ein/Aus und zählt nicht im Fortschritt.
+- Direkt aufeinanderfolgende Hinweise mit gleichem Text erscheinen dort als eine Zeile mit einem Haken für alle.
+- Ohne Notiztext gibt es keinen Hinweis: Wird der Text gelöscht, fällt die Markierung weg.
+
 ## Kreis-Status umschalten
 
 Die **Kreisnummer** erscheint in drei Farben:
