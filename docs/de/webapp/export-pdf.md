@@ -6,7 +6,7 @@ Exportiert den vollständigen Kreisplan als druckfertiges **PDF-Dokument**. Der 
 
 - Showname und Datum
 - Vollständige Kreistabelle mit allen Bühnenpositionen
-- Zeichnung (sofern vorhanden)
+- Zeichnung (sofern vorhanden), auf Wunsch im selbst festgelegten [Druckbereich](./grundriss#druckbereich-festlegen)
 - Fotos (sofern vorhanden, Anordnung gemäß der Einstellung „Fotos pro Druckseite")
 
 ::: tip Hinweise zu Fotos im PDF

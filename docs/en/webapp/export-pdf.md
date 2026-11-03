@@ -6,7 +6,7 @@ Exports the complete channel plan as a print-ready **PDF document**. The export 
 
 - Show name and date
 - Complete channel table with all positions
-- Drawing (if present)
+- Drawing (if present), optionally limited to your own [print area](./floor-plan#set-the-print-area)
 - Photos (if present, quantity according to the "Photos per print page" setting)
 
 ::: tip Notes on photos in the PDF

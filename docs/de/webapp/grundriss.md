@@ -19,6 +19,7 @@ Alle Werkzeuge tragen eine Beschriftung neben dem Symbol und sind in Gruppen sor
 | ⊙ Kreis | **Kreis platzieren** | C |
 | ↑ Upload | **Hintergrundbild hochladen** | – |
 | ⊠ Entfernen | **Hintergrundbild entfernen** | – |
+| ▭ Druckbereich | **Druckbereich** festlegen (Knopf unten rechts) | P (um alle Elemente legen) |
 | ↓ Export | **Als PNG exportieren** | – |
 
 ### Untere Werkzeuge
@@ -86,6 +87,20 @@ Ein neues Hintergrundbild ersetzt das alte sofort und ohne Rückfrage. Anders al
 :::
 
 Zum Entfernen: Klick auf das **⊠**-Symbol.
+
+## Druckbereich festlegen
+
+Der Druckbereich bestimmt, welchen Ausschnitt der Zeichnung das PDF zeigt. Ohne eigenen Bereich legt LuxStage den Ausschnitt automatisch um alle Elemente.
+
+1. Knopf **Druckbereich** unten rechts anklicken. Ein Rahmen erscheint.
+2. Rahmen verschieben oder an den Ecken aufziehen.
+3. Optional: **An Inhalt anpassen** (oder Taste **P**) legt den Rahmen automatisch um alle Elemente. **Entfernen** setzt zurück auf automatisch.
+
+Ein Klick auf den Knopf klappt das Untermenü ein oder aus. Eingeklappt sind auch die Griffe ausgeblendet. **Plan einpassen** (**F**) zoomt auf den Druckbereich.
+
+::: info Hinweis
+Der Rahmen ist nur Hilfslinie und erscheint nicht im PNG-Export. Das PDF zeigt genau den Ausschnitt im Rahmen.
+:::
 
 ## Als PNG exportieren
 

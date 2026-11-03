@@ -41,5 +41,6 @@ More desktop app shortcuts (import, export, history) are listed on the [Desktop 
 | Select all | Ctrl+A |
 | Cancel tool / clear selection | Esc |
 | Show/hide grid | G |
+| Fit print area around all elements | P |
 
 Details in [Drawing](./floor-plan).

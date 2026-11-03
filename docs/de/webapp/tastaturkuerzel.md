@@ -41,6 +41,7 @@ Weitere Kürzel der Desktop-App (Importieren, Exportieren, Verlauf) stehen auf d
 | Alles auswählen | Ctrl+A |
 | Werkzeug abbrechen / Auswahl aufheben | Esc |
 | Gitternetz ein-/ausblenden | G |
+| Druckbereich um alle Elemente legen | P |
 
 Details dazu in [Zeichnung](./grundriss).
 

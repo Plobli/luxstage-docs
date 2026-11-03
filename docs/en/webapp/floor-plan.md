@@ -19,6 +19,7 @@ All tools carry a text label next to the icon and are grouped (navigation, draw,
 | ⊙ Circle | **Place channel** | C |
 | ↑ Upload | **Upload background image** | – |
 | ⊠ Remove | **Remove background image** | – |
+| ▭ Print area | **Set print area** (button bottom right) | P (fit around all elements) |
 | ↓ Export | **Export as PNG** | – |
 
 ### Bottom tools
@@ -76,6 +77,20 @@ A new background image replaces the old one immediately, without confirmation. U
 :::
 
 To remove: click the **⊠** icon.
+
+## Set the print area
+
+The print area decides which part of the drawing the PDF shows. Without your own area, LuxStage automatically frames all elements.
+
+1. Click the **Print area** button at the bottom right. A frame appears.
+2. Move the frame or drag its corners to resize it.
+3. Optional: **Fit to content** (or press **P**) automatically frames all elements. **Remove** resets to automatic.
+
+Clicking the button expands or collapses the submenu. When collapsed, the handles are hidden too. **Fit plan** (**F**) zooms to the print area.
+
+::: info Note
+The frame is only a guide and does not appear in the PNG export. The PDF shows exactly the section inside the frame.
+:::
 
 ## Export as PNG
 
