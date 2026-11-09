@@ -94,7 +94,7 @@ Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kreistabelle
 
 ## Mehrere Kreise gemeinsam ändern
 
-Über die Checkbox links in der Zeile (oder per Maus-Drag über die Checkbox-Spalte) lassen sich mehrere Kreise markieren. Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:
+Ein Klick auf eine Zeile markiert sie und blendet die Leiste ein. Mit **Shift** markierst du mehrere Zeilen am Stück, mit **Cmd/Strg** einzelne Zeilen dazu, wie in Excel. Alternativ: Checkbox links in der Zeile (oder Maus-Drag über die Checkbox-Spalte). Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:
 
 - **Position**, **Gerät**, **Color**, **Prio** – Wert für alle gewählten Kreise setzen
 - **Notiz** – bestehende Notizen **ersetzen** oder den Text **anhängen**

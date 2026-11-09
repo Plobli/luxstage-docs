@@ -94,7 +94,7 @@ The same legend is also available as inline help (help icon) next to the channel
 
 ## Edit several channels at once
 
-Use the checkbox at the left of a row (or drag the mouse over the checkbox column) to select several channels. The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
+Clicking a row selects it and shows the bar. Hold **Shift** to select a range of rows, **Cmd/Ctrl** to add single rows, as in Excel. Alternatively use the checkbox at the left of a row (or drag the mouse over the checkbox column). The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
 
 - **Position**, **Device**, **Color**, **Prio** – set a value for all selected channels
 - **Note** – **replace** existing notes or **append** text
