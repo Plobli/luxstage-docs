@@ -87,7 +87,7 @@ Es werden ausschließlich **fehlende** Elemente ergänzt. Bereits vorhandene Abs
 
 ## Kreisgruppen in der Vorlage
 
-Im Tab **Kreise** der Vorlage legt **Gruppen** Kreisgruppen an (z. B. „Rücklicht“ = 137-148), genau wie in einer Show. Die Gruppen gehören zur Vorlage und werden über die **Kreisnummer** zugeordnet.
+Der Tab **Gruppen** der Vorlage zeigt alle Kreisgruppen (z. B. „Rücklicht“ = 137-148) mit ihren Kreisen auf einen Blick. Ein Klick auf eine Gruppe öffnet sie zum Bearbeiten; **Gruppen** legt neue an, genau wie in einer Show. Die Gruppen gehören zur Vorlage und werden über die **Kreisnummer** zugeordnet.
 
 - Neue Show aus der Vorlage mit Kreis-Import: Die Gruppen kommen mit.
 - Bestehende Shows: **„Gruppen auf alle Shows anwenden“** ergänzt Gruppen, die in der Show noch fehlen (Vergleich nach Name). Vorhandene Gruppen bleiben unverändert. Kreise, die es in der Show nicht gibt, werden übersprungen.

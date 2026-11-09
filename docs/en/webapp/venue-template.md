@@ -96,7 +96,7 @@ Only **missing** elements are added. Sections, battens, or lighting towers a sho
 
 ## Circuit groups in the template
 
-In the **Channels** tab of the template, **Groups** creates circuit groups (e.g. "Backlight" = 137-148), just like in a show. Groups belong to the template and are matched by **circuit number**.
+The template's **Groups** tab lists all circuit groups (e.g. "Backlight" = 137-148) with their circuits at a glance. Click a group to edit it; **Groups** creates new ones, just like in a show. Groups belong to the template and are matched by **circuit number**.
 
 - New show from the template with channel import: the groups come along.
 - Existing shows: **"Apply groups to all shows"** adds groups that are still missing in the show (matched by name). Existing groups stay unchanged. Circuits that do not exist in the show are skipped.
