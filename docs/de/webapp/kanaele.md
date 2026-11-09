@@ -92,6 +92,16 @@ Die **Kreisnummer** erscheint in drei Farben:
 
 Dieselbe Legende steht auch als Inline-Hilfe (Hilfe-Icon) neben der Kreistabelle in der App.
 
+## EOS-Import: gelesene Felder
+
+Der Import einer EOS-CSV übernimmt pro Kreis:
+
+- **Kreisnummer, Adresse, Gerät** (Hersteller und Typ) in die Kreisliste
+- **Aktiv-Status** (Intensität > 0) und **Moving Lights** (Pan/Tilt)
+- **Alle weiteren Patch-Felder**, soweit gefüllt: Label, Notes, Text1–Text10, Gel, Gobo, Dimmerkurve, Position und Ausrichtung
+
+Das gilt für „Eos-CSV“ und „CSV“ (Eos-Export wird erkannt; ANSI-Dateien mit Umlauten werden korrekt gelesen). Die Zusatzfelder erscheinen als Tooltip an der Geräte-Zelle. Die Kreissuche findet auch Texte darin. Bei jedem Import gilt der aktuelle Pultstand.
+
 ## Mehrere Kreise gemeinsam ändern
 
 Ein Klick auf eine Zeile markiert sie und blendet die Leiste ein. Mit **Shift** markierst du mehrere Zeilen am Stück, mit **Cmd/Strg** einzelne Zeilen dazu, wie in Excel. Alternativ: Checkbox links in der Zeile (oder Maus-Drag über die Checkbox-Spalte). Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:

@@ -92,6 +92,16 @@ The **channel number** appears in three colours:
 
 The same legend is also available as inline help (help icon) next to the channel table in the app.
 
+## EOS import: fields read
+
+Importing an EOS CSV takes over per circuit:
+
+- **Channel number, address, device** (manufacturer and type) into the circuit list
+- **Active state** (intensity > 0) and **moving lights** (pan/tilt)
+- **All other patch fields**, when filled: Label, Notes, Text1–Text10, Gel, Gobo, dimmer curve, position and orientation
+
+This applies to “Eos CSV” and “CSV” (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
+
 ## Edit several channels at once
 
 Clicking a row selects it and shows the bar. Hold **Shift** to select a range of rows, **Cmd/Ctrl** to add single rows, as in Excel. Alternatively use the checkbox at the left of a row (or drag the mouse over the checkbox column). The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
