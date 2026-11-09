@@ -5,9 +5,26 @@
 Exportiert den vollständigen Kreisplan als druckfertiges **PDF-Dokument**. Der Export enthält:
 
 - Showname und Datum
+- Notizen der Show
+- **Obermaschinerie:** je Zug ein Lineal mit den Geräten und eine Tabelle (Nummer, Gerät, Adresse, Position, Farbe, Notiz)
+- **Gassentürme:** je Turm eine Karte mit Belegung und Slots
+- **Standorte:** je Standort eine Aufbauliste seiner Kreise
 - Vollständige Kreistabelle mit allen Bühnenpositionen
 - Zeichnung (sofern vorhanden), auf Wunsch im selbst festgelegten [Druckbereich](./grundriss#druckbereich-festlegen)
 - Fotos (sofern vorhanden, Anordnung gemäß der Einstellung „Fotos pro Druckseite")
+
+::: tip So liest du die Bereiche
+- Eine dicke Linie trennt die Bereiche **Obermaschinerie**, **Gassentürme** und **Standorte**.
+- Gerätetypen haben in allen Bereichen dieselbe Farbe. Die Typenliste oben im Bereich nennt Name und Anzahl.
+- Filterfarben erscheinen wie in der Web-App als farbige Pille mit Code, Frost-Filter schraffiert.
+- Lange Gerätenamen brechen um: auf zwei Zeilen in den Tabellen, auf drei Zeilen in den Gassenturm-Karten.
+- Die Spalte **Notiz** erscheint nur, wenn mindestens ein Gerät eine Notiz hat. Sonst nutzt die Tabelle die ganze Breite.
+- Ein Zug oder Standort wird nur dann über zwei Seiten geteilt, wenn er höher als eine Seite ist.
+:::
+
+::: info Persönliche Notizen
+Deine [persönlichen Notizen](./kanaele) sind nie im PDF. Nur die gemeinsamen Kreisnotizen erscheinen.
+:::
 
 ::: tip Hinweise zu Fotos im PDF
 Fotos, deren Datei nicht mehr lesbar ist, werden stillschweigend übersprungen. Lange Foto-Beschriftungen werden einzeilig abgeschnitten (mit „…").
