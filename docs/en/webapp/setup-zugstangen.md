@@ -35,11 +35,11 @@ In the dialog, **"Dimensions from"** (Left, Center, Right) sets where positions 
 
 ## Move a fixture
 
-Drag the marker along the batten with the mouse button held down.
+Drag the marker along the batten with the mouse button held down. The position snaps in 5 cm steps.
 
 ## Edit a fixture
 
-Clicking the marker opens a dialog for a note about the fixture (e.g. "3m rope, special colour…"). From there you can also jump directly **"To channel →"** in the channel table.
+Clicking the marker opens a dialog where you can type the **measurement** directly (e.g. 3.25 m, measured per the chosen dimensioning) and add a note about the fixture (e.g. "3m rope, special colour…"). From there you can also jump directly **"To channel →"** in the channel table.
 
 ## Save as template
 
@@ -66,6 +66,7 @@ Elements can be reordered in the list via drag & drop.
 Using the icons on the right of each element row (visible on hover):
 
 - **Pencil** – change name, length, and dimension display
+- **Copy** – duplicate the element (properties and free elements without a channel; channels are not copied)
 - **Trash** – delete the element after confirmation
 
 ## Fixed elements in the drawing

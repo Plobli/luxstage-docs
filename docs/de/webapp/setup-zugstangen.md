@@ -35,11 +35,11 @@ Im Dialog legt **„Bemaßung von"** (Links, Mitte, Rechts) fest, von wo aus die
 
 ## Scheinwerfer verschieben
 
-Marker mit gedrückter Maustaste entlang der Stange ziehen.
+Marker mit gedrückter Maustaste entlang der Stange ziehen. Die Position rastet in 5-cm-Schritten ein.
 
 ## Scheinwerfer bearbeiten
 
-Klick auf den Marker öffnet einen Dialog für eine Anmerkung zum Scheinwerfer (z. B. „3m Seil, Sonderfarbe…"). Von dort aus auch direkter Sprung **„Zum Kreis →"** in die Kreistabelle möglich.
+Klick auf den Marker öffnet einen Dialog. Dort lässt sich das **Maß** direkt eintippen (z. B. 3,25 m, gemessen nach der gewählten Bemaßung) und eine Anmerkung zum Scheinwerfer eintragen (z. B. „3m Seil, Sonderfarbe…"). Von dort aus auch direkter Sprung **„Zum Kreis →"** in die Kreistabelle möglich.
 
 ## Scheinwerfer entfernen
 
@@ -58,6 +58,7 @@ Elemente lassen sich per Drag & Drop in der Liste neu anordnen.
 Über die Symbole rechts an jeder Element-Zeile (bei Hover sichtbar):
 
 - **Stift** – Name, Länge und Bemaßungsanzeige ändern
+- **Kopieren-Symbol** – Element duplizieren (Eigenschaften und freie Elemente ohne Kreis; Kreise werden nicht mitkopiert)
 - **Papierkorb** – Element nach Bestätigung löschen
 
 ## Feste Elemente in der Zeichnung
