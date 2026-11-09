@@ -100,7 +100,7 @@ Importing an EOS CSV takes over per circuit:
 - **Active state** (intensity > 0) and **moving lights** (pan/tilt)
 - **All other patch fields**, when filled: Label, Notes, Text1–Text10, Gel, Gobo, dimmer curve, position and orientation
 
-This applies to “Eos CSV” and “CSV” (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
+This applies to “Eos CSV” and “CSV”. Console sync (desktop app) takes over label and notes; Eos does not send the other fields via OSC. Eos CSV and CSV (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
 
 ## Edit several channels at once
 

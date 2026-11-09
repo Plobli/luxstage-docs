@@ -100,7 +100,7 @@ Der Import einer EOS-CSV übernimmt pro Kreis:
 - **Aktiv-Status** (Intensität > 0) und **Moving Lights** (Pan/Tilt)
 - **Alle weiteren Patch-Felder**, soweit gefüllt: Label, Notes, Text1–Text10, Gel, Gobo, Dimmerkurve, Position und Ausrichtung
 
-Das gilt für „Eos-CSV“ und „CSV“ (Eos-Export wird erkannt; ANSI-Dateien mit Umlauten werden korrekt gelesen). Die Zusatzfelder erscheinen als Tooltip an der Geräte-Zelle. Die Kreissuche findet auch Texte darin. Bei jedem Import gilt der aktuelle Pultstand.
+Das gilt für „Eos-CSV“ und „CSV“. Der Pult-Sync (Desktop-App) übernimmt Label und Notes; die übrigen Felder liefert Eos per OSC nicht. Eos-CSV und CSV (Eos-Export wird erkannt; ANSI-Dateien mit Umlauten werden korrekt gelesen). Die Zusatzfelder erscheinen als Tooltip an der Geräte-Zelle. Die Kreissuche findet auch Texte darin. Bei jedem Import gilt der aktuelle Pultstand.
 
 ## Mehrere Kreise gemeinsam ändern
 
