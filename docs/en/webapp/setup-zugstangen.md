@@ -69,6 +69,14 @@ Using the icons on the right of each element row (visible on hover):
 - **Copy** – duplicate the element (properties and free elements without a channel; channels are not copied)
 - **Trash** – delete the element after confirmation
 
+## Type the channel number right away
+
+After you click a spot on the batten (or a tower slot), the cursor jumps into the channel search. Type the number, press Enter, done.
+
+## Mounting reference
+
+When you place a fixture on a batten (or lighting tower), the channel remembers automatically where it hangs. You enter nothing by hand. The assignment survives when an app saves the channel list.
+
 ## Fixed elements in the drawing
 
 Elements placed on the floor plan in the venue template appear automatically at the same position in every show that uses the template floor plan. Only additional elements need to be placed by hand.

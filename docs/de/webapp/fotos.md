@@ -24,6 +24,8 @@ Alle hochgeladenen Fotos werden als Galerie-Raster dargestellt. Die Anzahl der v
 
 Klick auf ein Foto öffnet die **Vollbild-Ansicht (Lightbox)** mit Pfeil-Navigation zum vorherigen/nächsten Foto.
 
+Unter jedem Foto steht der **Dateiname**. Über **Sortierung** ordnest du die Fotos nach **Eigener Reihenfolge**, **Dateiname** oder **Kreisnummer**.
+
 Jedes Foto bietet zwei Felder:
 
 - **Beschriftung** – Freitext zur Dokumentation, z. B. Bühnenposition, Gerät oder Hinweis

@@ -4,7 +4,7 @@ Click the **"Export"** button in the top menu bar of a show → select **"PDF"**
 
 Exports the complete channel plan as a print-ready **PDF document**. The export contains:
 
-- Show name and date
+- Show name, date and show time
 - Show notes
 - **Fly system:** a ruler with the fixtures and a table (number, device, address, position, color, note) for each batten
 - **Lighting towers:** a card per tower with fill level and slots
@@ -14,6 +14,10 @@ Exports the complete channel plan as a print-ready **PDF document**. The export 
 - Photos (if present, quantity according to the "Photos per print page" setting)
 
 ::: tip How to read the sections
+- Multiple fixtures appear as "3x PAR64" at the fixture name. Quantity 1 shows no prefix.
+- The **2nd gel** appears as its own colour pill next to the first.
+- Battens carry their number ("Zug 7").
+- Below each photo you see the channels it belongs to ("Channels: 12, 14, 21").
 - A thick line separates **Fly system**, **Lighting towers** and **Locations**.
 - Device types keep the same color in every section. The type list at the top of a section shows name and count.
 - Filter colors appear as in the web app: a colored pill with its code, frost filters hatched.

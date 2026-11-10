@@ -18,7 +18,7 @@ Ein Tippen auf eine Kachel öffnet die Show direkt im **Aufbau**-Tab.
 
 ## Show bearbeiten
 
-Kachel **lang drücken** → Show-Daten (Name, Datum, Spielzeit, Spielstätte, aktive Bereiche) ändern oder die Show archivieren. Archivierte Shows lassen sich in der Web-App wiederherstellen. Siehe auch [Bearbeiten](./bearbeiten).
+Kachel **lang drücken** → Show-Daten (Name, Datum, Spielzeit, Spielstätte, aktive Bereiche) ändern oder die Show archivieren. Archivierte Shows stellst du im Menü der Shows-Liste oder in der Web-App wieder her. Siehe auch [Bearbeiten](./bearbeiten).
 
 ::: tip
 Wird ein Spielort ausgewählt, übernimmt die neue Show automatisch die Kreisstruktur und die Zeichnung des gewählten Spielorts.

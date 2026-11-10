@@ -7,7 +7,7 @@ Importiert Kreisdaten aus einer CSV-Datei. Geeignet für den Import aus Excel od
 - **Trennzeichen:** Semikolon (`;`)
 - **Encoding:** UTF-8
 - **Erste Zeile:** Kopfzeile, wird beim Import übersprungen
-- **Spaltenreihenfolge** (feststehend, keine Namens-Erkennung):
+- **Spaltenreihenfolge** (die ersten sechs Spalten feststehend):
 
 | Position | Spalte |
 |----------|--------|
@@ -17,6 +17,8 @@ Importiert Kreisdaten aus einer CSV-Datei. Geeignet für den Import aus Excel od
 | 4 | Bühnenposition |
 | 5 | Farbe |
 | 6 | Notizen |
+
+Zusätzlich liest der Import die Spalten **Farbe 2**, **Anzahl**, **Prio** und **Hinweis** (`1`/`0`), wenn sie in der Kopfzeile stehen, so wie der [CSV-Export](./export-csv) sie schreibt. Fehlen sie, bleibt alles wie bisher.
 
 Zeilen ohne Kreisnummer werden übersprungen.
 

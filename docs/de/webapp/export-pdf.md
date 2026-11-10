@@ -4,7 +4,7 @@
 
 Exportiert den vollständigen Kreisplan als druckfertiges **PDF-Dokument**. Der Export enthält:
 
-- Showname und Datum
+- Showname, Datum und Spielzeit
 - Notizen der Show
 - **Obermaschinerie:** je Zug ein Lineal mit den Geräten und eine Tabelle (Nummer, Gerät, Adresse, Position, Farbe, Notiz)
 - **Gassentürme:** je Turm eine Karte mit Belegung und Slots
@@ -14,6 +14,10 @@ Exportiert den vollständigen Kreisplan als druckfertiges **PDF-Dokument**. Der 
 - Fotos (sofern vorhanden, Anordnung gemäß der Einstellung „Fotos pro Druckseite")
 
 ::: tip So liest du die Bereiche
+- Mehrfach vorhandene Geräte stehen als „3x PAR64“ am Gerätenamen. Bei Anzahl 1 fehlt der Zusatz.
+- Die **2. Folie** erscheint als eigene Farbpille neben der ersten.
+- Zugstangen tragen ihre Zugnummer („Zug 7“).
+- Unter jedem Foto steht, zu welchen Kreisen es gehört („Kreise: 12, 14, 21“).
 - Eine dicke Linie trennt die Bereiche **Obermaschinerie**, **Gassentürme** und **Standorte**.
 - Gerätetypen haben in allen Bereichen dieselbe Farbe. Die Typenliste oben im Bereich nennt Name und Anzahl.
 - Filterfarben erscheinen wie in der Web-App als farbige Pille mit Code, Frost-Filter schraffiert.

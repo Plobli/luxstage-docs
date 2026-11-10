@@ -114,3 +114,25 @@ Saving works like any other channel list change, and undo still applies. If the 
 ::: warning Empty values overwrite
 If a value is empty in the template, the show's value is cleared when applied.
 :::
+
+## Colour 2 in the template
+
+The template also stores the **2nd gel** (column "2nd gel"). It comes along when you create a show. You decide per show whether to use it.
+
+## Locations in the template
+
+The **Locations** tab of the template stores locations with name, type, place, note and assigned channels. Channels are matched by **channel number**.
+
+- New show from the template with channel import: the locations come along.
+- Existing shows: **"Apply locations to all shows"** adds missing locations. Existing ones stay unchanged.
+
+## Save a show's channels as a template
+
+Use **"Save channels as template"** in the show menu. Saved: channel, address, fixture, position, colour, colour 2, note and quantity. Priority and hint stay in the show. Optionally tick **"Save locations too"**.
+
+- **Replace template channels:** all channels in the template are replaced by those of the show.
+- **Merge by channel number:** matching numbers are overwritten, new ones added. Other template channels stay.
+
+::: warning Replace deletes
+Replacing removes the template's previous channels.
+:::

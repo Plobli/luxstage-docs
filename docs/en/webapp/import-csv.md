@@ -7,7 +7,7 @@ Imports channel data from a CSV file. Suitable for importing from Excel or other
 - **Delimiter:** Semicolon (`;`)
 - **Encoding:** UTF-8
 - **First row:** Header row, skipped during import
-- **Column order** (fixed, no name-based detection):
+- **Column order** (the first six columns are fixed):
 
 | Position | Column |
 |----------|--------|
@@ -17,6 +17,8 @@ Imports channel data from a CSV file. Suitable for importing from Excel or other
 | 4 | Position |
 | 5 | Colour |
 | 6 | Notes |
+
+The import also reads **Colour 2**, **Quantity**, **Priority** and **Hint** (`1`/`0`) when they appear in the header row, exactly as the [CSV export](./export-csv) writes them. If they are missing, nothing changes.
 
 Rows without a channel number are skipped.
 

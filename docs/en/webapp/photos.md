@@ -24,6 +24,8 @@ All uploaded photos are displayed as a gallery grid. The number of photos is sho
 
 Clicking a photo opens the **fullscreen view (lightbox)** with arrow navigation to the previous/next photo.
 
+The **file name** appears below each photo. **Sort** orders photos by **Own order**, **File name** or **Channel number**.
+
 Each photo has two fields:
 
 - **Caption** – Free text for documentation, e.g. position, fixture or note

@@ -22,4 +22,4 @@ If a venue is selected, the new show automatically inherits the channel structur
 
 ## Editing
 
-**+** starts a wizard to create a show. Long-press a tile to edit the show details or archive the show. See [Editing in the apps](./editing).
+**+** starts a wizard to create a show. Long-press a tile to edit the show details or archive the show. Restore archived shows from the shows list menu or in the web app. See [Editing in the apps](./editing).

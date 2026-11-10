@@ -61,6 +61,14 @@ Elemente lassen sich per Drag & Drop in der Liste neu anordnen.
 - **Kopieren-Symbol** – Element duplizieren (Eigenschaften und freie Elemente ohne Kreis; Kreise werden nicht mitkopiert)
 - **Papierkorb** – Element nach Bestätigung löschen
 
+## Kreisnummer sofort eintippen
+
+Nach dem Klick auf eine Stelle der Zugstange (oder einen Turm-Slot) springt der Cursor in die Kreissuche. Kreisnummer tippen, Enter drücken, fertig.
+
+## Montage-Verweis
+
+Platzierst du einen Scheinwerfer auf einer Zugstange (oder einem Gassenturm), merkt sich der Kreis automatisch, wo er hängt. Du trägst nichts von Hand ein. Die Zuordnung bleibt erhalten, auch wenn eine App die Kreisliste speichert.
+
 ## Feste Elemente in der Zeichnung
 
 Elemente, die in der Spielort-Vorlage im Grundriss platziert sind, erscheinen in jeder Show mit dem Vorlagen-Grundriss automatisch an derselben Stelle der Zeichnung. Nur zusätzliche Elemente platzierst du von Hand.

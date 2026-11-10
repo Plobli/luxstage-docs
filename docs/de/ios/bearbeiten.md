@@ -12,12 +12,17 @@ Ein Tipp macht, was er bisher tat (z. B. abhaken). **Lang drücken** öffnet ein
 
 | Wo | Was du bearbeitest |
 |----|--------------------|
-| Kreisliste | Kreis: Nummer, Adresse, Gerät, Anzahl Geräte, Position, Farbe, Notiz, Prio. Löschen mit Rückfrage |
+| Kreisliste | Kreis: Nummer, Adresse, Gerät, Anzahl Geräte, Position, Farbe, Notiz, Prio, Hinweis. Löschen mit Rückfrage |
 | Aufbau | Notizen und Abschnittstitel |
 | Fotos | Beschriftung, Kreisnummer, Löschen |
 | Gassentürme | Turmname, Slot-Anzahl, Slot-Kreis und -Notiz |
-| Obermaschinerie | Zug-Daten und Scheinwerfer am Zug |
+| Obermaschinerie | Zug-Daten (bei Traversen die Seite, bei Punktzügen der Positionstext) und Scheinwerfer am Zug |
 | Shows-Liste | Show-Daten (Name, Datum, Spielzeit, Spielstätte, Bereiche), Archivieren |
+
+## Kreisgruppen und Archiv
+
+- **Kreisgruppen:** Menü **Kreisgruppen** legt Gruppen an, ändert und löscht sie. Gespeichert wird nur online.
+- **Archiv:** Im Menü der Shows-Liste siehst du archivierte Shows und stellst sie mit **Wiederherstellen** zurück.
 
 ## Diktieren
 

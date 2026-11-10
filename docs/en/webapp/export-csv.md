@@ -5,7 +5,7 @@ Exports the channel data as a **CSV file** – compatible with Microsoft Excel, 
 - **Delimiter:** Semicolon (`;`)
 - **Encoding:** UTF-8
 - **Filename:** `<show-id>-kanäle.csv`
-- **Columns** (in this order): Channel, Dimmer address, Fixture, Position, Colour, Notes
+- **Columns** (in this order): Channel, Dimmer address, Fixture, Position, Colour, Notes, then **Colour 2** (only if the show uses the 2nd gel), **Quantity**, **Priority** and **Hint** (`1` = channel is a hint, otherwise `0`)
 
 The format exactly matches [CSV import](./import-csv) — an exported file can be re-imported unchanged.
 
