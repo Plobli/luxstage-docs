@@ -24,6 +24,18 @@ The navigation (sidebar on the left or dock at the bottom, configurable under [S
 | **Network** | Document the venue's IT infrastructure |
 | **Settings** | App settings |
 
+### Navigation within a show
+
+Inside a show, the navigation is grouped into three areas, each with a heading:
+
+| Area | Contents |
+|------|----------|
+| **Lighting** | Lighting plan |
+| **Setup** | Setup sections (lighting towers, fly system, locations, custom sections) |
+| **Media** | Photos, drawing |
+
+In the dock, each area sits in its own pill with its name below. In the collapsed sidebar, a divider separates the areas.
+
 ## Getting started
 
 - [Shows](./shows) — create and open shows

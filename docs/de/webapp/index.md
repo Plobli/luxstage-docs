@@ -25,6 +25,18 @@ Die Navigation (Seitenleiste links oder Dock am unteren Rand, einstellbar unter 
 | **Einstellungen** | App-Einstellungen |
 | **Logout** (in der Navigation) | Abmelden von der App |
 
+### Navigation innerhalb einer Show
+
+In einer Show ist die Navigation in drei Bereiche gegliedert, jeweils mit Überschrift:
+
+| Bereich | Inhalt |
+|---------|--------|
+| **Einleuchten** | Einleuchtplan |
+| **Aufbau** | Aufbau-Abschnitte (Gassentürme, Obermaschinerie, Standorte, eigene Abschnitte) |
+| **Medien** | Fotos, Zeichnung |
+
+Im Dock steht jeder Bereich in einer eigenen Pille, der Name darunter. In der eingeklappten Seitenleiste trennt ein Strich die Bereiche.
+
 ## Einstieg
 
 - [Shows](./shows) — Shows anlegen und öffnen
