@@ -102,6 +102,8 @@ Der Import einer EOS-CSV übernimmt pro Kreis:
 
 Das gilt für „Eos-CSV“ und „CSV“. Der Pult-Sync (Desktop-App) übernimmt Label, Notes, Gel und Text1–10; Position und Ausrichtung folgen später. Eos-CSV und CSV (Eos-Export wird erkannt; ANSI-Dateien mit Umlauten werden korrekt gelesen). Die Zusatzfelder erscheinen als Tooltip an der Geräte-Zelle. Die Kreissuche findet auch Texte darin. Bei jedem Import gilt der aktuelle Pultstand.
 
+**Pult-Feld als Notiz:** Viele Teams nutzen für Focus-Notizen unterschiedliche Felder (Label, Notes oder einen Text). Im Eos-Import-Dialog und im Pult-Sync wählst du, welches Pult-Feld in die Kreis-Notiz übernommen wird (Standard: keins). Die Wahl gilt für die Show. Je Import legst du fest, ob nur leere Notizen gefüllt oder vorhandene überschrieben werden. Leere Pult-Felder löschen nie eine Notiz.
+
 ## Mehrere Kreise gemeinsam ändern
 
 Ein Klick auf eine Zeile markiert sie und blendet die Leiste ein. Mit **Shift** markierst du mehrere Zeilen am Stück, mit **Cmd/Strg** einzelne Zeilen dazu, wie in Excel. Alternativ: Checkbox links in der Zeile (oder Maus-Drag über die Checkbox-Spalte). Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:

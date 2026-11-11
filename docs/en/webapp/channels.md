@@ -102,6 +102,8 @@ Importing an EOS CSV takes over per circuit:
 
 This applies to “Eos CSV” and “CSV”. Console sync (desktop app) takes over label, notes, gel and Text1–10; position and orientation follow later. Eos CSV and CSV (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
 
+**Console field as note:** Teams use different fields for focus notes (label, notes or a text field). In the Eos import dialog and the console sync you choose which console field is taken over as the circuit note (default: none). The choice applies to the show. For each import you decide whether only empty notes are filled or existing ones are overwritten. Empty console fields never delete a note.
+
 ## Edit several channels at once
 
 Clicking a row selects it and shows the bar. Hold **Shift** to select a range of rows, **Cmd/Ctrl** to add single rows, as in Excel. Alternatively use the checkbox at the left of a row (or drag the mouse over the checkbox column). The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
