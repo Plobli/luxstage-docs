@@ -39,8 +39,8 @@ The table has the following columns:
 |--------|---------|
 | **Chan** | Channel number, plain integer, e.g. "1" |
 | **DMX** | Universe/address, e.g. "1/121" |
-| **Color** | Colour filter (gel code), e.g. "L201/R371" or "RGB", "variable" |
-| **2nd gel** | Optional second gel. Show it with the 1×/2× switch in the Color column header (applies to the whole show, including the apps); once any channel has a 2nd gel, the column stays visible |
+| **Gel** | Colour filter (gel code), e.g. "L201/R371" or "RGB", "variable" |
+| **2nd gel** | Optional second gel. Show it with the 1×/2× switch in the Gel column header (applies to the whole show, including the apps); once any channel has a 2nd gel, the column stays visible |
 | **Qty.** | Number of identical fixtures at this position |
 | **Device** | Fixture name, e.g. "ETC Source Four 26°" |
 | **Notes** | Free-text note, e.g. "Key light stage left, narrow spot" |
@@ -57,7 +57,7 @@ Channels are grouped by **positions** (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 
 |-------|--------|
 | **Channel number (left)** | Click → enter number |
 | **Dimmer address (right)** | Click → enter address |
-| **Colour** | Click → dropdown with all colors appears, custom colors first (e.g. "L201 / R371 Full C.T. Blue"). Frost and diffusion are shown hatched. Manage the list under [Managing Colors](/en/webapp/colors). Also selectable: **"No Color"** (no filter) or **"Custom"** for free-text entries (e.g. "R02" or "warm white") |
+| **Gel** | Click → dropdown with all colors appears, custom colors first (e.g. "L201 / R371 Full C.T. Blue"). Frost and diffusion are shown hatched. Manage the list under [Managing Colors](/en/webapp/colors). Also selectable: **"No Color"** (no filter) or **"Custom"** for free-text entries (e.g. "R02" or "warm white") |
 | **Fixture** | Click → enter fixture name |
 | **Notes** | Click → enter free text |
 
@@ -102,13 +102,15 @@ Importing an EOS CSV takes over per circuit:
 
 This applies to “Eos CSV” and “CSV”. Console sync (desktop app) takes over label, notes, gel and Text1–10; position and orientation follow later. Eos CSV and CSV (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
 
+**Gel from the console:** The console field “Gel” fills the **Gel** column of the circuit list (fill empty ones or overwrite existing, as with notes).
+
 **Console field as note:** Teams use different fields for focus notes (label, notes or a text field). In the Eos import dialog and the console sync you choose which console fields are taken over into the lighting note (default: none). Several fields are joined in the order of selection with “ · ”; empty and duplicate values are skipped. For each field you choose “Note” or “Tag”: tag fields are stored as separate tags on the circuit and shown at the end of the lighting note as #tag, several in a row (e.g. “#Turm #Schauspiel”). Add tags in the circuit list with “#+” and remove them with the cross; search finds them. The choice applies to the show. For each import you decide whether only empty notes are filled or existing ones are overwritten. Empty console fields never delete a note.
 
 ## Edit several channels at once
 
 Clicking a row selects it and shows the bar. Hold **Shift** to select a range of rows, **Cmd/Ctrl** to add single rows, as in Excel. Alternatively use the checkbox at the left of a row (or drag the mouse over the checkbox column). The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
 
-- **Position**, **Device**, **Color**, **Prio** – set a value for all selected channels
+- **Position**, **Device**, **Gel**, **Prio** – set a value for all selected channels
 - **Note** – **replace** existing notes or **append** text
 - **Clear** – removes note, device and colour; channel number and DMX address stay
 - **Delete** – removes the channels completely (cannot be undone)

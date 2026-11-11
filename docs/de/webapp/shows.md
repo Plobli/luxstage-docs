@@ -98,7 +98,7 @@ Ein kleines Fenster erscheint direkt an der jeweiligen Stelle, oben zeigt eine P
 
 1. **Show anlegen** – hier startest du später deine eigene Show.
 2. **Kreise übernehmen** – in der Demo sind die Kreise schon da. Bei dir kommen sie vom Pult oder aus einer Datei.
-3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Color**, **Anzahl und Gerät**, **Notizen**, der Knopf **„Ohne Notizen ausblenden"**, **Prio** und **Position**.
+3. **Kreise bearbeiten** – die Tour geht Spalte für Spalte durch: **Kreisnummer und Adresse**, **Gel**, **Anzahl und Gerät**, **Notizen**, der Knopf **„Ohne Notizen ausblenden"**, **Prio** und **Position**.
 4. **Bereiche der Show** – hier wechselst du zwischen Aufbaunotizen, Gassentürmen, Obermaschinerie, Fotos, Zeichnung und den weiteren Bereichen.
 5. **Mit dem Handy einleuchten** – das Handy verbindest du mit einem Code. In der Demo ist das nur eine Vorschau.
 6. **Liste drucken** – die Kreisliste als PDF.

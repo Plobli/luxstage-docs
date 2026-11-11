@@ -97,7 +97,7 @@ A small window appears right at the relevant spot, a row of dots at the top show
 
 1. **Create a show** – this is where you start your own show later.
 2. **Bring in channels** – in the demo the channels are already there. In your own show they come from the console or from a file.
-3. **Edit channels** – the tour goes through the columns one by one: **channel number and address**, **color**, **quantity and device**, **notes**, the **"Hide channels without notes"** button, **prio** and **position**.
+3. **Edit channels** – the tour goes through the columns one by one: **channel number and address**, **gel**, **quantity and device**, **notes**, the **"Hide channels without notes"** button, **prio** and **position**.
 4. **Areas of the show** – here you switch between setup notes, towers, fly system, photos, drawing and the other areas.
 5. **Focus with your phone** – you connect your phone with a code. In the demo this is only a preview.
 6. **Print the list** – the channel list as a PDF.
