@@ -13,7 +13,7 @@ The native SwiftUI app for iPhone and iPad. Fast, responsive and optimised for t
 - Optimised for iPhone & iPad
 - Native SwiftUI – no browser required
 - Real-time sync with the server
-- Offline read mode
+- Offline editing with automatic sync
 
 ### LuxStage in the browser
 

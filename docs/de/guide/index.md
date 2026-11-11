@@ -18,7 +18,7 @@ Die App für iPhone und iPad zum Aufrufen der Dokumentation und Steuerung von Sc
 
 - Optimiert für iPhone & iPad
 - Echtzeit-Sync mit dem Server
-- Offline-Lesemodus
+- Offline-Bearbeitung mit automatischem Abgleich
 - OSC-Steuerung von ETC Lichtpulten
 - Einleuchtmodus mit Notizen zu jeder Bühnenposition und 1-Klick-Steuerung der Scheinwerfer
 

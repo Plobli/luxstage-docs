@@ -14,13 +14,15 @@ LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app). You d
 
 ## Does LuxStage work offline?
 
-For reading yes, for editing no.
+Yes, in the iOS app and in the web app. Android follows.
 
-The iOS app keeps recently loaded shows, channels, sections and photos locally and continues to display them without a server connection. It is built for reading: ticking off channels and adding or deleting photos require a connection, and editing the data itself happens in the web app.
+The iOS app stores your shows on the device. Without a connection you can view, create and edit channels, write notes, tick off channels and setup items, edit sections and take photos. Everything is saved on the device, even if you quit the app, and synced automatically once the network is back. The list shows how many changes are still waiting.
 
-The web app requires an active server connection. If it drops, a banner appears and the show view is locked so no input is lost.
+If two devices changed the same field differently, LuxStage asks which version should win. Before anything is overwritten, the previous state is saved as a rescue copy that you can restore.
 
-Neither app offers offline editing with later synchronisation.
+Only available online: editing the structure (creating, changing or deleting towers, battens, locations and slots), creating and archiving shows, and the history. The app then says "No connection".
+
+The web app and the desktop app also work with a local copy. When you sign out, LuxStage warns you if changes have not been synced yet.
 
 ## Does LuxStage support multiple users?
 

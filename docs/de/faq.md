@@ -14,13 +14,15 @@ LuxStage läuft als gehosteter Service unter [luxstage.app](https://luxstage.app
 
 ## Funktioniert LuxStage auch offline?
 
-Zum Lesen ja, zum Bearbeiten nein.
+Ja, in der iOS-App und in der Web-App. Android folgt.
 
-Die iOS-App hält zuletzt geladene Shows, Kreise, Abschnitte und Fotos lokal vor und zeigt sie ohne Serververbindung weiter an. Sie ist auf das Lesen ausgelegt: Kreise abhaken sowie Fotos aufnehmen und löschen brauchen eine Verbindung, das eigentliche Bearbeiten der Daten geschieht in der Web-App.
+Die iOS-App speichert deine Shows lokal. Ohne Verbindung kannst du Kreise ansehen, anlegen und ändern, Notizen schreiben, Kreise und Aufbau-Punkte abhaken, Abschnitte bearbeiten und Fotos aufnehmen. Alles wird auf dem Gerät gesichert, auch wenn du die App beendest, und automatisch abgeglichen, sobald wieder Netz da ist. Oben in der Liste siehst du, wie viele Änderungen noch warten.
 
-Die Web-App braucht eine bestehende Serververbindung. Fällt sie aus, erscheint ein Hinweisbanner und die Show-Ansicht wird gesperrt, damit keine Eingaben verloren gehen.
+Haben zwei Geräte dasselbe Feld unterschiedlich geändert, fragt dich LuxStage, welche Fassung gelten soll. Vor jedem Überschreiben wird der vorherige Stand als Rettungsstand gesichert, du kannst ihn wiederherstellen.
 
-Ein Offline-Bearbeitungsmodus mit späterer Synchronisation ist in keiner der beiden Apps vorhanden.
+Nur online möglich ist das Bearbeiten der Struktur: Türme, Züge, Standorte und Plätze anlegen, ändern oder löschen sowie Shows anlegen, archivieren und der Verlauf. Dann meldet die App „Keine Verbindung“.
+
+Die Web-App und die Desktop-App arbeiten ebenfalls mit einem lokalen Stand. Beim Abmelden warnt LuxStage, wenn noch nicht abgeglichene Änderungen vorhanden sind.
 
 ## Unterstützt LuxStage mehrere Benutzer?
 
