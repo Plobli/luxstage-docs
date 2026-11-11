@@ -102,7 +102,7 @@ Importing an EOS CSV takes over per circuit:
 
 This applies to “Eos CSV” and “CSV”. Console sync (desktop app) takes over label, notes, gel and Text1–10; position and orientation follow later. Eos CSV and CSV (Eos exports are detected; ANSI files with umlauts are read correctly). The extra fields show as a tooltip on the device cell. Circuit search also finds text in them. Each import applies the current console state.
 
-**Gel from the console:** The console field “Gel” fills the **Gel** column of the circuit list (fill empty ones or overwrite existing, as with notes).
+**Gel from the console:** The console field “Gel” fills the **Gel** column of the circuit list (fill empty ones or overwrite existing, as with notes). With the “Gel” checkbox in the dialog you can switch this off for each import.
 
 **Console field as note:** Teams use different fields for focus notes (label, notes or a text field). In the Eos import dialog and the console sync you choose which console fields are taken over into the lighting note (default: none). Several fields are joined in the order of selection with “ · ”; empty and duplicate values are skipped. For each field you choose “Note” or “Tag”: tag fields are stored as separate tags on the circuit and shown at the end of the lighting note as #tag, several in a row (e.g. “#Turm #Schauspiel”). Just write new tags into the lighting note (e.g. “Person stage back #Turm”); as soon as you type a space after it (or leave the field), “#Turm” becomes a tag shown at the end of the cell. Remove it with the cross; search finds them. The choice applies to the show. For each import you decide whether only empty notes are filled or existing ones are overwritten. Empty console fields never delete a note.
 
