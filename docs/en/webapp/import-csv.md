@@ -15,7 +15,7 @@ Imports channel data from a CSV file. Suitable for importing from Excel or other
 | 2 | Dimmer address |
 | 3 | Fixture |
 | 4 | Position |
-| 5 | Colour |
+| 5 | Gel |
 | 6 | Notes |
 
 The import also reads **Colour 2**, **Quantity**, **Priority** and **Hint** (`1`/`0`) when they appear in the header row, exactly as the [CSV export](./export-csv) writes them. If they are missing, nothing changes.

@@ -6,7 +6,7 @@ Exportiert den vollständigen Kreisplan als druckfertiges **PDF-Dokument**. Der 
 
 - Showname, Datum und Spielzeit
 - Notizen der Show
-- **Obermaschinerie:** je Zug ein Lineal mit den Geräten und eine Tabelle (Nummer, Gerät, Adresse, Position, Farbe, Notiz)
+- **Obermaschinerie:** je Zug ein Lineal mit den Geräten und eine Tabelle (Nummer, Gerät, Adresse, Position, Gel, Notiz)
 - **Gassentürme:** je Turm eine Karte mit Belegung und Slots
 - **Standorte:** je Standort eine Aufbauliste seiner Kreise
 - Vollständige Kreistabelle mit allen Bühnenpositionen

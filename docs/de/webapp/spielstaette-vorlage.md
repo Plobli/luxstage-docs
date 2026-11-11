@@ -108,7 +108,7 @@ Ist ein Wert in der Vorlage leer, wird der Wert in der Show beim Übernehmen gel
 
 ## Farbe 2 in der Vorlage
 
-Die Vorlage speichert neben der Farbe auch die **2. Folie** (Spalte „2. Folie“). Beim Anlegen einer Show kommt sie mit. Ob du sie nutzt, entscheidest du pro Show.
+Die Vorlage speichert neben dem Gel auch die **2. Folie** (Spalte „2. Folie“). Beim Anlegen einer Show kommt sie mit. Ob du sie nutzt, entscheidest du pro Show.
 
 ## Standorte in der Vorlage
 
@@ -119,7 +119,7 @@ Der Tab **Standorte** der Vorlage speichert Standorte mit Name, Art, Ort, Hinwei
 
 ## Kreise einer Show als Vorlage speichern
 
-Im Menü der Show speicherst du die Kreise ins Template: **„Kreise als Template speichern“**. Gespeichert werden Kreis, Adresse, Gerät, Position, Farbe, Farbe 2, Notiz und Anzahl. Prio und Hinweis bleiben in der Show. Optional nimmst du **„Standorte mit speichern“** mit.
+Im Menü der Show speicherst du die Kreise ins Template: **„Kreise als Template speichern“**. Gespeichert werden Kreis, Adresse, Gerät, Position, Gel, Farbe 2, Notiz und Anzahl. Prio und Hinweis bleiben in der Show. Optional nimmst du **„Standorte mit speichern“** mit.
 
 - **Template-Kreise ersetzen:** Alle Kreise der Vorlage werden durch die der Show ersetzt.
 - **Zusammenführen nach Kreisnummer:** Gleiche Nummern werden überschrieben, neue ergänzt. Andere Vorlagen-Kreise bleiben.

@@ -1,6 +1,6 @@
 # Setup — Standorte
 
-**Standorte** sind frei benannte Aufbau-Orte, z. B. „3 Stative vor dem Seitenbühnentor". Jeder Standort bekommt Kreise zugeordnet. Gerät, Adresse und Farbe kommen aus der [Kreisliste](./kanaele); die Aufbauliste entsteht von selbst. Für Türme siehe [Setup — Gassentürme](./setup-gestelle), für Züge [Setup — Obermaschinerie](./setup-zugstangen).
+**Standorte** sind frei benannte Aufbau-Orte, z. B. „3 Stative vor dem Seitenbühnentor". Jeder Standort bekommt Kreise zugeordnet. Gerät, Adresse und Gel kommen aus der [Kreisliste](./kanaele); die Aufbauliste entsteht von selbst. Für Türme siehe [Setup — Gassentürme](./setup-gestelle), für Züge [Setup — Obermaschinerie](./setup-zugstangen).
 
 ## Standort anlegen
 

@@ -112,7 +112,7 @@ Ein Klick auf eine Zeile markiert sie und blendet die Leiste ein. Mit **Shift** 
 
 - **Position**, **Gerät**, **Gel**, **Prio** – Wert für alle gewählten Kreise setzen
 - **Notiz** – bestehende Notizen **ersetzen** oder den Text **anhängen**
-- **Leeren** – entfernt Notiz, Gerät und Farbe; Kreisnummer und DMX-Adresse bleiben
+- **Leeren** – entfernt Notiz, Gerät und Gel; Kreisnummer und DMX-Adresse bleiben
 - **Löschen** – entfernt die Kreise vollständig (nicht rückgängig zu machen)
 - **Auswahl aufheben**
 
@@ -132,7 +132,7 @@ Unterhalb jeder Bühnenposition befindet sich der Button **„+ Kreis hinzufüge
 
 Den Kreis anklicken (aktivieren), dann auf das **×**-Symbol rechts in der Zeile klicken. Ein Dialog bietet zwei Optionen:
 
-- **Kreis leeren** – entfernt nur Notiz und Farbe, die Zeile bleibt bestehen
+- **Kreis leeren** – entfernt nur Notiz und Gel, die Zeile bleibt bestehen
 - **Zeile löschen** – entfernt den Kreis vollständig
 
 ## Kreis einem Einbauort zuweisen

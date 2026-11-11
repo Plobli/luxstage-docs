@@ -56,7 +56,7 @@ Nur in der [Desktop-App](/de/webapp/desktop-app): Statt einer CSV-Datei holst du
 | Modus | Wirkung |
 |-------|---------|
 | **Nur Neues** | Legt nur Kreise an, die in der Liste noch fehlen. |
-| **Zusammenführen** | Legt neue Kreise an, aktualisiert Adresse und Gerät. Farbe, Position, Notizen und Fotos bleiben. |
+| **Zusammenführen** | Legt neue Kreise an, aktualisiert Adresse und Gerät. Gel, Position, Notizen und Fotos bleiben. |
 | **Pult spiegeln** | Wie Zusammenführen, entfernt aber Kreise, die im Pult nicht gepatcht sind. Dafür musst du die Anzahl der zu entfernenden Kreise ausdrücklich bestätigen. |
 
 ::: tip Rückgängig möglich

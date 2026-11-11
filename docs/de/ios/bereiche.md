@@ -8,7 +8,7 @@ Zeigt alle Gassentürme der Show mit ihren belegten Slots und den zugeordneten S
 
 ## Standorte
 
-Zeigt alle [Standorte](../webapp/setup-standorte) der Show mit ihren Kreisen (Kreis, Gerät, Adresse, Farbe). Lang drücken auf einen Standort ändert Name, Art, Ort, Hinweis und die Kreise. Kreise tippst du als Nummern ein (z. B. `17, 18` oder `1-3`) oder wählst sie über die Plus-Taste aus der Liste. Anlegen und Löschen geht im Stift-Modus.
+Zeigt alle [Standorte](../webapp/setup-standorte) der Show mit ihren Kreisen (Kreis, Gerät, Adresse, Gel). Lang drücken auf einen Standort ändert Name, Art, Ort, Hinweis und die Kreise. Kreise tippst du als Nummern ein (z. B. `17, 18` oder `1-3`) oder wählst sie über die Plus-Taste aus der Liste. Anlegen und Löschen geht im Stift-Modus.
 
 ## Obermaschinerie
 

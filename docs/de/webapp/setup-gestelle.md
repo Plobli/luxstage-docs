@@ -26,7 +26,7 @@ Je nach Einstellung der Show (siehe [Shows](./shows)) ist der eine, der andere o
 
 ## Kreisliste als Leiste
 
-Neben Gassentürmen und Obermaschinerie steht rechts die **Kreisliste als Leiste** mit Gerät, Farbe und Notiz jedes Kreises. Sie bietet:
+Neben Gassentürmen und Obermaschinerie steht rechts die **Kreisliste als Leiste** mit Gerät, Gel und Notiz jedes Kreises. Sie bietet:
 
 - **Suche** nach Kreisnummer oder Gerät
 - **Alle / Nicht platziert** als Filter
@@ -83,7 +83,7 @@ Am unteren Rand jeder Gestell-Karte lässt sich per Klick auf **„+ Notiz"** ei
 
 ## Als Vorlage speichern
 
-Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kreisnummer, Gerät und Farbe je Slot.
+Über das Lesezeichen-Symbol lässt sich ein Gestell in die Spielort-Vorlage übernehmen. Auswählbar sind dabei Grundstruktur (immer enthalten), Kreisnummer, Gerät und Gel je Slot.
 
 ::: tip Hinweis
 Gassentürme aus der Vorlage werden beim schnellen Anlegen einer Show nicht automatisch übernommen — nur über den Erstellungs-Assistenten lassen sie sich gezielt einzeln auswählen, oder nachträglich über „Aus Vorlage einfügen…" beim Anlegen eines neuen Gestells.

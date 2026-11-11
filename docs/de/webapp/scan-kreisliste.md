@@ -20,7 +20,7 @@ Die KI erkennt pro Zeile so viele der folgenden Angaben wie im Foto lesbar sind:
 - **Adresse** (DMX-Adresse)
 - **Gerät**
 - **Bühnenposition** — auch wenn diese nur einmal als Gruppenüberschrift über mehreren Zeilen steht, statt in jeder Zeile einzeln
-- **Filter/Farbe**
+- **Filter/Gel**
 - **Notizen**
 
 Bereits in der Show vorhandene Kreise dienen der KI dabei als Lesehilfe (z. B. um unklare Handschrift plausibler zuzuordnen) — sie werden dadurch nicht automatisch verändert, das geschieht erst über die Vorschau.

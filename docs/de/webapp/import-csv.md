@@ -15,7 +15,7 @@ Importiert Kreisdaten aus einer CSV-Datei. Geeignet für den Import aus Excel od
 | 2 | Dimmer-Adresse |
 | 3 | Gerät |
 | 4 | Bühnenposition |
-| 5 | Farbe |
+| 5 | Gel |
 | 6 | Notizen |
 
 Zusätzlich liest der Import die Spalten **Farbe 2**, **Anzahl**, **Prio** und **Hinweis** (`1`/`0`), wenn sie in der Kopfzeile stehen, so wie der [CSV-Export](./export-csv) sie schreibt. Fehlen sie, bleibt alles wie bisher.

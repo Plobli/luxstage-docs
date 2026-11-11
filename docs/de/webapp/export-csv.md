@@ -5,7 +5,7 @@ Exportiert die Kreisdaten als **CSV-Datei** – kompatibel mit Microsoft Excel, 
 - **Trennzeichen:** Semikolon (`;`)
 - **Encoding:** UTF-8
 - **Dateiname:** `<Show-ID>-kanäle.csv`
-- **Spalten** (in dieser Reihenfolge): Kreis, Dimmer-Adresse, Gerät, Bühnenposition, Farbe, Notizen, danach **Farbe 2** (nur wenn die Show die 2. Folie nutzt), **Anzahl**, **Prio** und **Hinweis** (`1` = Kreis ist ein Hinweis, sonst `0`)
+- **Spalten** (in dieser Reihenfolge): Kreis, Dimmer-Adresse, Gerät, Bühnenposition, Gel, Notizen, danach **Farbe 2** (nur wenn die Show die 2. Folie nutzt), **Anzahl**, **Prio** und **Hinweis** (`1` = Kreis ist ein Hinweis, sonst `0`)
 
 Das Format entspricht exakt dem des [CSV-Imports](./import-csv) — eine exportierte Datei lässt sich unverändert wieder importieren.
 

@@ -56,7 +56,7 @@ Desktop app only ([Desktop app](/en/webapp/desktop-app)): instead of a CSV file,
 | Mode | Effect |
 |------|--------|
 | **New only** | Only adds channels missing from the list. |
-| **Merge** | Adds new channels, updates address and device. Colour, position, notes and photos stay. |
+| **Merge** | Adds new channels, updates address and device. Gel, position, notes and photos stay. |
 | **Mirror console** | Like merge, but removes channels that are not patched on the console. You must explicitly confirm the number of channels to be removed. |
 
 ::: tip Undo available
