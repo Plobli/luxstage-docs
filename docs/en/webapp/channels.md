@@ -1,6 +1,6 @@
 # Channels
 
-The **Channels** tab (labelled **"Channel list"** in the app sidebar) is the main view of a show and displays the complete channel plan.
+The **Channels** tab (labelled **"Lighting plan"** in the app sidebar) is the main view of a show and displays the complete channel plan.
 
 ::: tip Inline help in the app
 Next to the column headers of the channel table and in the Setup area, small help icons show brief explanations for each field directly in the app.
@@ -59,7 +59,7 @@ Channels are grouped by **positions** (e.g. "FOH BATTEN LEFT", "OVERHEAD BATTEN 
 | **Dimmer address (right)** | Click → enter address |
 | **Gel** | Click → dropdown with all colors appears, custom colors first (e.g. "L201 / R371 Full C.T. Blue"). Frost and diffusion are shown hatched. Manage the list under [Managing Colors](/en/webapp/colors). Also selectable: **"No Color"** (no filter) or **"Custom"** for free-text entries (e.g. "R02" or "warm white") |
 | **Fixture** | Click → enter fixture name |
-| **Notes** | Click → enter free text |
+| **Lighting note** | Click → enter free text |
 
 ::: details DMX address is normalized automatically
 When you leave the address field, the input is automatically formatted as "universe/address" — e.g. "129" becomes "1/129" and "1/1" becomes "1/001". Plain numbers above 512 are treated as a continuous address spanning multiple universes (e.g. "515" → "2/003").

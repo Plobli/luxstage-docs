@@ -1,6 +1,6 @@
 # Kreise
 
-Der **Kreise**-Tab (in der App-Sidebar als **„Kreisliste"** bezeichnet) ist die Hauptansicht einer Show und zeigt den vollständigen Kreisplan.
+Der **Kreise**-Tab (in der App-Navigation als **„Einleuchtplan"** bezeichnet) ist die Hauptansicht einer Show und zeigt den vollständigen Kreisplan.
 
 ::: tip Inline-Hilfe in der App
 Neben den Spaltenüberschriften der Kreistabelle und im Setup-Bereich zeigen kleine Hilfe-Icons Kurzerklärungen zu den jeweiligen Feldern direkt in der App.
@@ -59,7 +59,7 @@ Die Kreise sind nach **Bühnenpositionen** gruppiert (z. B. „FOH BAR LEFT", �
 | **Dimmer-Adresse rechts** | Klicken → Adresse eingeben |
 | **Gel** | Klicken → Dropdown mit allen Farben erscheint, eigene Farben ganz oben (z. B. „L201 / R371 Full C.T. Blue"). Frost und Diffusion erscheinen schraffiert. Die Liste pflegst du unter [Farben verwalten](/de/webapp/farben). Zusätzlich wählbar: **„No Color"** (kein Farbfilter) oder **Freitext** für eigene Angaben (z. B. „R02" oder „warm weiß") |
 | **Gerät** | Klicken → Gerätebezeichnung eingeben |
-| **Notizen** | Klicken → Freitext eingeben |
+| **Einleuchtnotiz** | Klicken → Freitext eingeben |
 
 ::: details DMX-Adresse wird automatisch normalisiert
 Beim Verlassen des Adressfelds wird die Eingabe automatisch ins Format „Universum/Adresse" gebracht, z. B. wird aus „129" automatisch „1/129" und aus „1/1" wird „1/001". Reine Zahlen über 512 werden dabei als durchlaufende Adresse über mehrere Universen interpretiert (z. B. „515" → „2/003").

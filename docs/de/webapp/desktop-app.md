@@ -29,7 +29,7 @@ In Textfeldern gelten Widerrufen und Wiederholen für den eingegebenen Text, son
 
 ## Werkzeugleiste
 
-Undo/Redo, Filter und Suche sitzen oben in der Kopfzeile neben dem Show-Namen. Auf dem Mac ist die Kopfzeile zugleich die Titelleiste, du kannst das Fenster dort ziehen. Die Suche findest du in der Kreisliste, bei Gassentürmen, Obermaschinerie, Standorten und Fotos. In den übrigen Ansichten ist sie ausgegraut.
+Undo/Redo, Filter und Suche sitzen oben in der Kopfzeile neben dem Show-Namen. Auf dem Mac ist die Kopfzeile zugleich die Titelleiste, du kannst das Fenster dort ziehen. Die Suche findest du im Einleuchtplan, bei Gassentürmen, Obermaschinerie, Standorten und Fotos. In den übrigen Ansichten ist sie ausgegraut.
 
 ## Pult-Sync mit Eos
 
