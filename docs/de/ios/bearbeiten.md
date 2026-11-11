@@ -12,7 +12,7 @@ Ein Tipp macht, was er bisher tat (z. B. abhaken). **Lang drücken** öffnet ein
 
 | Wo | Was du bearbeitest |
 |----|--------------------|
-| Kreisliste | Kreis: Nummer, Adresse, Gerät, Anzahl Geräte, Position, Gel, Notiz, Prio, Hinweis. Löschen mit Rückfrage |
+| Kreisliste | Kreis: Nummer, Adresse, Gerät, Anzahl Geräte, Position, Gel, Notiz, Prio, Hinweis. Schreibe `#tag` in die Notiz und tippe ein Leerzeichen: Das Wort wird zum Tag und steht in der Kreisliste unter der Notiz. Tags entfernst du im Kreis-Editor mit dem Kreuz. Löschen mit Rückfrage |
 | Aufbau | Notizen und Abschnittstitel |
 | Fotos | Beschriftung, Kreisnummer, Löschen |
 | Gassentürme | Turmname, Slot-Anzahl, Slot-Kreis und -Notiz |
