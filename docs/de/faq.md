@@ -6,7 +6,7 @@ Die iOS-App ist nativ in SwiftUI entwickelt und läuft direkt auf iPhone und iPa
 
 ## Welche Geräte werden unterstützt?
 
-Die Web-App läuft auf Mac, Windows, iPad und iPhone im Browser. Die native iOS-App unterstützt iPhone und iPad ab iOS 26.
+Die Web-App läuft auf Mac, Windows, iPad und iPhone im Browser. Die native iOS-App unterstützt iPhone und iPad ab iOS 26. Die Android-App gibt es bei [Google Play](https://play.google.com/store/apps/details?id=com.christopherrohde.luxstage).
 
 ## Wie wird LuxStage betrieben?
 
@@ -14,7 +14,7 @@ LuxStage läuft als gehosteter Service unter [luxstage.app](https://luxstage.app
 
 ## Funktioniert LuxStage auch offline?
 
-Ja, in der iOS-App und in der Web-App. Android folgt.
+Ja, in der iOS-App, in der Android-App und in der Web-App.
 
 Die iOS-App speichert deine Shows lokal. Ohne Verbindung kannst du Kreise ansehen, anlegen und ändern, Notizen schreiben, Kreise und Aufbau-Punkte abhaken, Abschnitte bearbeiten und Fotos aufnehmen. Alles wird auf dem Gerät gesichert, auch wenn du die App beendest, und automatisch abgeglichen, sobald wieder Netz da ist. Oben in der Liste siehst du, wie viele Änderungen noch warten.
 

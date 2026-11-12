@@ -6,7 +6,7 @@ The iOS app is natively developed in SwiftUI and runs directly on iPhone and iPa
 
 ## Which devices are supported?
 
-The web app runs on Mac, Windows, iPad and iPhone in the browser. The native iOS app supports iPhone and iPad from iOS 26.
+The web app runs on Mac, Windows, iPad and iPhone in the browser. The native iOS app supports iPhone and iPad from iOS 26. The Android app is available on [Google Play](https://play.google.com/store/apps/details?id=com.christopherrohde.luxstage).
 
 ## How is LuxStage operated?
 
@@ -14,7 +14,7 @@ LuxStage runs as a hosted service at [luxstage.app](https://luxstage.app). You d
 
 ## Does LuxStage work offline?
 
-Yes, in the iOS app and in the web app. Android follows.
+Yes, in the iOS app, in the Android app and in the web app.
 
 The iOS app stores your shows on the device. Without a connection you can view, create and edit channels, write notes, tick off channels and setup items, edit sections and take photos. Everything is saved on the device, even if you quit the app, and synced automatically once the network is back. The list shows how many changes are still waiting.
 
