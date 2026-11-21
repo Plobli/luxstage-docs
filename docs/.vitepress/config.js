@@ -45,6 +45,7 @@ export default {
                 { text: 'Übersicht & Konzept', link: '/de/guide/' },
                 { text: 'Glossar', link: '/de/glossar' },
                 { text: 'Alle Features', link: '/de/features' },
+                { text: 'Wer trägt wo ein?', link: '/de/guide/datenfluss' },
               ]
             },
           ],
@@ -167,6 +168,7 @@ export default {
                 { text: 'Overview & Concept', link: '/en/guide/' },
                 { text: 'Glossary', link: '/en/glossary' },
                 { text: 'All Features', link: '/en/features' },
+                { text: 'Who enters what?', link: '/en/guide/data-flow' },
               ]
             },
           ],
