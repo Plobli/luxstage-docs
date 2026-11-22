@@ -21,7 +21,7 @@ Die App ist in zwei Ebenen gegliedert:
 |-----|----------|
 | **Aufbau** | Aufbaunotizen der Show; über den Bereiche-Button Zugriff auf Gassentürme, Obermaschinerie, Fotos, Zeichnung und weitere Bereiche |
 | **Einleuchten** | Kreisplan zum Fokussieren der Scheinwerfer |
-| **OSC** | EOS-Fernsteuerung (Numpad, Playback, Fader, ML) |
+| **OSC** | EOS-Fernsteuerung (Numpad, ML, Fader, Patch) |
 | **Suche** | Suche nach Kreisen, Gassentürmen, Obermaschinerie, Standorten, Abschnitten und Fotos (Name, Notiz oder Kreisnummer). Ein Tipp auf einen Kreis zeigt Gerät, Adresse, Position, Gel und Notizen; von dort springst du in die Lichtliste |
 
 ## Nächste Schritte

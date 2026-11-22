@@ -14,7 +14,7 @@ The connection belongs to the whole app: switching tabs does not disconnect it, 
 
 ## Sub-views
 
-The four sub-views are switched via the segment control at the top: **Numpad**, **Playback**, **Fader**, **ML**.
+The sub-views are switched via the segment control at the top: **Numpad**, **ML**, **Fader**, **Patch**. GO, Stop/Back and the other playback buttons are in the [Cues](./cues) tab, right below the cue list.
 
 ---
 
@@ -45,16 +45,7 @@ The classic EOS numpad input. The command line entered is displayed above the nu
 
 ---
 
-### Playback
-
-The Playback view shows the live state of EOS and provides the most important playback buttons.
-
-<img src="/img/ios/osc-playback.png" alt="Playback" class="ios-screenshot">
-
-At the top, the EOS address, user and currently active cue (`LIVE: Cue 1`) are shown, with the most recently triggered cue event below.
-
-| Button | Colour | Function |
-|--------|--------|----------|
+----|--------|----------|
 | **Stop/Back** | Orange | Tap once to stop the running cue, tap twice to go back to the previous cue (like the Stop/Back key on the console) |
 | **GO** | Green | Start next cue |
 | **Go Time Disable** | Teal | GO without cue time (Shift+GO) |

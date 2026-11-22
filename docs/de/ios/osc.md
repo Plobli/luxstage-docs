@@ -14,7 +14,7 @@ Am Pult müssen **OSC RX** und **OSC TX** eingeschaltet sein (Setup → System �
 
 ## Unteransichten
 
-Die vier Unteransichten werden über die Segment-Leiste oben gewechselt: **Numpad**, **Playback**, **Fader**, **ML**.
+Die Unteransichten werden über die Segment-Leiste oben gewechselt: **Numpad**, **ML**, **Fader**, **Patch**. GO, Stop/Back und die übrigen Ablauf-Tasten findest du im [Cues](./cues)-Tab direkt unter der Cue-Liste.
 
 ---
 
@@ -45,16 +45,7 @@ Die klassische EOS-Numpad-Eingabe. Die eingegebene Befehlszeile wird oberhalb de
 
 ---
 
-### Playback
-
-Die Playback-Ansicht zeigt den Live-Zustand der EOS und bietet die wichtigsten Ablauf-Tasten.
-
-<img src="/img/ios/osc-playback.png" alt="Playback" class="ios-screenshot">
-
-Oben erscheinen EOS-Adresse, User und der aktuell aktive Cue (`LIVE: Cue 1`), darunter das zuletzt ausgelöste Cue-Event.
-
-| Taste | Farbe | Funktion |
-|-------|-------|----------|
+---|-------|----------|
 | **Stop/Back** | Orange | Einmal tippen hält den laufenden Cue an, zweimal tippen geht zum vorigen Cue zurück (wie die Stop/Back-Taste am Pult) |
 | **GO** | Grün | Nächsten Cue starten |
 | **Go Time Disable** | Türkis | GO ohne Cue-Zeit (Shift+GO) |

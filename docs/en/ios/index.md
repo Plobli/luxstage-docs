@@ -21,7 +21,7 @@ The app is organised in two levels:
 |-----|----------|
 | **Setup** | Setup checklist and show details |
 | **Focus** | Channel plan for focusing fixtures |
-| **OSC** | EOS remote control (numpad, playback, fader, ML) |
+| **OSC** | EOS remote control (numpad, ML, fader, patch) |
 | **More** | Photos and drawing |
 
 ## Next steps
