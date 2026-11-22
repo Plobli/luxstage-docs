@@ -4,7 +4,7 @@ Der **Cues**-Tab zeigt die Cue-Liste live vom Pult und hebt die aktuell laufende
 
 ## Voraussetzung
 
-Die App muss mit der EOS verbunden sein (siehe [OSC](./osc)). Oben zeigt eine Statusleiste den Verbindungsstand. Ohne Verbindung bleibt die Liste leer und die Tasten sind ausgegraut.
+Die App muss mit der EOS verbunden sein (siehe [OSC](./osc)). Oben links wählst du die Bühne, darunter steht der Verbindungsstand. Ohne Verbindung bleibt die Liste leer und die Tasten sind ausgegraut.
 
 ## Liste
 
@@ -28,4 +28,4 @@ Tippe einen Cue an. Er wird lila markiert und darunter erscheint **Go to Cue X**
 
 ## Mehrere Sequenzlisten
 
-Hat das Pult mehr als eine Sequenzliste, erscheint oben links ein Dropdown zur Listenauswahl. Bei nur einer Liste fehlt es. Sprünge gehen immer in die gewählte Liste.
+Hat das Pult mehr als eine Sequenzliste, erscheint oben rechts neben der Überschrift ein Dropdown zur Listenauswahl. Bei nur einer Liste fehlt es. Sprünge gehen immer in die gewählte Liste.

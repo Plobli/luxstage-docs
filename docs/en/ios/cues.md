@@ -4,7 +4,7 @@ The **Cues** tab shows the cue list live from the console and highlights the cue
 
 ## Requirement
 
-The app must be connected to EOS (see [OSC](./osc)). A status bar at the top shows the connection state. Without a connection the list stays empty and the buttons are greyed out.
+The app must be connected to EOS (see [OSC](./osc)). At the top left you pick the stage, with the connection state right below it. Without a connection the list stays empty and the buttons are greyed out.
 
 ## List
 
@@ -28,4 +28,4 @@ Tap a cue. It turns purple and **Go to Cue X** appears below the list. Only this
 
 ## Multiple cue lists
 
-If the console has more than one cue list, a dropdown for choosing the list appears at the top left. With a single list it is hidden. Jumps always go to the selected list.
+If the console has more than one cue list, a dropdown for choosing the list appears at the top right, next to the title. With a single list it is hidden. Jumps always go to the selected list.
