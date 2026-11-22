@@ -28,4 +28,4 @@ Tap a cue. It turns purple and **Go to Cue X** appears below the list. Only this
 
 ## Multiple cue lists
 
-If the console has more than one cue list, a dropdown for choosing the list appears at the top right, next to the title. With a single list it is hidden. Jumps always go to the selected list.
+If the console has more than one cue list, a dropdown for choosing the list appears at the top right, next to the title. With a single list it is hidden. With several lists, all buttons (GO, Stop/Back, Go Time Disable, Cue Out) and jumps act on the selected list. With a single list, the buttons control the main playback, just like on the console.

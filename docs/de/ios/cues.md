@@ -28,4 +28,4 @@ Tippe einen Cue an. Er wird lila markiert und darunter erscheint **Go to Cue X**
 
 ## Mehrere Sequenzlisten
 
-Hat das Pult mehr als eine Sequenzliste, erscheint oben rechts neben der Überschrift ein Dropdown zur Listenauswahl. Bei nur einer Liste fehlt es. Sprünge gehen immer in die gewählte Liste.
+Hat das Pult mehr als eine Sequenzliste, erscheint oben rechts neben der Überschrift ein Dropdown zur Listenauswahl. Bei nur einer Liste fehlt es. Mit mehreren Listen wirken alle Tasten (GO, Stop/Back, Go Time Disable, Cue Out) und Sprünge auf die gewählte Liste. Mit nur einer Liste steuern die Tasten wie am Pult das Haupt-Playback.
