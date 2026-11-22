@@ -55,8 +55,7 @@ At the top, the EOS address, user and currently active cue (`LIVE: Cue 1`) are s
 
 | Button | Colour | Function |
 |--------|--------|----------|
-| **Back** | Orange | One cue back |
-| **Pause** | Blue | Pause playback |
+| **Stop/Back** | Orange | Tap once to stop the running cue, tap twice to go back to the previous cue (like the Stop/Back key on the console) |
 | **GO** | Green | Start next cue |
 | **Go Time Disable** | Teal | GO without cue time (Shift+GO) |
 | **Go to Cue Out** | Red | Jump directly to Cue Out |

@@ -55,8 +55,7 @@ Oben erscheinen EOS-Adresse, User und der aktuell aktive Cue (`LIVE: Cue 1`), da
 
 | Taste | Farbe | Funktion |
 |-------|-------|----------|
-| **Back** | Orange | Einen Cue zurück |
-| **Pause** | Blau | Playback pausieren |
+| **Stop/Back** | Orange | Einmal tippen hält den laufenden Cue an, zweimal tippen geht zum vorigen Cue zurück (wie die Stop/Back-Taste am Pult) |
 | **GO** | Grün | Nächsten Cue starten |
 | **Go Time Disable** | Türkis | GO ohne Cue-Zeit (Shift+GO) |
 | **Go to Cue Out** | Rot | Direkt zu Cue Out springen |
