@@ -110,11 +110,13 @@ Das gilt für „Eos-CSV“ und „CSV“. Der Pult-Sync (Desktop-App) übernimm
 
 Ein Klick auf eine Zeile markiert sie und blendet die Leiste ein. Mit **Shift** markierst du mehrere Zeilen am Stück, mit **Cmd/Strg** einzelne Zeilen dazu, wie in Excel. Alternativ: Checkbox links in der Zeile (oder Maus-Drag über die Checkbox-Spalte). Die Checkbox im Tabellenkopf wählt alle aus. Eine Leiste zeigt „{n} ausgewählt" und bietet:
 
-- **Position**, **Gerät**, **Gel**, **Prio** – Wert für alle gewählten Kreise setzen
+- **Position**, **Gerät**, **Gel**, **Gel 2**, **Anzahl**, **Prio** – Wert für alle gewählten Kreise setzen
 - **Notiz** – bestehende Notizen **ersetzen** oder den Text **anhängen**
 - **Leeren** – entfernt Notiz, Gerät und Gel; Kreisnummer und DMX-Adresse bleiben
 - **Löschen** – entfernt die Kreise vollständig (nicht rückgängig zu machen)
 - **Auswahl aufheben**
+
+Du kannst auch direkt in der Tabelle tippen: Sind mehrere Kreise markiert, übernimmt eine Änderung in einer markierten Zeile alle anderen markierten Zeilen. Das gilt für Gel, Gel 2, Anzahl, Gerät, Einleuchtnotiz und Prio.
 
 ## Priorität (Prio)
 

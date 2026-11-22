@@ -110,11 +110,13 @@ This applies to “Eos CSV” and “CSV”. Console sync (desktop app) takes ov
 
 Clicking a row selects it and shows the bar. Hold **Shift** to select a range of rows, **Cmd/Ctrl** to add single rows, as in Excel. Alternatively use the checkbox at the left of a row (or drag the mouse over the checkbox column). The checkbox in the table header selects all. A bar shows "{n} selected" and offers:
 
-- **Position**, **Device**, **Gel**, **Prio** – set a value for all selected channels
+- **Position**, **Device**, **Gel**, **Gel 2**, **Quantity**, **Prio** – set a value for all selected channels
 - **Note** – **replace** existing notes or **append** text
 - **Clear** – removes note, device and colour; channel number and DMX address stay
 - **Delete** – removes the channels completely (cannot be undone)
 - **Clear selection**
+
+You can also type straight into the table: when several channels are selected, a change in one selected row is applied to all other selected rows. This works for gel, gel 2, quantity, device, focus note and prio.
 
 ## Priority (Prio)
 
