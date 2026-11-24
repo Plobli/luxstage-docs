@@ -68,7 +68,7 @@ Hast du in der Web-App Kreisgruppen angelegt, zeigt die Liste für jede Gruppe e
 
 ## Suche
 
-Der Tab **Suche** durchsucht Kreise, Notizen und Pläne der Show.
+**Suche** unten in der Leiste öffnet ein Sheet über der aktuellen Ansicht und durchsucht Kreise, Notizen und Pläne der Show. Ein Treffer springt an die passende Stelle, das X oder Wischen nach unten bringt dich zurück, wo du warst.
 
 ## Workflow: Scheinwerfer einleuchten
 

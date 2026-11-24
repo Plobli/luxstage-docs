@@ -68,7 +68,7 @@ If you created circuit groups in the web app, the list shows one card per group 
 
 ## Search
 
-The search field at the top filters the channel list in real time by name, fixture or note.
+**Search** in the bottom bar opens a sheet over the current view and searches channels, notes and plans of the show. A result jumps to the right place; the X or a swipe down takes you back to where you were.
 
 ## Workflow: focusing fixtures
 
