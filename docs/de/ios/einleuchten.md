@@ -1,6 +1,6 @@
 # Kreisliste (iOS)
 
-Der **Kreisliste**-Tab (früher „Einleuchten") ist die zentrale Fokussier-Ansicht der Show. Er zeigt die Kreise der Produktion nach Platzierung sortiert: erst **Gassentürme** (nach Slot), dann **Standorte**, dann **Obermaschinerie** (nach Position auf dem Zug), zuletzt nicht platzierte Kreise, gruppiert nach **Bühnenposition** (z. B. „FOH SL Slot"). Das **Stapel-Symbol** in der Kreisliste schaltet auf Sortierung nach Bühnenposition und Nummer um, ebenso **Nach Nummer sortieren** in den [Einstellungen](./einstellungen#kreisliste). Der Umschalter **Mit Notiz / Alle** wählt, ob nur Kreise mit Notiz oder alle erscheinen. Kreise bearbeitest du per Lang-Drücken, siehe [Bearbeiten](./bearbeiten).
+Der **Kreisliste**-Tab (früher „Einleuchten") ist die zentrale Fokussier-Ansicht der Show. Er zeigt die Kreise der Produktion nach Platzierung sortiert: erst **Gassentürme** (nach Slot), dann **Standorte**, dann **Obermaschinerie** (nach Position auf dem Zug), zuletzt nicht platzierte Kreise, gruppiert nach **Bühnenposition** (z. B. „FOH SL Slot"). Anzeige und Sortierung stellst du im [Filter](#filter-und-ansicht) ein, die Sortierung auch mit **Nach Nummer sortieren** in den [Einstellungen](./einstellungen#kreisliste). Kreise bearbeitest du per Lang-Drücken, siehe [Bearbeiten](./bearbeiten).
 
 ## Kreisanzeige
 
@@ -12,8 +12,37 @@ Jeder Kreis wird als Karte mit folgenden Elementen dargestellt:
 |---------|-----------|
 | **Große Kreisnummer** (z. B. `001`) | Wird rot, sobald der Kreis als fokussiert markiert ist |
 | **Name und Gerät** | z. B. „Person Stage Left · 1/1 · ETC Source Four 26°" |
-| **Fokus-Kreis** (links) | Tippen → Kreis als fokussiert markieren (roter Haken) |
-| **OSC-Toggle** (rechts) | Kreis über OSC auf Full schalten; aktiv = grüner Toggle, Karte rosa hinterlegt |
+| **Fokus-Kreis** (links unten, unter der Nummer) | Tippen → Kreis als fokussiert markieren (roter Haken) |
+| **OSC-Toggle** (rechts unten) | Kreis über OSC auf Full schalten; aktiv = grüner Toggle, Karte rosa hinterlegt |
+
+## Filter und Ansicht
+
+Der **Filter** (Symbol neben dem Fortschritt) bündelt alle Einstellungen der Liste:
+
+- **Anzeigen:** **Mit Einleuchtnotiz**, **Gruppen** (nur wenn es Gruppen gibt) oder **Alle**.
+- **Nach Platzierung sortieren:** An (Standard) sortiert nach Aufbau, aus nach Bühnenposition und Nummer.
+- **Prio** und **Tags**.
+
+Die Zahl am Filter zeigt, wie viele Filter gerade aktiv sind. Steht die Anzeige auf „Gruppen“ oder „Alle“, zählt das mit. **Zurücksetzen** stellt die Anzeige wieder auf „Mit Einleuchtnotiz“ und hebt Prio- und Tag-Filter auf. Bei „Alle“ erscheint neben dem Filter das **+** zum Anlegen eines Kreises. Ob die Verbindung zum Pult steht, siehst du am Punkt im **Pult**-Knopf unten rechts.
+
+Oben rechts neben dem Showtitel wechselst du zwischen **Liste** und **Kacheln**.
+
+## Kachelansicht
+
+In der Kachelansicht steht jeder Kreis als Kachel mit seiner Nummer. Ein grüner Rahmen heißt abgehakt, eine orange Füllung heißt: Das Licht ist am Pult an. Ein Tipp auf eine Kachel öffnet die Kreiskarte mit Notiz, Fotos, Häkchen und Licht-Schalter. Lang drücken öffnet den Kreis zum Bearbeiten.
+
+### Mehrere Kreise auf einmal
+
+So leuchtest du mehrere Scheinwerfer gemeinsam ein:
+
+1. **Auswählen:** Wisch waagerecht über die Kacheln. Alle Kacheln zwischen Start und Finger sind dann ausgewählt, auch über mehrere Reihen. Wenn du auf einer schon ausgewählten Kachel beginnst, wählst du ab. Senkrecht wischen scrollt wie gewohnt. Alternativ tippst du oben auf den **Haken im Kreis** und dann einzelne Kacheln an. Ausgewählte Kacheln haben einen farbigen Rahmen und einen Haken.
+2. **An:** Unten erscheint eine Leiste. **An** schaltet alle ausgewählten Kreise am Pult ein, **Aus** wieder aus. Die Auswahl selbst schaltet noch kein Licht.
+3. Scheinwerfer fokussieren.
+4. **Abhaken:** Hakt alle ausgewählten Kreise ab, schaltet ihr Licht aus und beendet die Auswahl. Sind schon alle abgehakt, heißt der Knopf **Häkchen weg**.
+
+Die **Zahl** links in der Leiste zeigt, wie viele Kreise ausgewählt sind. Ein Tipp darauf zeigt nur noch die ausgewählten Kacheln, ein zweiter Tipp wieder alle. Der gefüllte Haken oben beendet die Auswahl.
+
+Sind zwei oder mehr Kreise an, erscheint der orange Licht-Knopf mit **Abhaken** und **Alle aus** auch in der Kachelansicht.
 
 ## Wo hängt der Kreis?
 

@@ -30,7 +30,7 @@ Neben Notizfeldern steckt ein Mikrofon-Knopf. **Gedrückt halten** = sprechen, *
 
 ## Kreisliste
 
-Der Umschalter **Mit Notiz / Alle** zeigt nur Kreise mit Notiz oder alle Kreise. Ein Tipp auf den Verbindungspunkt (OSC) öffnet die Remote im Vollbild.
+Im **Filter** wählst du, ob nur Kreise mit Einleuchtnotiz, die Gruppen oder alle Kreise erscheinen (siehe [Kreisliste](./einleuchten#filter-und-ansicht)). Der **Pult**-Knopf unten rechts öffnet die Remote im Vollbild.
 
 Unter der Kreisnotiz steht deine **persönliche Anmerkung** in Violett und Kursiv. Nur du siehst sie. Anlegen oder ändern: Kreis lange drücken, dann **Persönliche Anmerkung hinzufügen**. Nur bei bestehenden Kreisen.
 

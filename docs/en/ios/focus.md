@@ -1,6 +1,6 @@
 # Focus (iOS)
 
-The **Focus** tab is the central focusing view of the show. It displays all channels of the production in a list sorted by placement: **towers** first (by slot), then **locations**, then **fly system** (by position on the bar), and finally unplaced channels, grouped by **position** (e.g. "FOH SL Slot"). The **stack icon** in the channel list switches to sorting by stage position and number, as does **Sort by number** in [Settings](./settings#channel-list).
+The **Focus** tab is the central focusing view of the show. It displays all channels of the production in a list sorted by placement: **towers** first (by slot), then **locations**, then **fly system** (by position on the bar), and finally unplaced channels, grouped by **position** (e.g. "FOH SL Slot"). You set view and sorting in the [filter](#filter-and-view); sorting also with **Sort by number** in [Settings](./settings#channel-list).
 
 ## Channel display
 
@@ -12,8 +12,37 @@ Each channel is displayed as a card with the following elements:
 |---------|---------|
 | **Large channel number** (e.g. `001`) | Turns red once the channel is marked as focused |
 | **Name and fixture** | e.g. "Person Stage Left · 1/1 · ETC Source Four 26°" |
-| **Focus circle** (left) | Tap → mark channel as focused (red checkmark) |
-| **OSC toggle** (right) | Switch channel to Full via OSC; active = green toggle, card highlighted in pink |
+| **Focus circle** (bottom left, below the number) | Tap → mark channel as focused (red checkmark) |
+| **OSC toggle** (bottom right) | Switch channel to Full via OSC; active = green toggle, card highlighted in pink |
+
+## Filter and view
+
+The **filter** (icon next to the progress) holds all list settings:
+
+- **Show:** **With lighting note**, **Groups** (only if there are groups) or **All**.
+- **Sort by placement:** on (default) sorts by setup, off by stage position and number.
+- **Priority** and **tags**.
+
+The number on the filter shows how many filters are active. "Groups" or "All" counts too. **Reset** sets the view back to "With lighting note" and clears priority and tag filters. With "All", the **+** for adding a channel appears next to the filter. The dot in the **Console** button at the bottom right shows whether the console is connected.
+
+At the top right next to the show title you switch between **list** and **grid**.
+
+## Grid view
+
+In the grid view each channel is a tile with its number. A green border means checked, an orange fill means the light is on at the console. Tap a tile to open the channel card with note, photos, checkmark and light switch. Long-press to edit the channel.
+
+### Several channels at once
+
+This is how you focus several fixtures together:
+
+1. **Select:** Swipe horizontally across the tiles. All tiles between start and finger are selected, across several rows too. If you start on a tile that is already selected, you deselect. Swiping vertically scrolls as usual. Alternatively, tap the **check circle** at the top and then tap single tiles. Selected tiles have a coloured border and a checkmark.
+2. **On:** A bar appears at the bottom. **On** switches all selected channels on at the console, **Off** switches them off again. Selecting alone does not switch any light.
+3. Focus the fixtures.
+4. **Check:** Checks all selected channels, switches their light off and ends the selection. If all are already checked, the button reads **Uncheck**.
+
+The **number** on the left of the bar shows how many channels are selected. Tap it to show only the selected tiles, tap again to show all. The filled check circle at the top ends the selection.
+
+With two or more channels on, the orange light button with **Check** and **All off** also appears in the grid view.
 
 ## Where is the channel?
 
@@ -63,4 +92,4 @@ The search field at the top filters the channel list in real time by name, fixtu
 
 ## Editing
 
-The tab is now called **Channel list**. The **With note / All** switch shows only channels with a note, or all channels. Long-press a channel to edit it. See [Editing in the apps](./editing).
+The tab is now called **Channel list**. In the [filter](#filter-and-view) you choose whether only channels with a lighting note, the groups or all channels appear. Long-press a channel to edit it. See [Editing in the apps](./editing).

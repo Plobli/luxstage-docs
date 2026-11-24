@@ -30,7 +30,7 @@ Next to note fields there is a microphone button. **Hold** to speak, **release**
 
 ## Channel list
 
-The **With note / All** switch shows only channels with a note, or all channels. Tapping the connection dot (OSC) opens the remote in full screen.
+In the **filter** you choose whether only channels with a lighting note, the groups or all channels appear (see [Focus](./focus#filter-and-view)). The **Console** button at the bottom right opens the remote in full screen.
 
 Below the channel note your **personal annotation** appears in purple italics. Only you can see it. To add or change it, long-press a channel, then tap **Add personal annotation**. Existing channels only.
 
