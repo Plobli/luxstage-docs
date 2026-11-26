@@ -112,6 +112,14 @@ Only users with source **DB** have a **"Delete"** button.
 
 ---
 
+**Storage**
+
+Under **Team** you see how much space your team's photos, drawings and shows use, and how many shows (including the archive) exist. During the trial period you get **1 GB and 20 shows**, afterwards **5 GB and 200 shows**. From 80 % a notice appears.
+
+Once the limit is reached, editing keeps working. From about 110 % you can no longer add new photos, drawing images or shows. To free up space, delete photos or permanently delete shows from the [archive](./archive).
+
+---
+
 **Invite colleagues**
 
 Invites a person to your team by email. There is no password in the email. The person chooses it.

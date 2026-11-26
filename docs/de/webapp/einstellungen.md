@@ -112,6 +112,14 @@ Nur Benutzer mit Quelle **DB** haben einen **„Löschen"**-Button.
 
 ---
 
+**Speicher**
+
+Unter **Team** siehst du, wie viel Platz Fotos, Zeichnungen und Shows deines Teams belegen, und wie viele Shows (mit Archiv) es gibt. Im Testzeitraum stehen **1 GB und 20 Shows** bereit, danach **5 GB und 200 Shows**. Ab 80 % erscheint ein Hinweis.
+
+Ist die Grenze erreicht, geht Bearbeiten weiter. Ab etwa 110 % kannst du keine neuen Fotos, Zeichnungsbilder und Shows mehr anlegen. Platz schaffst du, indem du Fotos löschst oder Shows endgültig aus dem [Archiv](./archiv) löschst.
+
+---
+
 **Kollegen einladen**
 
 Lädt eine Person per E-Mail in dein Team ein. Es gibt kein Passwort in der Mail. Die Person wählt es selbst.

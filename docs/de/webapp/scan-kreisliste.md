@@ -42,6 +42,10 @@ Wurden im Foto keine ausgefüllten Zeilen erkannt, erscheint der Hinweis „Kein
 
 Sollte die KI-Auswertung länger als 45 Sekunden dauern, bricht der Scan ab und zeigt eine Fehlermeldung.
 
+## Grenzen
+
+Damit die Auswertung für alle zuverlässig bleibt, kannst du bis zu **10 Kreislisten pro Stunde** scannen, dein Team bis zu **40 pro Tag**. Ist die Grenze erreicht, nennt LuxStage, wann es weitergeht. Fehlgeschlagene Auswertungen zählen mit.
+
 ## Übernehmen
 
 Klick auf **„Übernehmen (n)"** wendet nur die ausgewählten Änderungen an (n = Anzahl ausgewählter Kreise). Eine Bestätigung zeigt, wie viele Kreise aktualisiert und wie viele neu angelegt wurden.

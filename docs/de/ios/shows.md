@@ -10,6 +10,14 @@ Jede Kachel enthält den **Shownamen** und das **Datum** der Produktion. Shows o
 
 Ein Tippen auf eine Kachel öffnet die Show direkt im **Aufbau**-Tab.
 
+## In der Show
+
+Oben links öffnet das **⋯-Menü** die Aktionen **Show schließen** und **Show wechseln**. So landest du nicht aus Versehen in der Shows-Liste.
+
+Nach einer kurzen Pause (unter vier Stunden, gleicher Arbeitstag, Wechsel um 6 Uhr) öffnet die App wieder deine Show, mit dem zuletzt offenen Reiter. Am nächsten Tag oder nach **Show schließen** startet sie in **Remote**. Dort führt **Weiter in …** zurück in die letzte Show.
+
+Der kleine **Pult**-Knopf unten rechts öffnet **Remote**, **GridDeck** und **Cues** direkt aus der Show. Oben schließt **✕** das Pult wieder.
+
 ## Neue Show anlegen
 
 1. **+**-Button oben rechts antippen

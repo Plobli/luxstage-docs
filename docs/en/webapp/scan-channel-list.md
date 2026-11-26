@@ -40,6 +40,10 @@ Each detected change can be **deselected individually** before it is applied. Th
 
 If no filled-out rows were recognized in the photo, the notice "No filled-out rows detected." appears.
 
+## Limits
+
+To keep the scan reliable for everyone, you can scan up to **10 channel lists per hour**, and your team up to **40 per day**. Once the limit is reached, LuxStage tells you when you can scan again. Failed scans count too.
+
 ## Apply
 
 Clicking **"Apply"** applies only the selected changes. A confirmation shows how many channels were updated and how many were newly created.
