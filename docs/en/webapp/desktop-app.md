@@ -22,8 +22,12 @@ Import, export, history, find, undo and redo are in the menu bar. That is why th
 | | Redo | ⇧⌘Z | Ctrl+Y |
 | | Find … | ⌘F | Ctrl+F |
 | Navigation | Back / Forward | ⌘[ / ⌘] | Ctrl+[ / Ctrl+] |
+| View | Reload | ⌘R | Ctrl+R |
+| | Full screen, zoom | | |
 | Help | Watch the tour again | | |
 | | Documentation | | |
+| | Send error reports | | |
+| | Clear offline storage | | |
 
 In text fields, undo and redo apply to the typed text, otherwise to the show. Open settings with ⌘, (Mac) or Ctrl+, (Windows). The menu items are named in German.
 
@@ -34,3 +38,11 @@ Undo/redo, filter and search sit at the top of the header next to the show name.
 ## Console sync with Eos
 
 The desktop app fetches the patch straight from the console. New channels, addresses and devices land in the channel list without an export file. You choose whether to add new items only, merge, or mirror the console. Details: [Import from EOS](/en/webapp/import-eos).
+
+## Without a network
+
+The desktop app keeps the web app and your shows' data on the computer. If the network drops, you can keep reading your shows. Changes need a connection to the server. Storage is limited to 500 MB. **Help → Clear offline storage** deletes it, for example on a shared computer.
+
+## Error reports
+
+If you allow it, the app sends technical information about crashes and errors to the error service Sentry in the EU, with no names, accounts, shows or photos. It is off by default. Turn it on under **Help → Send error reports**, after a confirmation. The change applies from the next start.
