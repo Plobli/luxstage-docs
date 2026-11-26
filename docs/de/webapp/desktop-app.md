@@ -1,10 +1,11 @@
 # Desktop-App
 
-Die Desktop-App für Windows zeigt dein Team in einem eigenen Fenster. Sie verhält sich wie ein normales Programm: eigene Menüleiste, Tastenkürzel, Fensterposition wird gemerkt. Zusätzlich holt sie den Patch direkt aus dem Eos-Pult.
+Die Desktop-App für Mac und Windows zeigt dein Team in einem eigenen Fenster. Sie verhält sich wie ein normales Programm: eigene Menüleiste, Tastenkürzel, Fensterposition wird gemerkt. Zusätzlich holt sie den Patch direkt aus dem Eos-Pult.
 
 ## Installation
 
 - **Windows:** [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=de-DE). Updates kommen automatisch.
+- **Mac:** [Mac App Store](https://apps.apple.com/app/luxstage/id6760355522). Updates kommen automatisch.
 
 Beim ersten Start gibst du den Namen deines Teams ein, zum Beispiel `mein-theater` für `mein-theater.luxstage.app`. Über **Team wechseln …** im Menü wechselst du später das Team. Ein neues Team legst du direkt auf der Startseite an.
 

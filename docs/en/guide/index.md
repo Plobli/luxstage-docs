@@ -21,7 +21,7 @@ The web application runs in the browser on Mac, Windows, iPad or any other devic
 
 ### LuxStage Desktop
 
-The desktop app for Windows opens your team in its own window. It is available for Windows in the [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=en-US): install without warnings, automatic updates, easy approval by IT. More under [Desktop App](/en/webapp/desktop-app).
+The desktop app for Mac and Windows opens your team in its own window. It is available for Mac in the [Mac App Store](https://apps.apple.com/app/luxstage/id6760355522) and for Windows in the [Microsoft Store](https://apps.microsoft.com/detail/9n4d59hvlwn0?hl=en-US): install without warnings, automatic updates, easy approval by IT. More under [Desktop App](/en/webapp/desktop-app).
 
 ## Quick start in 10 minutes
 
