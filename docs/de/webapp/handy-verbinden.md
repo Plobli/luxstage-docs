@@ -9,7 +9,7 @@ Dein Passwort bleibt dein normaler Login. Der Code spart nur die erste Anmeldung
 1. Öffne die Show-Liste und klicke oben rechts auf **„Handy verbinden"**.
 2. Öffne am iPhone die **Kamera**.
 3. Halte sie auf den QR-Code. Tippe auf den Hinweis.
-4. Die LuxStage-App öffnet sich. Du bist angemeldet und siehst die Show-Liste deines Teams.
+4. Die LuxStage-App öffnet sich und fragt, ob du dich bei deinem Team anmelden willst. Tippe auf **„Anmelden"**. Danach siehst du die Show-Liste deines Teams.
 
 Im Dialog erscheint danach **„Das Handy ist verbunden"**.
 
@@ -27,9 +27,9 @@ Der Code führt dich zum App Store. Lade die App, dann scanne den Code am Comput
 
 Klicke im Dialog auf **„Link per E-Mail an mich"**. Die Mail geht an die E-Mail-Adresse deines Kontos.
 
-Öffne die Mail am Handy und tippe auf den Link. Die App meldet dich an.
+Öffne die Mail am Handy und tippe auf den Link. Die App fragt kurz nach, bei welchem Team du angemeldet wirst. Tippe auf **„Anmelden"**.
 
-- Der Link gilt **7 Tage** und nur **einmal**.
+- Der Link gilt **24 Stunden** und nur **einmal**.
 - Gib den Link nicht weiter.
 - Ist die App noch nicht da, lade sie zuerst. Öffne den Link danach noch einmal.
 

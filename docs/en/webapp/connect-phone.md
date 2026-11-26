@@ -9,7 +9,7 @@ Your password stays your normal login. The code only saves the first sign-in on 
 1. Open the show list and click **"Connect phone"** at the top right.
 2. Open the **Camera** on your iPhone.
 3. Point it at the QR code. Tap the notice.
-4. The LuxStage app opens. You are signed in and see the show list of your team.
+4. The LuxStage app opens and asks whether you want to sign in to your team. Tap **"Sign in"**. Then you see the show list of your team.
 
 The dialog then shows **"Your phone is connected"**.
 
@@ -27,9 +27,9 @@ The code takes you to the App Store. Install the app, then scan the code on your
 
 Click **"Email link to me"** in the dialog. The email goes to the address of your account.
 
-Open the email on your phone and tap the link. The app signs you in.
+Open the email on your phone and tap the link. The app briefly asks which team you will be signed in to. Tap **"Sign in"**.
 
-- The link is valid for **7 days** and works **once**.
+- The link is valid for **24 hours** and works **once**.
 - Do not share the link.
 - If the app is not installed yet, install it first. Then open the link again.
 

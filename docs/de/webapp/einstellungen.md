@@ -13,11 +13,21 @@ Die **Einstellungen** sind über das Zahnrad-Symbol (⚙️) in der Navigation e
 3. **Neues Passwort bestätigen** eingeben
 4. Klick auf **„Passwort ändern"**
 
+Ein neues Passwort braucht mindestens **10 Zeichen**. Sehr verbreitete Passwörter wie „passwort123“ nimmt LuxStage nicht an.
+
 ---
 
 **Abmelden**
 
 Klick auf **„Abmelden"** beendet die aktuelle Sitzung.
+
+---
+
+**Alle anderen Geräte abmelden**
+
+Meldet dich auf allen anderen Handys, Tablets und Browsern ab, zum Beispiel wenn ein Gerät verloren gegangen ist. Das Gerät, an dem du gerade sitzt, bleibt angemeldet. Dein Passwort bleibt gleich.
+
+Unabhängig davon fragt LuxStage spätestens **180 Tage** nach der letzten Anmeldung einmal neu nach deinem Passwort.
 
 ---
 
@@ -77,7 +87,19 @@ Legt fest, wie viele Fotos auf eine A4-Seite passen — wirkt auf Browser-Druck 
 
 **Benutzer**
 
-Liste aller vorhandenen Benutzer deines Teams mit E-Mail-Adresse und Quelle-Badge. LuxStage unterscheidet nicht zwischen verschiedenen Benutzerrollen — jeder eingeladene Benutzer hat dieselben Rechte.
+Liste aller vorhandenen Benutzer deines Teams mit E-Mail-Adresse und Quelle-Badge.
+
+**Inhaber und Mitglieder**
+
+Jedes Team hat einen **Inhaber**, meist die Person, die das Team angelegt hat. Nur der Inhaber kann:
+
+- Kollegen einladen und Einladungen zurückziehen
+- wartende Nutzer freischalten
+- Nutzer entfernen
+- Shows endgültig löschen
+- die Abrechnung verwalten und die Inhaberschaft übertragen
+
+Alle anderen sind **Mitglieder**. Sie legen Shows an, bearbeiten und archivieren sie, ganz wie der Inhaber. Oben unter **Benutzer** steht, welche Rolle du hast und wer Inhaber ist.
 
 Das Badge zeigt die Quelle des Benutzers:
 
@@ -101,3 +123,9 @@ Lädt eine Person per E-Mail in dein Team ein. Es gibt kein Passwort in der Mail
 Der Link gilt **7 Tage** und nur **einmal**. Unter **„Offene Einladungen"** siehst du, wer noch nicht angenommen hat. Mit **„Zurückziehen"** wird der Link ungültig.
 
 Hat die Adresse schon ein Konto im Team, meldet LuxStage das. Ohne E-Mail-Versand auf dem Server gibt es keine Einladungen.
+
+---
+
+**Registrierung über die Anmeldeseite**
+
+Ist der Schalter **„Registrierung erlauben"** an, steht auf der Anmeldeseite eures Teams ein Link zum Registrieren. Wer sich dort einträgt, wartet, bis der Inhaber ihn unter **Benutzer** freischaltet. Der Schalter ist zu Beginn aus, denn die Einladung per Mail ist der sicherere Weg ins Team. Nur der Inhaber kann ihn ändern.

@@ -13,6 +13,8 @@ Change the password for your account:
 3. **Confirm new password**
 4. Click **"Change password"**
 
+A new password needs at least **10 characters**. LuxStage does not accept very common passwords such as "password123".
+
 ---
 
 **Photos per print page**
@@ -26,6 +28,14 @@ Specifies how many photos fit on an A4 page — applies equally to browser print
 **Sign out**
 
 Clicking **"Sign out"** ends the current session.
+
+---
+
+**Sign out all other devices**
+
+Signs you out on all other phones, tablets and browsers, for example if a device was lost. The device you are using stays signed in. Your password stays the same.
+
+In addition, LuxStage asks for your password again at the latest **180 days** after your last sign-in.
 
 ---
 
@@ -77,7 +87,19 @@ Unit for lengths and heights on bars:
 
 **Users**
 
-List of all existing users in your team with email address and a source badge. LuxStage has no separate user roles — every invited user has the same permissions.
+List of all existing users in your team with email address and a source badge.
+
+**Owner and members**
+
+Every team has an **owner**, usually the person who created the team. Only the owner can:
+
+- invite colleagues and withdraw invitations
+- unlock waiting users
+- remove users
+- delete shows permanently
+- manage billing and transfer ownership
+
+Everyone else is a **member**. Members create, edit and archive shows just like the owner. At the top of **Users** you see your role and who the owner is.
 
 The badge shows the user's source:
 
@@ -101,6 +123,12 @@ Invites a person to your team by email. There is no password in the email. The p
 The link is valid for **7 days** and works **once**. Under **"Open invitations"** you see who has not accepted yet. **"Withdraw"** makes the link invalid.
 
 If the address already has an account in the team, LuxStage says so. Without email sending on the server there are no invitations.
+
+---
+
+**Sign-up on the login page**
+
+When **"Allow sign-up"** is on, your team's login page shows a link to sign up. Anyone who signs up there waits until the owner unlocks them under **Users**. The switch is off at first, because inviting by email is the safer way into the team. Only the owner can change it.
 
 ---
 
